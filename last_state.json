@@ -13,12 +13,49 @@
   ],
   "specific_page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
   "specific_page_last_updated": "Unknown",
-  "related_publications": [
+  "desnz_publications": [
+    {
+      "title": "UK ETS: Activity level report template",
+      "url": "https://www.gov.uk/government/publications/uk-ets-activity-level-report-template",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
     {
       "title": "DESNZ: framework documents",
       "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-framework-documents",
-      "found_on": "publications_listing"
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Ofgem framework document",
+      "url": "https://www.gov.uk/government/publications/ofgem-framework-document",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK Low Carbon Hydrogen Standard",
+      "url": "https://www.gov.uk/government/publications/uk-low-carbon-hydrogen-standard-emissions-reporting-and-sustainability-criteria",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Feed-in Tariffs: 2026 modification to the standard conditions of electricity supply licences",
+      "url": "https://www.gov.uk/government/publications/feed-in-tariffs-2026-modification-to-the-standard-conditions-of-electricity-supply-licences",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-06T15:34:54.543010"
+  "check_time": "2026-02-06T15:40:57.868521"
 }
