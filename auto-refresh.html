@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto-Refresh Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .status {
+            padding: 15px;
+            background: #e3f2fd;
+            border-left: 4px solid #2196F3;
+            margin: 20px 0;
+        }
+        .controls {
+            margin: 20px 0;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            background: #2196F3;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        button:hover {
+            background: #1976D2;
+        }
+        input {
+            padding: 8px;
+            width: 100px;
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Auto-Refresh Page</h1>
+        
+        <div class="status">
+            <strong>Status:</strong> <span id="status">Active</span><br>
+            <strong>Last Refresh:</strong> <span id="lastRefresh">-</span><br>
+            <strong>Next Refresh:</strong> <span id="nextRefresh">-</span><br>
+            <strong>Refresh Count:</strong> <span id="count">0</span>
+        </div>
+
+        <div class="controls">
+            <label>
+                Refresh Interval (seconds):
+                <input type="number" id="interval" value="30" min="5" max="3600">
+            </label>
+            <button onclick="updateInterval()">Update</button>
+            <button onclick="toggleRefresh()">Pause/Resume</button>
+            <button onclick="manualRefresh()">Refresh Now</button>
+        </div>
+
+        <div style="margin-top: 20px; padding: 15px; background: #fff3e0; border-radius: 4px;">
+            <strong>Note:</strong> The page will automatically refresh every <span id="displayInterval">30</span> seconds.
+            Be mindful of server load when setting short intervals.
+        </div>
+    </div>
+
+    <script>
+        let refreshInterval = 30; // seconds
+        let refreshTimer;
+        let countdownTimer;
+        let isPaused = false;
+        let refreshCount = 0;
+        let nextRefreshTime;
+
+        function updateDisplay() {
+            document.getElementById('lastRefresh').textContent = new Date().toLocaleTimeString();
+            document.getElementById('count').textContent = refreshCount;
+            document.getElementById('displayInterval').textContent = refreshInterval;
+        }
+
+        function updateCountdown() {
+            if (isPaused) return;
+            
+            const now = Date.now();
+            const remaining = Math.ceil((nextRefreshTime - now) / 1000);
+            
+            if (remaining > 0) {
+                document.getElementById('nextRefresh').textContent = `in ${remaining} seconds`;
+            } else {
+                document.getElementById('nextRefresh').textContent = 'now';
+            }
+        }
+
+        function startRefresh() {
+            if (refreshTimer) clearInterval(refreshTimer);
+            if (countdownTimer) clearInterval(countdownTimer);
+            
+            nextRefreshTime = Date.now() + (refreshInterval * 1000);
+            
+            refreshTimer = setInterval(() => {
+                if (!isPaused) {
+                    refreshCount++;
+                    location.reload();
+                }
+            }, refreshInterval * 1000);
+
+            countdownTimer = setInterval(updateCountdown, 1000);
+            updateCountdown();
+        }
+
+        function updateInterval() {
+            const newInterval = parseInt(document.getElementById('interval').value);
+            if (newInterval >= 5 && newInterval <= 3600) {
+                refreshInterval = newInterval;
+                startRefresh();
+                updateDisplay();
+                alert(`Refresh interval updated to ${refreshInterval} seconds`);
+            } else {
+                alert('Please enter a value between 5 and 3600 seconds');
+            }
+        }
+
+        function toggleRefresh() {
+            isPaused = !isPaused;
+            document.getElementById('status').textContent = isPaused ? 'Paused' : 'Active';
+            if (!isPaused) {
+                nextRefreshTime = Date.now() + (refreshInterval * 1000);
+            }
+        }
+
+        function manualRefresh() {
+            refreshCount++;
+            location.reload();
+        }
+
+        // Load refresh count from localStorage
+        const storedCount = localStorage.getItem('refreshCount');
+        if (storedCount) {
+            refreshCount = parseInt(storedCount);
+        }
+
+        // Save count before refresh
+        window.addEventListener('beforeunload', () => {
+            localStorage.setItem('refreshCount', refreshCount);
+        });
+
+        // Initialize
+        updateDisplay();
+        startRefresh();
+    </script>
+</body>
+</html>
