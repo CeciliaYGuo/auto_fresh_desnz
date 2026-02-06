@@ -1,7 +1,5 @@
 {
-  "page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
-  "last_updated": "Unknown",
-  "documents": [
+  "specific_page_documents": [
     {
       "title": "",
       "url": "https://assets.publishing.service.gov.uk/media/686d2950fe1a249e937cbe23/desnz-2025-parameters-letter-neso.pdf",
@@ -13,5 +11,8 @@
       "type": "document"
     }
   ],
-  "check_time": "2026-02-06T14:41:19.438189"
+  "specific_page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
+  "specific_page_last_updated": "Unknown",
+  "related_publications": [],
+  "check_time": "2026-02-06T15:22:21.728276"
 }
