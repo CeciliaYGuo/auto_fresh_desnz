@@ -13,6 +13,12 @@
   ],
   "specific_page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
   "specific_page_last_updated": "Unknown",
-  "related_publications": [],
-  "check_time": "2026-02-06T15:22:21.728276"
+  "related_publications": [
+    {
+      "title": "DESNZ: framework documents",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-framework-documents",
+      "found_on": "publications_listing"
+    }
+  ],
+  "check_time": "2026-02-06T15:26:36.229575"
 }
