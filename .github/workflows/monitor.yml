@@ -3,7 +3,7 @@ name: Monitor Gov Page
 on:
   schedule:
     # Run every 10 minutes
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:  # Allow manual trigger
 
 # Add permissions for the workflow to commit and push
