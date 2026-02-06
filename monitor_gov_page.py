@@ -9,7 +9,7 @@ from datetime import datetime
 
 # Configuration - Monitor both specific page and parent listing
 SPECIFIC_URL = "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2025"
-PARENT_URL = "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+PARENT_URL = "https://www.gov.uk/search/all?organisations[]=department-for-energy-security-and-net-zero&order=updated-newest&parent=department-for-energy-security-and-net-zero"
 STATE_FILE = "last_state.json"
 
 # Keywords to look for in publications listing
