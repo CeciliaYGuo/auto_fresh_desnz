@@ -7,13 +7,10 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 
-# Configuration - Monitor both specific page and parent listing
+# Configuration
 SPECIFIC_URL = "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2025"
 PARENT_URL = "https://www.gov.uk/search/all?organisations[]=department-for-energy-security-and-net-zero&order=updated-newest&parent=department-for-energy-security-and-net-zero"
 STATE_FILE = "last_state.json"
-
-# Keywords to look for in publications listing
-KEYWORDS = ["capacity market", "auction parameters", "desnz", "neso", "capacity auction"]
 
 # Email configuration
 SENDER_EMAIL = os.environ.get('SENDER_EMAIL')
@@ -75,8 +72,8 @@ def fetch_page_content(url):
         print(f"Error fetching page {url}: {e}")
         return None
 
-def fetch_publications_listing():
-    """Fetch the parent publications page and find capacity market related publications"""
+def fetch_desnz_publications():
+    """Fetch ALL publications from DESNZ search page"""
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -88,27 +85,55 @@ def fetch_publications_listing():
         
         publications = []
         
-        # Look for publication links
-        pub_links = soup.find_all('a', class_='govuk-link')
+        # Look for search results - gov.uk search results are in specific divs
+        search_results = soup.find_all('li', class_='gem-c-document-list__item')
         
-        for link in pub_links:
-            title = link.get_text(strip=True).lower()
-            href = link.get('href', '')
-            
-            # Check if this publication matches our keywords
-            if any(keyword in title for keyword in KEYWORDS):
-                # Skip if it's not a publication link
-                if not href.startswith('/government/publications/'):
-                    continue
-                    
-                full_url = f"https://www.gov.uk{href}" if not href.startswith('http') else href
+        for result in search_results:
+            link = result.find('a', class_='gem-c-document-list__item-title')
+            if link:
+                title = link.get_text(strip=True)
+                href = link.get('href', '')
                 
-                pub_info = {
-                    'title': link.get_text(strip=True),
-                    'url': full_url,
-                    'found_on': 'publications_listing'
-                }
-                publications.append(pub_info)
+                # Only include publication links
+                if href.startswith('/government/publications/'):
+                    full_url = f"https://www.gov.uk{href}"
+                    
+                    # Get the description/metadata if available
+                    description_elem = result.find('p', class_='gem-c-document-list__item-description')
+                    description = description_elem.get_text(strip=True) if description_elem else ""
+                    
+                    # Get the date if available
+                    time_elem = result.find('time')
+                    date = time_elem.get_text(strip=True) if time_elem else "Unknown"
+                    
+                    pub_info = {
+                        'title': title,
+                        'url': full_url,
+                        'description': description,
+                        'date': date,
+                        'found_on': 'desnz_search'
+                    }
+                    publications.append(pub_info)
+        
+        # If no results with that class, try alternative structure
+        if not publications:
+            # Try finding all links that point to publications
+            all_links = soup.find_all('a', href=True)
+            for link in all_links:
+                href = link.get('href', '')
+                if href.startswith('/government/publications/'):
+                    full_url = f"https://www.gov.uk{href}"
+                    title = link.get_text(strip=True)
+                    
+                    if title and full_url not in [p['url'] for p in publications]:
+                        pub_info = {
+                            'title': title,
+                            'url': full_url,
+                            'description': "",
+                            'date': "Unknown",
+                            'found_on': 'desnz_search'
+                        }
+                        publications.append(pub_info)
         
         # Remove duplicates
         seen = set()
@@ -121,7 +146,7 @@ def fetch_publications_listing():
         return unique_pubs
     
     except Exception as e:
-        print(f"Error fetching publications listing: {e}")
+        print(f"Error fetching DESNZ publications: {e}")
         return []
 
 def load_previous_state():
@@ -145,7 +170,7 @@ def compare_states(previous, current):
         return {
             'is_first_run': True,
             'new_documents': current.get('specific_page_documents', []),
-            'new_publications': current.get('related_publications', []),
+            'new_publications': current.get('desnz_publications', []),
             'message': "First run - monitoring started"
         }
     
@@ -153,7 +178,6 @@ def compare_states(previous, current):
         'is_first_run': False,
         'new_documents': [],
         'new_publications': [],
-        'changed_publications': [],
         'page_updated': False
     }
     
@@ -164,21 +188,12 @@ def compare_states(previous, current):
     new_doc_urls = set(curr_docs.keys()) - set(prev_docs.keys())
     changes['new_documents'] = [curr_docs[url] for url in new_doc_urls]
     
-    # Check for new or changed publications on listing page
-    prev_pubs = {pub['url']: pub for pub in previous.get('related_publications', [])}
-    curr_pubs = {pub['url']: pub for pub in current.get('related_publications', [])}
+    # Check for new publications on DESNZ search page
+    prev_pubs = {pub['url']: pub for pub in previous.get('desnz_publications', [])}
+    curr_pubs = {pub['url']: pub for pub in current.get('desnz_publications', [])}
     
     new_pub_urls = set(curr_pubs.keys()) - set(prev_pubs.keys())
     changes['new_publications'] = [curr_pubs[url] for url in new_pub_urls]
-    
-    # Check if any publication titles changed (indicating page rename/update)
-    for url in set(curr_pubs.keys()) & set(prev_pubs.keys()):
-        if curr_pubs[url]['title'] != prev_pubs[url]['title']:
-            changes['changed_publications'].append({
-                'url': url,
-                'old_title': prev_pubs[url]['title'],
-                'new_title': curr_pubs[url]['title']
-            })
     
     # Check if main page was updated
     changes['page_updated'] = previous.get('specific_page_last_updated') != current.get('specific_page_last_updated')
@@ -195,49 +210,56 @@ def send_email_alert(changes, current_state):
         msg = MIMEMultipart('alternative')
         
         if changes['is_first_run']:
-            msg['Subject'] = "🔔 Monitoring Started - DESNZ Capacity Market"
+            msg['Subject'] = "🔔 Monitoring Started - DESNZ Publications"
+            
+            # Show first 10 publications for initial email
+            pubs_to_show = current_state.get('desnz_publications', [])[:10]
+            pubs_list_text = "\n".join([f"  - {pub['title']}\n    Published: {pub['date']}" 
+                                       for pub in pubs_to_show])
             
             text = f"""
-Monitoring Started for DESNZ Capacity Market Publications
-========================================================
+Monitoring Started for DESNZ Publications
+=========================================
 
-SPECIFIC PAGE: {SPECIFIC_URL}
-PARENT LISTING: {PARENT_URL}
+SPECIFIC PAGE (Capacity Market): {SPECIFIC_URL}
+ALL DESNZ PUBLICATIONS: {PARENT_URL}
 
 Currently tracking:
-- {len(current_state.get('specific_page_documents', []))} documents on specific page
-- {len(current_state.get('related_publications', []))} related publications on listing page
+- {len(current_state.get('specific_page_documents', []))} documents on capacity market page
+- {len(current_state.get('desnz_publications', []))} DESNZ publications (showing first 10 below)
 
 You will receive alerts for:
-✓ New documents on the specific page
-✓ New capacity market publications on the listing page
-✓ Changes to publication titles/URLs
+✓ New documents on the capacity market page
+✓ ANY new publication from DESNZ
+
+Recent DESNZ Publications:
+{pubs_list_text}
 
 ---
 Started at: {current_state['check_time']}
 This is an automated message from your GitHub page monitor.
             """
             
-            pubs_list = "".join([f"<li><a href='{pub['url']}'>{pub['title']}</a></li>" 
-                                for pub in current_state.get('related_publications', [])])
+            pubs_list_html = "".join([f"<li><strong>{pub['title']}</strong><br>Published: {pub['date']}<br><a href='{pub['url']}'>{pub['url']}</a></li>" 
+                                for pub in pubs_to_show])
             
             html = f"""
 <html>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
     <h2 style="color: #0066cc;">✅ Monitoring Started</h2>
-    <p><strong>DESNZ Capacity Market Publications</strong></p>
+    <p><strong>DESNZ Publications Monitor</strong></p>
     
     <div style="background: #f5f5f5; padding: 15px; border-left: 4px solid #0066cc; margin: 20px 0;">
-        <p><strong>Specific page:</strong> <a href="{SPECIFIC_URL}">View Page</a></p>
-        <p><strong>Parent listing:</strong> <a href="{PARENT_URL}">View Listing</a></p>
+        <p><strong>Capacity Market page:</strong> <a href="{SPECIFIC_URL}">View Page</a></p>
+        <p><strong>All DESNZ publications:</strong> <a href="{PARENT_URL}">View Search</a></p>
         <p><strong>Documents tracked:</strong> {len(current_state.get('specific_page_documents', []))}</p>
-        <p><strong>Related publications:</strong> {len(current_state.get('related_publications', []))}</p>
+        <p><strong>DESNZ publications tracked:</strong> {len(current_state.get('desnz_publications', []))}</p>
     </div>
     
-    <h3>Related Publications Being Monitored:</h3>
-    <ul>{pubs_list}</ul>
+    <h3>Recent DESNZ Publications (First 10):</h3>
+    <ul>{pubs_list_html}</ul>
     
-    <p>You will receive alerts for new documents, publications, or changes.</p>
+    <p>You will receive alerts for any new documents or publications.</p>
     
     <hr style="margin-top: 30px; border: none; border-top: 1px solid #ddd;">
     <p style="font-size: 12px; color: #666;">This is an automated message from your GitHub page monitor.</p>
@@ -246,59 +268,53 @@ This is an automated message from your GitHub page monitor.
             """
         else:
             # Check if there are any changes worth reporting
-            has_changes = (changes['new_documents'] or 
-                          changes['new_publications'] or 
-                          changes['changed_publications'])
+            has_changes = (changes['new_documents'] or changes['new_publications'])
             
             if not has_changes:
                 return False  # No changes, don't send email
             
-            msg['Subject'] = "🚨 ALERT: Changes Detected - DESNZ Capacity Market"
+            msg['Subject'] = "🚨 ALERT: New DESNZ Publications Detected"
             
             alerts = []
             alerts_html = []
             
             if changes['new_documents']:
-                alerts.append(f"\n📄 NEW DOCUMENTS on specific page ({len(changes['new_documents'])}):")
+                alerts.append(f"\n📄 NEW DOCUMENTS on Capacity Market page ({len(changes['new_documents'])}):")
                 for doc in changes['new_documents']:
                     alerts.append(f"  - {doc['title']}")
                     alerts.append(f"    {doc['url']}")
                 
-                alerts_html.append(f"<h3 style='color: #d32f2f;'>📄 New Documents ({len(changes['new_documents'])})</h3><ul>")
+                alerts_html.append(f"<h3 style='color: #d32f2f;'>📄 New Capacity Market Documents ({len(changes['new_documents'])})</h3><ul>")
                 for doc in changes['new_documents']:
                     alerts_html.append(f"<li><strong>{doc['title']}</strong><br><a href='{doc['url']}'>{doc['url']}</a></li>")
                 alerts_html.append("</ul>")
             
             if changes['new_publications']:
-                alerts.append(f"\n📰 NEW PUBLICATIONS on listing page ({len(changes['new_publications'])}):")
+                alerts.append(f"\n📰 NEW DESNZ PUBLICATIONS ({len(changes['new_publications'])}):")
                 for pub in changes['new_publications']:
                     alerts.append(f"  - {pub['title']}")
+                    if pub.get('date'):
+                        alerts.append(f"    Published: {pub['date']}")
+                    if pub.get('description'):
+                        alerts.append(f"    {pub['description'][:100]}...")
                     alerts.append(f"    {pub['url']}")
                 
-                alerts_html.append(f"<h3 style='color: #ff6f00;'>📰 New Publications ({len(changes['new_publications'])})</h3><ul>")
+                alerts_html.append(f"<h3 style='color: #ff6f00;'>📰 New DESNZ Publications ({len(changes['new_publications'])})</h3><ul>")
                 for pub in changes['new_publications']:
-                    alerts_html.append(f"<li><strong>{pub['title']}</strong><br><a href='{pub['url']}'>{pub['url']}</a></li>")
-                alerts_html.append("</ul>")
-            
-            if changes['changed_publications']:
-                alerts.append(f"\n⚠️ CHANGED PUBLICATIONS ({len(changes['changed_publications'])}):")
-                for change in changes['changed_publications']:
-                    alerts.append(f"  - Old: {change['old_title']}")
-                    alerts.append(f"    New: {change['new_title']}")
-                    alerts.append(f"    URL: {change['url']}")
-                
-                alerts_html.append(f"<h3 style='color: #f57c00;'>⚠️ Changed Publications ({len(changes['changed_publications'])})</h3><ul>")
-                for change in changes['changed_publications']:
-                    alerts_html.append(f"<li><strong>Old:</strong> {change['old_title']}<br><strong>New:</strong> {change['new_title']}<br><a href='{change['url']}'>{change['url']}</a></li>")
+                    desc = f"<br><em>{pub['description'][:150]}...</em>" if pub.get('description') else ""
+                    date_info = f"<br>Published: {pub['date']}" if pub.get('date') else ""
+                    alerts_html.append(f"<li><strong>{pub['title']}</strong>{date_info}{desc}<br><a href='{pub['url']}'>{pub['url']}</a></li>")
                 alerts_html.append("</ul>")
             
             text = f"""
-CHANGES DETECTED on DESNZ Capacity Market Pages!
-================================================
+NEW DESNZ PUBLICATIONS DETECTED!
+=================================
 
 {''.join(alerts)}
 
 Checked at: {current_state['check_time']}
+
+View all DESNZ publications: {PARENT_URL}
 
 ---
 This is an automated message from your GitHub page monitor.
@@ -307,16 +323,16 @@ This is an automated message from your GitHub page monitor.
             html = f"""
 <html>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-    <h2 style="color: #d32f2f;">🚨 Changes Detected!</h2>
-    <p><strong>DESNZ Capacity Market Publications</strong></p>
+    <h2 style="color: #d32f2f;">🚨 New Publications Detected!</h2>
+    <p><strong>DESNZ Publications Alert</strong></p>
     
     <div style="background: #fff3cd; padding: 15px; border-left: 4px solid #d32f2f; margin: 20px 0;">
         {''.join(alerts_html)}
     </div>
     
     <div style="background: #f5f5f5; padding: 15px; margin: 20px 0;">
-        <p><strong>Specific page:</strong> <a href="{SPECIFIC_URL}">View Page</a></p>
-        <p><strong>Parent listing:</strong> <a href="{PARENT_URL}">View Listing</a></p>
+        <p><strong>Capacity Market page:</strong> <a href="{SPECIFIC_URL}">View Page</a></p>
+        <p><strong>All DESNZ publications:</strong> <a href="{PARENT_URL}">View Search</a></p>
         <p><strong>Checked:</strong> {current_state['check_time']}</p>
     </div>
     
@@ -346,29 +362,29 @@ This is an automated message from your GitHub page monitor.
         return False
 
 def main():
-    print(f"Starting enhanced monitor check at {datetime.now()}")
-    print(f"Checking specific URL: {SPECIFIC_URL}")
-    print(f"Checking parent URL: {PARENT_URL}")
+    print(f"Starting DESNZ publications monitor at {datetime.now()}")
+    print(f"Checking capacity market page: {SPECIFIC_URL}")
+    print(f"Checking ALL DESNZ publications: {PARENT_URL}")
     
     # Fetch specific page content
     specific_page = fetch_page_content(SPECIFIC_URL)
     
     if not specific_page:
-        print("Failed to fetch specific page content")
+        print("Failed to fetch capacity market page content")
         return
     
-    print(f"Found {len(specific_page['documents'])} documents on specific page")
+    print(f"Found {len(specific_page['documents'])} documents on capacity market page")
     
-    # Fetch related publications from parent listing
-    related_pubs = fetch_publications_listing()
-    print(f"Found {len(related_pubs)} related publications on listing page")
+    # Fetch ALL DESNZ publications
+    desnz_pubs = fetch_desnz_publications()
+    print(f"Found {len(desnz_pubs)} DESNZ publications on search page")
     
     # Build current state
     current_state = {
         'specific_page_documents': specific_page['documents'],
         'specific_page_title': specific_page['page_title'],
         'specific_page_last_updated': specific_page['last_updated'],
-        'related_publications': related_pubs,
+        'desnz_publications': desnz_pubs,
         'check_time': datetime.now().isoformat()
     }
     
@@ -381,27 +397,23 @@ def main():
     # Report findings
     if changes['is_first_run']:
         print("First run - establishing baseline")
-        print(f"Monitoring {len(related_pubs)} related publications")
+        print(f"Monitoring {len(desnz_pubs)} DESNZ publications")
         send_email_alert(changes, current_state)
     else:
         alerts_found = False
         
         if changes['new_documents']:
-            print(f"🚨 ALERT: {len(changes['new_documents'])} new document(s) on specific page!")
+            print(f"🚨 ALERT: {len(changes['new_documents'])} new document(s) on capacity market page!")
             for doc in changes['new_documents']:
                 print(f"  - {doc['title']}")
             alerts_found = True
         
         if changes['new_publications']:
-            print(f"🚨 ALERT: {len(changes['new_publications'])} new related publication(s)!")
+            print(f"🚨 ALERT: {len(changes['new_publications'])} new DESNZ publication(s)!")
             for pub in changes['new_publications']:
                 print(f"  - {pub['title']}")
-            alerts_found = True
-        
-        if changes['changed_publications']:
-            print(f"⚠️ WARNING: {len(changes['changed_publications'])} publication(s) changed!")
-            for change in changes['changed_publications']:
-                print(f"  - {change['old_title']} → {change['new_title']}")
+                if pub.get('date'):
+                    print(f"    Published: {pub['date']}")
             alerts_found = True
         
         if not alerts_found:
