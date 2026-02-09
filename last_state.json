@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Apply for the Heat Network Efficiency Scheme (HNES)",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "title": "Local Power Plan",
+      "url": "https://www.gov.uk/government/publications/local-power-plan",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Heat Network Efficiency Scheme (HNES): overview",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes/heat-network-efficiency-scheme-hnes-overview",
+      "title": "Local Power Plan (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/local-power-plan/local-power-plan-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Apply for the Heat Network Efficiency Scheme (HNES)",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK ETS: Activity level report template",
-      "url": "https://www.gov.uk/government/publications/uk-ets-activity-level-report-template",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-09T22:07:08.758901"
+  "check_time": "2026-02-09T22:53:38.422382"
 }
