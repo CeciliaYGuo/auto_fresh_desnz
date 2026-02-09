@@ -15,15 +15,36 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Lynemouth Power Station: agreement between DESNZ and EP Lynemouth Ltd",
-      "url": "https://www.gov.uk/government/publications/lynemouth-power-station-agreement-between-desnz-and-ep-lynemouth-ltd",
+      "title": "UK Emissions Trading Scheme for installations: how to comply",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-for-installations-how-to-comply",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "DESNZ and EP Lynemouth Ltd: Heads of Terms \u2013 summary",
-      "url": "https://www.gov.uk/government/publications/lynemouth-power-station-agreement-between-desnz-and-ep-lynemouth-ltd/desnz-and-ep-lynemouth-ltd-heads-of-terms-summary",
+      "title": "UK Emissions Trading Scheme for installations: how to comply",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-for-installations-how-to-comply/uk-emissions-trading-scheme-for-installations-how-to-comply",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Renewable Energy Planning Database: quarterly extract",
+      "url": "https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat networks pipelines",
+      "url": "https://www.gov.uk/government/publications/heat-networks-pipelines",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Lynemouth Power Station: agreement between DESNZ and EP Lynemouth Ltd",
+      "url": "https://www.gov.uk/government/publications/lynemouth-power-station-agreement-between-desnz-and-ep-lynemouth-ltd",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,21 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Ambient gamma radiation dose rates across the UK",
-      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Feed-in Tariffs: 2026 modification to the standard conditions of electricity supply licences",
-      "url": "https://www.gov.uk/government/publications/feed-in-tariffs-2026-modification-to-the-standard-conditions-of-electricity-supply-licences",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-09T09:31:40.399311"
+  "check_time": "2026-02-09T10:35:25.874281"
 }
