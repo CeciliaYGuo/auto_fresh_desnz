@@ -15,15 +15,36 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Capacity Market auction parameters: letter from DESNZ to NESO, February 2026",
-      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-february-2026",
+      "title": "Local net zero: support for local authorities and communities",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Final auction parameters, T-1 and T-4 Capacity Market auctions",
-      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-february-2026/final-auction-parameters-t-1-and-t-4-capacity-market-auctions",
+      "title": "Local net zero: central support for local authorities and communities",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/local-net-zero-central-support-for-local-authorities-and-communities",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Community Energy Fund projects (February 2025)",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-february-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "GBE Community Fund projects (February 2026)",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/gbe-community-fund-projects-february-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Capacity Market auction parameters: letter from DESNZ to NESO, February 2026",
+      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-february-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -48,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK Emissions Trading Scheme for installations: how to comply",
-      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-for-installations-how-to-comply",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-10T11:57:40.516164"
+  "check_time": "2026-02-10T13:05:01.931680"
 }
