@@ -15,29 +15,36 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Outer Dowsing Offshore Wind Farm: development consent order, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/outer-dowsing-offshore-wind-farm-development-consent-order-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Local net zero: support for local authorities and communities",
       "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Local net zero: central support for local authorities and communities",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/local-net-zero-central-support-for-local-authorities-and-communities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Community Energy Fund projects (February 2025)",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-february-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "GBE Community Fund projects (February 2026)",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/gbe-community-fund-projects-february-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -62,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Apply for the Heat Network Efficiency Scheme (HNES)",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-10T16:42:12.529343"
+  "check_time": "2026-02-10T17:43:25.224039"
 }
