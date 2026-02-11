@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Local Power Plan",
+      "url": "https://www.gov.uk/government/publications/local-power-plan",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Local Power Plan (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/local-power-plan/local-power-plan-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Reformed National Pricing (RNP): NESO calls for input on proposed electricity market reforms",
       "url": "https://www.gov.uk/government/publications/reformed-national-pricing-rnp-neso-calls-for-input-on-proposed-electricity-market-reforms",
       "description": "",
@@ -24,13 +38,6 @@
     {
       "title": "Carbon capture, usage and storage (CCUS): business models",
       "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "November 2021: Updates on the industrial carbon capture and dispatchable power agreement business models",
-      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models/november-2021-updates-on-the-industrial-carbon-capture-and-dispatchable-power-agreement-business-models",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Capacity Market auction parameters: letter from DESNZ to NESO, February 2026",
-      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-february-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-11T12:33:33.607599"
+  "check_time": "2026-02-11T13:56:58.669725"
 }
