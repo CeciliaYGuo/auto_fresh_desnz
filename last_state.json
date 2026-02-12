@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Green Heat Network Fund (GHNF): Round 11 application guidance",
+      "url": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Local Power Plan",
       "url": "https://www.gov.uk/government/publications/local-power-plan",
       "description": "",
@@ -27,14 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Carbon capture, usage and storage (CCUS): business models",
-      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-12T11:40:34.450195"
+  "check_time": "2026-02-12T12:05:14.612270"
 }
