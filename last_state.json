@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ public appointments: privacy notice",
+      "url": "https://www.gov.uk/government/publications/desnz-public-appointments-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ public appointments: privacy notice",
+      "url": "https://www.gov.uk/government/publications/desnz-public-appointments-privacy-notice/desnz-public-appointments-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Smart Meter System based Internet of Things applications programme: successful projects",
       "url": "https://www.gov.uk/government/publications/smart-meter-system-based-internet-of-things-applications-programme-successful-projects",
       "description": "",
@@ -50,5 +64,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-12T16:30:20.621670"
+  "check_time": "2026-02-12T17:34:36.753313"
 }
