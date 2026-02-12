@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Smart Meter System based Internet of Things applications programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/smart-meter-system-based-internet-of-things-applications-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Smart Meter Based Internet of Things Applications: Phase 2 Projects",
+      "url": "https://www.gov.uk/government/publications/smart-meter-system-based-internet-of-things-applications-programme-successful-projects/smart-meter-based-internet-of-things-applications-phase-2-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Smart Meter Based Internet of Things Applications: Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/smart-meter-system-based-internet-of-things-applications-programme-successful-projects/smart-meter-based-internet-of-things-applications-phase-1-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Green Heat Network Fund (GHNF): Round 11 application guidance",
       "url": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf",
       "description": "",
@@ -27,14 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Reformed National Pricing (RNP): NESO calls for input on proposed electricity market reforms",
-      "url": "https://www.gov.uk/government/publications/reformed-national-pricing-rnp-neso-calls-for-input-on-proposed-electricity-market-reforms",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-12T15:28:34.069809"
+  "check_time": "2026-02-12T16:30:20.621670"
 }
