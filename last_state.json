@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CCUS East Coast Cluster: Teesside selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS ECC Teesside selection process: clarification questions (updated 13 February 2026)",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process/ccus-ecc-teesside-selection-process-clarification-questions-updated-13-february-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ public appointments: privacy notice",
       "url": "https://www.gov.uk/government/publications/desnz-public-appointments-privacy-notice",
       "description": "",
@@ -36,33 +50,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Smart Meter Based Internet of Things Applications: Phase 2 Projects",
-      "url": "https://www.gov.uk/government/publications/smart-meter-system-based-internet-of-things-applications-programme-successful-projects/smart-meter-based-internet-of-things-applications-phase-2-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Smart Meter Based Internet of Things Applications: Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/smart-meter-system-based-internet-of-things-applications-programme-successful-projects/smart-meter-based-internet-of-things-applications-phase-1-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Green Heat Network Fund (GHNF): Round 11 application guidance",
       "url": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Local Power Plan",
-      "url": "https://www.gov.uk/government/publications/local-power-plan",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-13T08:58:04.846981"
+  "check_time": "2026-02-13T09:40:57.479404"
 }
