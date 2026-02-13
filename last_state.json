@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Space based solar power",
+      "url": "https://www.gov.uk/government/publications/space-based-solar-power-de-risking-the-pathway-to-net-zero",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "CCUS East Coast Cluster: Teesside selection process",
       "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
       "description": "",
@@ -36,13 +43,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "DESNZ public appointments: privacy notice",
-      "url": "https://www.gov.uk/government/publications/desnz-public-appointments-privacy-notice/desnz-public-appointments-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Smart Meter System based Internet of Things applications programme: successful projects",
       "url": "https://www.gov.uk/government/publications/smart-meter-system-based-internet-of-things-applications-programme-successful-projects",
       "description": "",
@@ -57,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-13T11:59:10.988932"
+  "check_time": "2026-02-13T13:00:52.164399"
 }
