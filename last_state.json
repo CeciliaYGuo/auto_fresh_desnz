@@ -15,26 +15,40 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Heat Network Technical Assurance Scheme (HNTAS): technical feedback process",
+      "url": "https://www.gov.uk/government/publications/heat-network-technical-assurance-scheme-hntas-technical-feedback-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Network Technical Assurance Scheme (HNTAS): technical feedback process - guidance (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/heat-network-technical-assurance-scheme-hntas-technical-feedback-process/heat-network-technical-assurance-scheme-hntas-technical-feedback-process-guidance-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat networks regulation: technical standards",
+      "url": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Network Technical Assurance Scheme (HNTAS)",
+      "url": "https://www.gov.uk/government/publications/heat-networks-regulation-technical-standards/heat-network-technical-assurance-scheme-hntas",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK\u2013California climate and energy agreement",
       "url": "https://www.gov.uk/government/publications/uk-california-climate-and-energy-agreement",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Global Clean Power Alliance: finance mission update (November 2025)",
-      "url": "https://www.gov.uk/government/publications/global-clean-power-alliance-finance-mission-update-november-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-16T13:44:30.646243"
+  "check_time": "2026-02-16T14:29:21.797141"
 }
