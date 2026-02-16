@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Heat Network Technical Assurance Scheme (HNTAS): technical feedback process",
-      "url": "https://www.gov.uk/government/publications/heat-network-technical-assurance-scheme-hntas-technical-feedback-process",
+      "title": "Capacity Market reform: Multiple Price Capacity Market proposals \u2013 update",
+      "url": "https://www.gov.uk/government/publications/capacity-market-reform-multiple-price-capacity-market-proposals-update",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Heat Network Technical Assurance Scheme (HNTAS): technical feedback process - guidance (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/heat-network-technical-assurance-scheme-hntas-technical-feedback-process/heat-network-technical-assurance-scheme-hntas-technical-feedback-process-guidance-accessible-webpage",
+      "title": "Capacity Market reform: MPCM update",
+      "url": "https://www.gov.uk/government/publications/capacity-market-reform-multiple-price-capacity-market-proposals-update/capacity-market-reform-mpcm-update",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Network Technical Assurance Scheme (HNTAS): technical feedback process",
+      "url": "https://www.gov.uk/government/publications/heat-network-technical-assurance-scheme-hntas-technical-feedback-process",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,14 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK\u2013California climate and energy agreement",
-      "url": "https://www.gov.uk/government/publications/uk-california-climate-and-energy-agreement",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-16T16:28:51.311805"
+  "check_time": "2026-02-16T17:09:58.820668"
 }
