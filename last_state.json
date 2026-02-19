@@ -13,6 +13,14 @@
   ],
   "specific_page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
   "specific_page_last_updated": "Unknown",
-  "desnz_publications": [],
-  "check_time": "2026-02-19T11:12:25.522261"
+  "desnz_publications": [
+    {
+      "title": "UK ETS: Waste quarterly data report template",
+      "url": "https://www.gov.uk/government/publications/uk-ets-waste-quarterly-data-report-template",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    }
+  ],
+  "check_time": "2026-02-19T11:53:52.433608"
 }
