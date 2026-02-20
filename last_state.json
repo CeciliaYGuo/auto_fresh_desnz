@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UKAEA prompt payment return data from 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK ETS Allocation Table for operators of installations",
       "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
       "description": "",
@@ -29,5 +36,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-20T08:29:32.911124"
+  "check_time": "2026-02-20T09:06:12.482212"
 }
