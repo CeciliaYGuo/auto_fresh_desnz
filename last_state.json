@@ -15,6 +15,41 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Climate Change Agreements: technical annex",
+      "url": "https://www.gov.uk/government/publications/climate-change-agreements-technical-guidance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Climate Change Agreements: statutory guidance",
+      "url": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Climate Change Agreements: statutory guidance 2026 (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance/climate-change-agreements-statutory-guidance-2026-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Climate Change Agreements: statutory guidance, scheme extension 2023 (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance/climate-change-agreements-scheme-extension-2023-statutory-guidance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Climate Change Agreements: statutory guidance 2013 (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance/climate-change-agreements-statutory-guidance-2013-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Longfield Solar Farm: non-material change, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/longfield-solar-farm-non-material-change-planning-act-2008",
       "description": "",
@@ -27,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: workforce management information, January 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-january-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-24T15:33:34.029395"
+  "check_time": "2026-02-24T16:37:51.000387"
 }
