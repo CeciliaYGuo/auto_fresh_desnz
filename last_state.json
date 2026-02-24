@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Longfield Solar Farm: non-material change, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/longfield-solar-farm-non-material-change-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Sizewell C Project: summary business case",
       "url": "https://www.gov.uk/government/publications/sizewell-c-project-summary-business-case",
       "description": "",
@@ -29,5 +36,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-24T14:35:18.428883"
+  "check_time": "2026-02-24T15:33:34.029395"
 }
