@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Sizewell C Project: summary business case",
+      "url": "https://www.gov.uk/government/publications/sizewell-c-project-summary-business-case",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ: workforce management information, January 2026",
       "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-january-2026",
       "description": "",
@@ -22,5 +29,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-24T11:33:51.810131"
+  "check_time": "2026-02-24T12:04:04.012720"
 }
