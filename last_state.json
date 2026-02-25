@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Heat networks optimisation: guidance to help operators improve performance",
+      "url": "https://www.gov.uk/government/publications/heat-networks-optimisation-guidance-to-help-operators-improve-performance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat network optimisation guidance videos",
+      "url": "https://www.gov.uk/government/publications/heat-networks-optimisation-guidance-to-help-operators-improve-performance/heat-network-optimisation-guidance-videos",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat networks: operation and maintenance upskilling videos",
+      "url": "https://www.gov.uk/government/publications/heat-networks-optimisation-guidance-to-help-operators-improve-performance/heat-networks-operation-and-maintenance-upskilling-videos",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Climate Change Agreements: technical annex",
       "url": "https://www.gov.uk/government/publications/climate-change-agreements-technical-guidance",
       "description": "",
@@ -24,27 +45,6 @@
     {
       "title": "Climate Change Agreements: statutory guidance",
       "url": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Climate Change Agreements: statutory guidance 2026 (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance/climate-change-agreements-statutory-guidance-2026-accessible-webpage",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Climate Change Agreements: statutory guidance, scheme extension 2023 (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance/climate-change-agreements-scheme-extension-2023-statutory-guidance",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Climate Change Agreements: statutory guidance 2013 (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/climate-change-agreements-statutory-guidance/climate-change-agreements-statutory-guidance-2013-accessible-webpage",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -64,5 +64,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-25T09:00:11.680902"
+  "check_time": "2026-02-25T09:58:03.500315"
 }
