@@ -15,6 +15,97 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Feed in Tariffs (FITs) determinations",
+      "url": "https://www.gov.uk/government/publications/feed-in-tariffs-fits-determinations",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Feed in Tariffs (FITs) determinations - Year 17 (1 April 2026 to 31 March 2027)",
+      "url": "https://www.gov.uk/government/publications/feed-in-tariffs-fits-determinations/feed-in-tariffs-fits-determinations-year-16-1-april-2025-to-31-march-2026-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme (GGSS): expenditure forecast statements and tariff change notices",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 January 2026",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-january-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 October 2025",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-october-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 July 2025",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-july-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 30 April 2025",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-30-april-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 January 2025",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-january-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 October 2024",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-october-2024",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 July 2024",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-july-2024",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 30 April 2024",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-30-april-2024",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 January 2024",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-january-2024",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 October 2023",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-october-2023",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Household Energy Efficiency statistics methodology note",
       "url": "https://www.gov.uk/government/publications/household-energy-efficiency-statistics-methodology-note",
       "description": "",
@@ -22,5 +113,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-26T09:36:55.936032"
+  "check_time": "2026-02-26T10:27:47.044388"
 }
