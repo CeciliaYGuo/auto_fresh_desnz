@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK Industrial Fusion Solutions prompt payment return data",
+      "url": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK\u2013China clean energy partnership",
       "url": "https://www.gov.uk/government/publications/uk-china-clean-energy-partnership",
       "description": "",
@@ -38,13 +45,6 @@
     {
       "title": "CCUS East Coast Cluster: Teesside selection process",
       "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS ECC Teesside selection process: clarification questions (updated 27 February 2026)",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process/ccus-ecc-teesside-selection-process-clarification-questions-updated-13-february-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -83,14 +83,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Household Energy Efficiency statistics methodology note",
-      "url": "https://www.gov.uk/government/publications/household-energy-efficiency-statistics-methodology-note",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-27T14:39:26.210116"
+  "check_time": "2026-02-27T15:22:46.992202"
 }
