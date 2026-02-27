@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CCUS East Coast Cluster: Teesside selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS ECC Teesside selection process: clarification questions (updated 27 February 2026)",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process/ccus-ecc-teesside-selection-process-clarification-questions-updated-13-february-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ: spending over \u00a325,000, September 2025",
       "url": "https://www.gov.uk/government/publications/desnz-spending-over-25000-september-2025",
       "description": "",
@@ -57,5 +71,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-02-27T09:03:38.534639"
+  "check_time": "2026-02-27T09:54:58.674388"
 }
