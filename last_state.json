@@ -15,19 +15,26 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "UK Industrial Fusion Solutions prompt payment return data",
-      "url": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
+      "title": "H2East Pipeline: Humber to Nottinghamshire - section 35 direction, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/h2east-pipeline-humber-to-nottinghamshire-section-35-direction-planning-act-2008",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "UK\u2013China clean energy partnership",
-      "url": "https://www.gov.uk/government/publications/uk-china-clean-energy-partnership",
+      "title": "Home Energy Model: technical documentation",
+      "url": "https://www.gov.uk/government/publications/home-energy-model-technical-documentation",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK Industrial Fusion Solutions prompt payment return data",
+      "url": "https://www.gov.uk/government/publications/uk-industrial-fusion-solutions-prompt-payment-return-data",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-03T14:24:57.274434"
+  "check_time": "2026-03-03T15:09:34.757998"
 }
