@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UKAEA prompt payment return data from 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "H2East Pipeline: Humber to Nottinghamshire - section 35 direction, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/h2east-pipeline-humber-to-nottinghamshire-section-35-direction-planning-act-2008",
       "description": "",
@@ -36,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-03T15:09:34.757998"
+  "check_time": "2026-03-03T15:57:43.750544"
 }
