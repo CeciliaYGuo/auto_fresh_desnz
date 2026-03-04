@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Advanced nuclear pipeline: how to apply",
+      "url": "https://www.gov.uk/government/publications/advanced-nuclear-pipeline-how-to-apply",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "United Kingdom advanced nuclear pipeline: guidance and expectations for project proposers (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/advanced-nuclear-pipeline-how-to-apply/united-kingdom-advanced-nuclear-pipeline-guidance-and-expectations-for-project-proposers-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UKAEA prompt payment return data from 2025 to 2026",
       "url": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
       "description": "",
@@ -22,5 +36,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-04T10:53:33.753041"
+  "check_time": "2026-03-04T11:19:40.081638"
 }
