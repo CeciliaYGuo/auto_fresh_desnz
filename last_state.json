@@ -15,26 +15,19 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "East Anglia Two offshore wind farm: post-consent condition discharge, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/east-anglia-two-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: Teesside selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
-      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-06T14:01:24.925259"
+  "check_time": "2026-03-06T14:42:57.724414"
 }
