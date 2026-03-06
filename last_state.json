@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "East Anglia Two offshore wind farm: post-consent condition discharge, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/east-anglia-two-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "CCUS East Coast Cluster: Teesside selection process",
       "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
       "description": "",
@@ -27,14 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-06T12:02:04.821498"
+  "check_time": "2026-03-06T13:14:42.177691"
 }
