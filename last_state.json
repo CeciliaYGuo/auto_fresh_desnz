@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Consumer market for heating oil: letter to UK and Ireland Fuel Distributors Association",
+      "url": "https://www.gov.uk/government/publications/consumer-market-for-heating-oil-letter-to-uk-and-ireland-fuel-distributors-association",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
       "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
       "description": "",
@@ -27,14 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "East Anglia Two offshore wind farm: post-consent condition discharge, Planning Act 2008",
-      "url": "https://www.gov.uk/government/publications/east-anglia-two-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-09T16:10:53.179708"
+  "check_time": "2026-03-09T17:08:11.709280"
 }
