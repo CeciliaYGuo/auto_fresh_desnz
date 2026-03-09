@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Guidance for fixed bottom and floating offshore wind projects on monitoring the implementation of Clean Industry Bonus (draft)",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance/guidance-for-fixed-bottom-and-floating-offshore-wind-projects-on-monitoring-the-implementation-of-clean-industry-bonus-draft",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Ambient gamma radiation dose rates across the UK",
       "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
       "description": "",
@@ -29,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-09T08:40:17.489482"
+  "check_time": "2026-03-09T09:30:58.062661"
 }
