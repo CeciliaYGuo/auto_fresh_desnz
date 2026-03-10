@@ -15,26 +15,19 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Capacity Market auction: Auction Monitor report for T-1 auction for 2026 to 2027",
+      "url": "https://www.gov.uk/government/publications/capacity-market-auction-auction-monitor-report-for-t-1-auction-for-2026-to-2027",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Consumer market for heating oil: letter to UK and Ireland Fuel Distributors Association",
       "url": "https://www.gov.uk/government/publications/consumer-market-for-heating-oil-letter-to-uk-and-ireland-fuel-distributors-association",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Ambient gamma radiation dose rates across the UK",
-      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-10T08:56:30.173718"
+  "check_time": "2026-03-10T09:36:59.495043"
 }
