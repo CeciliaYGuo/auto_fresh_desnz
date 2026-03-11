@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Advanced nuclear framework",
+      "url": "https://www.gov.uk/government/publications/advanced-nuclear-framework",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Advanced nuclear framework (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/advanced-nuclear-framework/advanced-nuclear-framework-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Fframwaith niwclear uwch (tudalen we hygyrch)",
+      "url": "https://www.gov.uk/government/publications/advanced-nuclear-framework/fframwaith-niwclear-uwch-tudalen-we-hygyrch",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Green home finance products: homeowner awareness and attitudes",
       "url": "https://www.gov.uk/government/publications/green-home-finance-products-homeowner-awareness-and-attitudes",
       "description": "",
@@ -69,21 +90,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Decarbonising owner-occupied homes for vulnerable groups",
-      "url": "https://www.gov.uk/government/publications/decarbonising-owner-occupied-homes-for-vulnerable-groups",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Understanding mixed tenure in English social housing",
-      "url": "https://www.gov.uk/government/publications/understanding-mixed-tenure-in-english-social-housing",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-11T13:42:43.822645"
+  "check_time": "2026-03-11T14:31:06.759914"
 }
