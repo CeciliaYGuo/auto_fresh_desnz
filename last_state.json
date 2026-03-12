@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Hydrogen Network Code: industry engagement",
+      "url": "https://www.gov.uk/government/publications/hydrogen-network-code",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Hydrogen Network Code - industry engagement",
+      "url": "https://www.gov.uk/government/publications/hydrogen-network-code/hydrogen-network-code-industry-engagement",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Heat Pump Ready Programme: successful projects",
       "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
       "description": "",
@@ -78,5 +92,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-12T11:08:55.811702"
+  "check_time": "2026-03-12T11:41:06.299119"
 }
