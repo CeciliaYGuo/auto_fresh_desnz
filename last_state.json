@@ -15,6 +15,34 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Nuclear Decommissioning Authority: 2026 review",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Independent review of the Nuclear Decommissioning Authority (NDA): terms of reference",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review/independent-review-of-the-nuclear-decommissioning-authority-nda-terms-of-reference",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Nuclear Decommissioning Authority review: privacy notice",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-review-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Nuclear Decommissioning Authority review: privacy notice",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-review-privacy-notice/nuclear-decommissioning-authority-review-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Hydrogen Network Code: industry engagement",
       "url": "https://www.gov.uk/government/publications/hydrogen-network-code",
       "description": "",
@@ -27,21 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes: Local Grant \u2013 guidance for local authorities",
-      "url": "https://www.gov.uk/government/publications/warm-homes-local-grant",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Summary of questions included in the DESNZ/BEIS Public Attitudes Tracker since Autumn 2021",
-      "url": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnzbeis-public-attitudes-tracker-since-autumn-2021",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-12T14:36:26.241115"
+  "check_time": "2026-03-12T15:35:41.477893"
 }
