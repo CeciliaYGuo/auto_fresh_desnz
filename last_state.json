@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK Emissions Trading Scheme (UK ETS): a policy overview",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Nuclear Decommissioning Authority: 2026 review",
       "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review",
       "description": "",
@@ -34,28 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Nuclear Decommissioning Authority review: privacy notice",
-      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-review-privacy-notice/nuclear-decommissioning-authority-review-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Hydrogen Network Code: industry engagement",
-      "url": "https://www.gov.uk/government/publications/hydrogen-network-code",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat Pump Ready Programme: successful projects",
-      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-12T16:37:31.570418"
+  "check_time": "2026-03-12T17:29:12.482320"
 }
