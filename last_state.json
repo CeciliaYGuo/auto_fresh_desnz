@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK fusion strategy 2026",
+      "url": "https://www.gov.uk/government/publications/uk-fusion-strategy-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Funding breakdown for fusion energy",
+      "url": "https://www.gov.uk/government/publications/uk-fusion-strategy-2026/funding-breakdown-for-fusion-energy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Capacity Market auction: T-4 Auction Monitor Report for 2029 to 2030",
       "url": "https://www.gov.uk/government/publications/capacity-market-auction-t-4-auction-monitor-report-for-2029-to-2030",
       "description": "",
@@ -41,14 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Nuclear Decommissioning Authority: 2026 review",
-      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-16T11:34:19.099004"
+  "check_time": "2026-03-16T12:06:09.464348"
 }
