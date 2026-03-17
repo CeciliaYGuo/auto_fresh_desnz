@@ -15,22 +15,50 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Participating in the UK Emissions Trading Scheme (UK ETS)",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Participating in the UK ETS",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/participating-in-the-uk-ets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK ETS installations, hospitals, small emitters and ultra-small emitters: baseline data collection, 1 April \u2013 30 June 2025",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/uk-ets-installations-hospitals-small-emitters-and-ultra-small-emitters-baseline-data-collection-1-april-30-june-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK Emissions Trading Scheme: offshore installations \u2013 location codes",
+      "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UN/LOCODEs: codes and abbreviations used",
+      "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode/unlocodes-codes-and-abbreviations-used",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Justification of Practices Involving Ionising Radiation application register",
+      "url": "https://www.gov.uk/government/publications/justification-of-practices-involving-ionising-radiation-application-register",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Green Distilleries Competition (closed to applications)",
       "url": "https://www.gov.uk/government/publications/green-distilleries-competition",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Distilleries Competition: Phase 1 feasibility reports",
-      "url": "https://www.gov.uk/government/publications/green-distilleries-competition/green-distilleries-competition-projects-selected-for-phase-1",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Distilleries Competition: Phase 2 (Demonstration) successful projects",
-      "url": "https://www.gov.uk/government/publications/green-distilleries-competition/green-distilleries-competition-phase-2-demonstration-successful-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -41,70 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "IETF Phase 3, Spring 2024: competition winners",
-      "url": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners/ietf-phase-3-spring-2024-competition-winners",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "IETF Phase 2, Autumn 2022: competition winners",
-      "url": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners/ietf-phase-2-autumn-2022-competition-winners",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "IETF Phase 2, Summer 2022: competition winners",
-      "url": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners/ietf-phase-2-summer-2022-competition-winners",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "IETF Phase 2, Spring 2022: competition winners",
-      "url": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners/ietf-phase-2-spring-2022-competition-winners",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "IETF Phase 2, Autumn 2021: competition winners",
-      "url": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners/ietf-phase-2-autumn-2021-competition-winners",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "IETF Phase 1, Spring 2021: competition winners",
-      "url": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners/ietf-phase-1-spring-2021-competition-winners",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "IETF Phase 1, Summer 2020: competition winners",
-      "url": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners/ietf-phase-1-summer-2020-competition-winners",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK fusion strategy 2026",
-      "url": "https://www.gov.uk/government/publications/uk-fusion-strategy-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Capacity Market auction: T-4 Auction Monitor Report for 2029 to 2030",
-      "url": "https://www.gov.uk/government/publications/capacity-market-auction-t-4-auction-monitor-report-for-2029-to-2030",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-17T11:07:28.599421"
+  "check_time": "2026-03-17T11:51:54.308871"
 }
