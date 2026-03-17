@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Green Distilleries Competition (closed to applications)",
+      "url": "https://www.gov.uk/government/publications/green-distilleries-competition",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Distilleries Competition: Phase 1 feasibility reports",
+      "url": "https://www.gov.uk/government/publications/green-distilleries-competition/green-distilleries-competition-projects-selected-for-phase-1",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Distilleries Competition: Phase 2 (Demonstration) successful projects",
+      "url": "https://www.gov.uk/government/publications/green-distilleries-competition/green-distilleries-competition-phase-2-demonstration-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Industrial Energy Transformation Fund (IETF): competition winners",
       "url": "https://www.gov.uk/government/publications/industrial-energy-transformation-fund-ietf-competition-winners",
       "description": "",
@@ -85,5 +106,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-17T09:27:04.663021"
+  "check_time": "2026-03-17T10:12:09.520504"
 }
