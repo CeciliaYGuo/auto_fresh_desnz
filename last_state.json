@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Energy Company Obligation (ECO4) supplier grant awards: privacy notice",
+      "url": "https://www.gov.uk/government/publications/energy-company-obligation-eco4-supplier-grant-awards-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Company Obligation (ECO4) supplier grant awards: privacy notice",
+      "url": "https://www.gov.uk/government/publications/energy-company-obligation-eco4-supplier-grant-awards-privacy-notice/energy-company-obligation-eco4-supplier-grant-awards-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Electricity generation costs 2025",
       "url": "https://www.gov.uk/government/publications/electricity-generation-costs-2025",
       "description": "",
@@ -41,28 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Participating in the UK Emissions Trading Scheme (UK ETS)",
-      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK Emissions Trading Scheme: offshore installations \u2013 location codes",
-      "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Justification of Practices Involving Ionising Radiation application register",
-      "url": "https://www.gov.uk/government/publications/justification-of-practices-involving-ionising-radiation-application-register",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-18T10:37:17.944328"
+  "check_time": "2026-03-18T11:28:40.149659"
 }
