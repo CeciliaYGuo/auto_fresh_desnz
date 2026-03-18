@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Warm Homes Plan",
+      "url": "https://www.gov.uk/government/publications/warm-homes-plan",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Warm Homes Plan: Technical annex",
+      "url": "https://www.gov.uk/government/publications/warm-homes-plan/warm-homes-plan-technical-annex",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Warm Homes Plan: Public Sector Equality Duty Equality Impact Assessment",
+      "url": "https://www.gov.uk/government/publications/warm-homes-plan/warm-homes-plan-public-sector-equality-duty-equality-impact-assessment",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Energy Company Obligation (ECO4) supplier grant awards: privacy notice",
       "url": "https://www.gov.uk/government/publications/energy-company-obligation-eco4-supplier-grant-awards-privacy-notice",
       "description": "",
@@ -48,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Domestic energy tariff reductions 2026: ministerial direction",
-      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-ministerial-direction",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-18T14:51:58.854299"
+  "check_time": "2026-03-18T15:55:32.775664"
 }
