@@ -15,22 +15,15 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Household Energy Efficiency statistics methodology note",
+      "url": "https://www.gov.uk/government/publications/household-energy-efficiency-statistics-methodology-note",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Warm Homes Plan",
       "url": "https://www.gov.uk/government/publications/warm-homes-plan",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes Plan: Technical annex",
-      "url": "https://www.gov.uk/government/publications/warm-homes-plan/warm-homes-plan-technical-annex",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes Plan: Public Sector Equality Duty Equality Impact Assessment",
-      "url": "https://www.gov.uk/government/publications/warm-homes-plan/warm-homes-plan-public-sector-equality-duty-equality-impact-assessment",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -41,35 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Energy Company Obligation (ECO4) supplier grant awards: privacy notice",
-      "url": "https://www.gov.uk/government/publications/energy-company-obligation-eco4-supplier-grant-awards-privacy-notice/energy-company-obligation-eco4-supplier-grant-awards-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity generation costs 2025",
-      "url": "https://www.gov.uk/government/publications/electricity-generation-costs-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Review of AI deployment in the electricity networks: terms of reference",
-      "url": "https://www.gov.uk/government/publications/review-of-ai-deployment-in-the-electricity-networks",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Domestic energy tariff reductions 2026: guidance for energy suppliers",
-      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-19T08:56:53.949482"
+  "check_time": "2026-03-19T09:37:16.865389"
 }
