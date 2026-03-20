@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Estimating renewable generation and homes powered: methodology",
+      "url": "https://www.gov.uk/government/publications/estimating-renewable-generation-and-homes-powered-methodology",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Estimating renewable generation and homes powered: methodology note",
+      "url": "https://www.gov.uk/government/publications/estimating-renewable-generation-and-homes-powered-methodology/estimating-renewable-generation-and-homes-powered-methodology-note",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Household Energy Efficiency statistics methodology note",
       "url": "https://www.gov.uk/government/publications/household-energy-efficiency-statistics-methodology-note",
       "description": "",
@@ -27,14 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Energy Company Obligation (ECO4) supplier grant awards: privacy notice",
-      "url": "https://www.gov.uk/government/publications/energy-company-obligation-eco4-supplier-grant-awards-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-20T08:49:59.805054"
+  "check_time": "2026-03-20T09:26:17.551791"
 }
