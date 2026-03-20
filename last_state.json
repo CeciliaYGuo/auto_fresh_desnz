@@ -15,15 +15,15 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "CCUS East Coast Cluster: Teesside selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "title": "UK ETS 2025 Baseline Data Collection and HSE/USE scheme status: how to meet the data submission requirements",
+      "url": "https://www.gov.uk/government/publications/uk-ets-2025-baseline-data-collection-and-hseuse-scheme-status-how-to-meet-the-data-submission-requirements",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "CCUS ECC Teesside selection process: clarification questions (updated 20 March 2026)",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process/ccus-ecc-teesside-selection-process-clarification-questions-updated-13-february-2026",
+      "title": "CCUS East Coast Cluster: Teesside selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,14 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Household Energy Efficiency statistics methodology note",
-      "url": "https://www.gov.uk/government/publications/household-energy-efficiency-statistics-methodology-note",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-20T13:18:14.412050"
+  "check_time": "2026-03-20T14:07:36.708793"
 }
