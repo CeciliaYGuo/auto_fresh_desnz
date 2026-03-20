@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Estimating renewable generation and homes powered: methodology",
-      "url": "https://www.gov.uk/government/publications/estimating-renewable-generation-and-homes-powered-methodology",
+      "title": "CCUS East Coast Cluster: Teesside selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Estimating renewable generation and homes powered: methodology note",
-      "url": "https://www.gov.uk/government/publications/estimating-renewable-generation-and-homes-powered-methodology/estimating-renewable-generation-and-homes-powered-methodology-note",
+      "title": "CCUS ECC Teesside selection process: clarification questions (updated 20 March 2026)",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process/ccus-ecc-teesside-selection-process-clarification-questions-updated-13-february-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Estimating renewable generation and homes powered: methodology",
+      "url": "https://www.gov.uk/government/publications/estimating-renewable-generation-and-homes-powered-methodology",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,14 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes Plan",
-      "url": "https://www.gov.uk/government/publications/warm-homes-plan",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-20T09:26:17.551791"
+  "check_time": "2026-03-20T10:02:10.439767"
 }
