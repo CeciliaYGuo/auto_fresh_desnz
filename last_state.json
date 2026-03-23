@@ -15,15 +15,15 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Energy digitalisation framework: a vision for a coordinated and connected energy system",
-      "url": "https://www.gov.uk/government/publications/energy-digitalisation-framework-a-vision-for-a-coordinated-and-connected-energy-system",
+      "title": "DESNZ: workforce management information, February 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-february-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Energy digitalisation framework: a vision for a coordinated and connected energy system (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/energy-digitalisation-framework-a-vision-for-a-coordinated-and-connected-energy-system/energy-digitalisation-framework-a-vision-for-a-coordinated-and-connected-energy-system-accessible-webpage",
+      "title": "Energy digitalisation framework: a vision for a coordinated and connected energy system",
+      "url": "https://www.gov.uk/government/publications/energy-digitalisation-framework-a-vision-for-a-coordinated-and-connected-energy-system",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,14 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: Teesside selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-23T09:41:53.971009"
+  "check_time": "2026-03-23T10:35:19.545720"
 }
