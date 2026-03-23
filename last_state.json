@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Energy digitalisation framework: a vision for a coordinated and connected energy system",
+      "url": "https://www.gov.uk/government/publications/energy-digitalisation-framework-a-vision-for-a-coordinated-and-connected-energy-system",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy digitalisation framework: a vision for a coordinated and connected energy system (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/energy-digitalisation-framework-a-vision-for-a-coordinated-and-connected-energy-system/energy-digitalisation-framework-a-vision-for-a-coordinated-and-connected-energy-system-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK ETS 2025 Baseline Data Collection and HSE/USE scheme status: how to meet the data submission requirements",
       "url": "https://www.gov.uk/government/publications/uk-ets-2025-baseline-data-collection-and-hseuse-scheme-status-how-to-meet-the-data-submission-requirements",
       "description": "",
@@ -27,14 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Estimating renewable generation and homes powered: methodology",
-      "url": "https://www.gov.uk/government/publications/estimating-renewable-generation-and-homes-powered-methodology",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-23T08:36:59.557207"
+  "check_time": "2026-03-23T09:41:53.971009"
 }
