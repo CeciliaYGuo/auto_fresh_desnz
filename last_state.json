@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Annual statement of emissions for 2024",
+      "url": "https://www.gov.uk/government/publications/annual-statement-of-emissions-for-2024",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Annual statement of emissions for 2024 (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/annual-statement-of-emissions-for-2024/annual-statement-of-emissions-for-2024-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ: workforce management information, February 2026",
       "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-february-2026",
       "description": "",
@@ -27,14 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK ETS 2025 Baseline Data Collection and HSE/USE scheme status: how to meet the data submission requirements",
-      "url": "https://www.gov.uk/government/publications/uk-ets-2025-baseline-data-collection-and-hseuse-scheme-status-how-to-meet-the-data-submission-requirements",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-23T16:12:44.569452"
+  "check_time": "2026-03-23T17:08:25.956111"
 }
