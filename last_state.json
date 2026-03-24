@@ -15,15 +15,43 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Design and construct new builds to enable smart meter installations",
-      "url": "https://www.gov.uk/government/publications/design-and-construct-new-builds-to-enable-smart-meter-installations",
+      "title": "DESNZ small and medium-sized enterprise (SME) action plan: 2025 to 2028",
+      "url": "https://www.gov.uk/government/publications/desnz-small-and-medium-sized-enterprise-sme-action-plan-2025-to-2028",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Guidance on designing and constructing new builds to be smart-meter-ready (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/design-and-construct-new-builds-to-enable-smart-meter-installations/guidance-on-designing-and-constructing-new-builds-to-be-smart-meter-ready-accessible-webpage",
+      "title": "DESNZ SME action plan: 2025 to 2028",
+      "url": "https://www.gov.uk/government/publications/desnz-small-and-medium-sized-enterprise-sme-action-plan-2025-to-2028/desnz-sme-action-plan-2025-to-2028",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ procurement policy",
+      "url": "https://www.gov.uk/government/publications/desnz-procurement-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ procurement policy",
+      "url": "https://www.gov.uk/government/publications/desnz-procurement-policy/desnz-procurement-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Alternative Energy Markets Innovation Programme: projects",
+      "url": "https://www.gov.uk/government/publications/alternative-energy-markets-innovation-programme-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Design and construct new builds to enable smart meter installations",
+      "url": "https://www.gov.uk/government/publications/design-and-construct-new-builds-to-enable-smart-meter-installations",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: workforce management information, February 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-february-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-24T09:27:23.196799"
+  "check_time": "2026-03-24T10:12:48.199858"
 }
