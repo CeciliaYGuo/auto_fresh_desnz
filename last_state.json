@@ -15,15 +15,36 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Hydrogen heating: HSE assessment of the safety evidence",
-      "url": "https://www.gov.uk/government/publications/hydrogen-heating-role-of-hse",
+      "title": "Hydrogen heating: overview",
+      "url": "https://www.gov.uk/government/publications/hydrogen-heating-overview",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "HSE\u2019s role on 100% hydrogen heating",
-      "url": "https://www.gov.uk/government/publications/hydrogen-heating-role-of-hse/hses-role-on-100-hydrogen-heating",
+      "title": "Hydrogen heating: overview",
+      "url": "https://www.gov.uk/government/publications/hydrogen-heating-overview/hydrogen-heating-overview--2",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Hydrogen Skills and Standards for Heat",
+      "url": "https://www.gov.uk/government/publications/hydrogen-skills-and-standards-for-heat",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Hydrogen Skills and Standards for Heat: summaries of workstreams undertaking technical research and evidence gathering",
+      "url": "https://www.gov.uk/government/publications/hydrogen-skills-and-standards-for-heat/hydrogen-skills-and-standards-for-heat-summaries-of-workstreams-undertaking-technical-research-and-evidence-gathering",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Hydrogen heating: HSE assessment of the safety evidence",
+      "url": "https://www.gov.uk/government/publications/hydrogen-heating-role-of-hse",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,21 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: business appointment rules advice, October to December 2025",
-      "url": "https://www.gov.uk/government/publications/desnz-business-appointment-rules-advice-october-to-december-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: business appointment rules advice, July to September 2025",
-      "url": "https://www.gov.uk/government/publications/desnz-business-appointment-rules-advice-july-to-september-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-24T17:14:33.896076"
+  "check_time": "2026-03-24T18:07:30.228421"
 }
