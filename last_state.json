@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Hydrogen heating: HSE assessment of the safety evidence",
+      "url": "https://www.gov.uk/government/publications/hydrogen-heating-role-of-hse",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "HSE\u2019s role on 100% hydrogen heating",
+      "url": "https://www.gov.uk/government/publications/hydrogen-heating-role-of-hse/hses-role-on-100-hydrogen-heating",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ: special advisers' gifts, hospitality and meetings, October to December 2025",
       "url": "https://www.gov.uk/government/publications/desnz-special-advisers-gifts-hospitality-and-meetings-october-to-december-2025",
       "description": "",
@@ -55,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a3500, October 2025",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-500-october-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-24T16:15:10.669701"
+  "check_time": "2026-03-24T17:14:33.896076"
 }
