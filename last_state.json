@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Home Energy Model: Future Homes Standard assessment: technical documentation",
+      "url": "https://www.gov.uk/government/publications/home-energy-model-future-homes-standard-assessment-technical-documentation",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
       "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
       "description": "",
@@ -36,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-24T14:01:11.583762"
+  "check_time": "2026-03-24T15:04:53.537020"
 }
