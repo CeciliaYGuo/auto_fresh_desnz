@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Clean energy projects map",
+      "url": "https://www.gov.uk/government/publications/clean-energy-projects-map",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Next steps for electricity interconnection in Great Britain",
       "url": "https://www.gov.uk/government/publications/next-steps-for-electricity-interconnection-in-great-britain",
       "description": "",
@@ -50,13 +57,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Hydrogen Skills and Standards for Heat: summaries of workstreams undertaking technical research and evidence gathering",
-      "url": "https://www.gov.uk/government/publications/hydrogen-skills-and-standards-for-heat/hydrogen-skills-and-standards-for-heat-summaries-of-workstreams-undertaking-technical-research-and-evidence-gathering",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Hydrogen heating: HSE assessment of the safety evidence",
       "url": "https://www.gov.uk/government/publications/hydrogen-heating-role-of-hse",
       "description": "",
@@ -76,14 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a3500, December 2025",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-500-december-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-25T09:26:37.144991"
+  "check_time": "2026-03-25T10:12:31.306898"
 }
