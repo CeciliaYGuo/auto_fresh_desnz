@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Next steps for electricity interconnection in Great Britain",
+      "url": "https://www.gov.uk/government/publications/next-steps-for-electricity-interconnection-in-great-britain",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Next steps for electricity interconnection in Great Britain (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/next-steps-for-electricity-interconnection-in-great-britain/next-steps-for-electricity-interconnection-in-great-britain-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Hydrogen heating: overview",
       "url": "https://www.gov.uk/government/publications/hydrogen-heating-overview",
       "description": "",
@@ -69,14 +83,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a3500, November 2025",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-500-november-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-25T08:28:25.946397"
+  "check_time": "2026-03-25T09:26:37.144991"
 }
