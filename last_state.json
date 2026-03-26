@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Guidance for fixed bottom and floating offshore wind projects on monitoring the implementation of Clean Industry Bonus (draft)",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance/guidance-for-fixed-bottom-and-floating-offshore-wind-projects-on-monitoring-the-implementation-of-clean-industry-bonus-draft",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Fuel poverty statistics methodology handbooks",
       "url": "https://www.gov.uk/government/publications/fuel-poverty-statistics-methodology-handbook",
       "description": "",
@@ -22,5 +36,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-26T12:06:35.799038"
+  "check_time": "2026-03-26T13:53:31.906268"
 }
