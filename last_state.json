@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CCUS East Coast Cluster: Teesside selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS ECC Teesside selection process: clarification questions (updated 27 March 2026)",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process/ccus-ecc-teesside-selection-process-clarification-questions-updated-13-february-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "CHPQA guidance notes version control index 2026",
       "url": "https://www.gov.uk/government/publications/chpqa-guidance-notes-version-control-index-2026",
       "description": "",
@@ -62,21 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CHPQA guidance note 44: Use of CHPQA in respect of the Renewables Obligation and Contracts for Difference",
-      "url": "https://www.gov.uk/government/publications/chpqa-guidance-note-44-use-of-chpqa-in-respect-of-the-renewables-obligation-and-contracts-for-difference",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "CHPQA guidance note 43: Use of CHPQA to obtain exemption from business rating of CHP plant and machinery",
-      "url": "https://www.gov.uk/government/publications/chpqa-guidance-note-43-use-of-chpqa-to-obtain-exemption-from-business-rating-of-chp-plant-and-machinery",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-27T09:28:07.382206"
+  "check_time": "2026-03-27T10:10:28.728948"
 }
