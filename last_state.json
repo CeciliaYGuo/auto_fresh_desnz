@@ -22,6 +22,13 @@
       "found_on": "desnz_search"
     },
     {
+      "title": "Combined heat and power quality assurance (CHPQA) standard",
+      "url": "https://www.gov.uk/government/publications/chpqa-standard",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "CCUS East Coast Cluster: Teesside selection process",
       "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
       "description": "",
@@ -55,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CHPQA appendix 3: Determination of useful heat output by direct use of gas turbine exhaust gases",
-      "url": "https://www.gov.uk/government/publications/chpqa-appendix-3-determination-of-useful-heat-output-by-direct-use-of-gas-turbine-exhaust-gases",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-27T16:27:32.301426"
+  "check_time": "2026-03-27T17:24:55.203023"
 }
