@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK Emissions Trading Scheme for hospital or small emitters: how to comply",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-for-hospital-or-small-emitters-how-to-comply",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK Emissions Trading Scheme for hospital or small emitters: how to comply",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-for-hospital-or-small-emitters-how-to-comply/uk-emissions-trading-scheme-for-hospital-or-small-emitters-how-to-comply",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Jackdaw Field Development",
       "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
       "description": "",
@@ -36,5 +50,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-30T14:08:26.110505"
+  "check_time": "2026-03-30T15:21:29.198886"
 }
