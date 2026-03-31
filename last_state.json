@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Nuclear Decommissioning Authority: 2026 review",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Independent review of the Nuclear Decommissioning Authority (NDA): terms of reference",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review/independent-review-of-the-nuclear-decommissioning-authority-nda-terms-of-reference",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Accelerating CCS Technologies (ACT-3) programme: final reports",
       "url": "https://www.gov.uk/government/publications/accelerating-ccs-technologies-act-3-programme-final-reports",
       "description": "",
@@ -29,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-31T12:08:42.137177"
+  "check_time": "2026-03-31T13:59:31.592803"
 }
