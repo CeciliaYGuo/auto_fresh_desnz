@@ -15,26 +15,12 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "UK Emissions Trading Scheme for hospital or small emitters: how to comply",
-      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-for-hospital-or-small-emitters-how-to-comply",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Jackdaw Field Development",
-      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Combined heat and power quality assurance (CHPQA) standard",
-      "url": "https://www.gov.uk/government/publications/chpqa-standard",
+      "title": "Domestic energy prices: data sources and methodology",
+      "url": "https://www.gov.uk/government/publications/domestic-energy-prices-data-sources-and-methodology",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-31T07:57:33.396364"
+  "check_time": "2026-03-31T08:53:25.753544"
 }
