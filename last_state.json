@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Accelerating CCS Technologies (ACT-3) programme: final reports",
+      "url": "https://www.gov.uk/government/publications/accelerating-ccs-technologies-act-3-programme-final-reports",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Domestic energy prices: data sources and methodology",
       "url": "https://www.gov.uk/government/publications/domestic-energy-prices-data-sources-and-methodology",
       "description": "",
@@ -22,5 +29,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-31T09:51:07.656038"
+  "check_time": "2026-03-31T10:40:14.042683"
 }
