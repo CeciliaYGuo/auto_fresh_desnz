@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Feed-in Tariffs scheme: modifications to supplier licence conditions",
+      "url": "https://www.gov.uk/government/publications/feed-in-tariffs-scheme-modifications-to-supplier-licence-conditions",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Modifications to supplier licence conditions \u2013 Feed In Tariff scheme indexation",
+      "url": "https://www.gov.uk/government/publications/feed-in-tariffs-scheme-modifications-to-supplier-licence-conditions/modifications-to-supplier-licence-conditions-feed-in-tariff-scheme-indexation",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Nuclear Decommissioning Authority: 2026 review",
       "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-authority-2026-review",
       "description": "",
@@ -43,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-03-31T13:59:31.592803"
+  "check_time": "2026-03-31T15:02:37.421204"
 }
