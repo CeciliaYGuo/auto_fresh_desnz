@@ -15,12 +15,19 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Feed-in Tariffs scheme: modifications to supplier licence conditions",
-      "url": "https://www.gov.uk/government/publications/feed-in-tariffs-scheme-modifications-to-supplier-licence-conditions",
+      "title": "Boiler Upgrade Scheme: budget increase, April 2026",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-budget-increase-april-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Approval to increase the budget for the Boiler Upgrade Scheme, April 2026",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-budget-increase-april-2026/approval-to-increase-the-budget-for-the-boiler-upgrade-scheme-april-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-01T12:08:48.127924"
+  "check_time": "2026-04-01T14:02:01.657776"
 }
