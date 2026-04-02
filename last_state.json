@@ -15,19 +15,33 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Boiler Upgrade Scheme: budget increase, April 2026",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-budget-increase-april-2026",
+      "title": "DESNZ: prompt payment data, October to December 2025",
+      "url": "https://www.gov.uk/government/publications/desnz-prompt-payment-data-october-to-december-2025",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Approval to increase the budget for the Boiler Upgrade Scheme, April 2026",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-budget-increase-april-2026/approval-to-increase-the-budget-for-the-boiler-upgrade-scheme-april-2026",
+      "title": "List of special feature articles by subject published in Energy Trends",
+      "url": "https://www.gov.uk/government/publications/list-of-special-feature-articles-by-subject-published-in-energy-trends",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Trends: March 2026, special feature article - Review of solid biomass classifications",
+      "url": "https://www.gov.uk/government/publications/energy-trends-march-2026-special-feature-article-review-of-solid-biomass-classifications",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Trends: March 2026, special feature article",
+      "url": "https://www.gov.uk/government/publications/energy-trends-march-2026-special-feature-article",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-02T07:50:46.146558"
+  "check_time": "2026-04-02T08:40:33.539201"
 }
