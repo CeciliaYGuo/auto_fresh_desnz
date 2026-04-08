@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CCUS East Coast Cluster: Teesside selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS ECC Teesside selection process: clarification questions (updated 8 April 2026)",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process/ccus-ecc-teesside-selection-process-clarification-questions-updated-13-february-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
       "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
       "description": "",
@@ -29,5 +50,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-08T13:59:46.698475"
+  "check_time": "2026-04-08T15:12:13.944534"
 }
