@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Springwell Solar Farm Project: development consent order, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/springwell-solar-farm-project-development-consent-order-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "CCUS East Coast Cluster: Teesside selection process",
       "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
       "description": "",
@@ -50,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-08T15:12:13.944534"
+  "check_time": "2026-04-08T16:20:34.156448"
 }
