@@ -15,26 +15,47 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK Emissions Trading Scheme (UK ETS): a policy overview",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Apply for the Heat Network Efficiency Scheme (HNES) Round 12",
       "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK Emissions Trading Scheme: offshore installations \u2013 location codes",
-      "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: Teesside selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-08T05:42:07.773634"
+  "check_time": "2026-04-08T07:00:56.314473"
 }
