@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Apply for the Heat Network Efficiency Scheme (HNES) Round 12",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Network Efficiency Scheme (HNES): overview",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes/heat-network-efficiency-scheme-hnes-overview",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK Emissions Trading Scheme: offshore installations \u2013 location codes",
       "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
       "description": "",
@@ -57,5 +71,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-09T10:43:58.877967"
+  "check_time": "2026-04-09T11:37:14.736331"
 }
