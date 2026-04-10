@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Regulation 15(1) of the Ecodesign for Energy\u2011Related Products and Energy Information (Household Tumble Dryers) Regulations 2026: clarification note",
+      "url": "https://www.gov.uk/government/publications/regulation-151-of-the-ecodesign-for-energy-related-products-and-energy-information-household-tumble-dryers-regulations-2026-clarification-note",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Regulation 15(1): clarification of transitional period",
+      "url": "https://www.gov.uk/government/publications/regulation-151-of-the-ecodesign-for-energy-related-products-and-energy-information-household-tumble-dryers-regulations-2026-clarification-note/regulation-151-clarification-of-transitional-period",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
       "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
       "description": "",
@@ -55,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Ambient gamma radiation dose rates across the UK",
-      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-10T10:10:05.014975"
+  "check_time": "2026-04-10T11:10:40.946977"
 }
