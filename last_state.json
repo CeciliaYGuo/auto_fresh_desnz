@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Heat Network Efficiency Scheme (HNES): privacy notice",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Network Efficiency Scheme (HNES): privacy notice",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes-privacy-notice/heat-network-efficiency-scheme-hnes-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Regulation 15(1) of the Ecodesign for Energy\u2011Related Products and Energy Information (Household Tumble Dryers) Regulations 2026: clarification note",
       "url": "https://www.gov.uk/government/publications/regulation-151-of-the-ecodesign-for-energy-related-products-and-energy-information-household-tumble-dryers-regulations-2026-clarification-note",
       "description": "",
@@ -43,13 +57,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Heat Network Efficiency Scheme (HNES): overview",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes/heat-network-efficiency-scheme-hnes-overview",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "UK Emissions Trading Scheme: offshore installations \u2013 location codes",
       "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
       "description": "",
@@ -62,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: Teesside selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-updated-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-10T11:58:15.856526"
+  "check_time": "2026-04-10T13:05:12.835587"
 }
