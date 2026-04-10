@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Apply for the Heat Network Efficiency Scheme (HNES) Round 12",
       "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
       "description": "",
@@ -31,20 +38,6 @@
     {
       "title": "UK Emissions Trading Scheme: offshore installations \u2013 location codes",
       "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UN/LOCODEs: codes and abbreviations used",
-      "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode/unlocodes-codes-and-abbreviations-used",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -71,5 +64,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-10T07:56:12.911206"
+  "check_time": "2026-04-10T09:00:43.827947"
 }
