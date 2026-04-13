@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Electricity Supply Emergency Code",
+      "url": "https://www.gov.uk/government/publications/electricity-supply-emergency-code",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Electricity Supply Emergency Code",
+      "url": "https://www.gov.uk/government/publications/electricity-supply-emergency-code/electricity-supply-emergency-code",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UKAEA prompt payment return data from 2025 to 2026",
       "url": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
       "description": "",
@@ -24,13 +38,6 @@
     {
       "title": "UK\u2013China: climate change cooperation",
       "url": "https://www.gov.uk/government/publications/uk-china-climate-change-cooperation",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK\u2013China memorandum of understanding on climate change cooperation, 2025",
-      "url": "https://www.gov.uk/government/publications/uk-china-climate-change-cooperation/uk-china-memorandum-of-understanding-on-climate-change-cooperation-2025",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -69,14 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK Emissions Trading Scheme: offshore installations \u2013 location codes",
-      "url": "https://www.gov.uk/government/publications/offshore-installations-with-a-un-code-for-trade-and-transport-locations-unlocode",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-13T12:43:58.768714"
+  "check_time": "2026-04-13T14:18:47.395147"
 }
