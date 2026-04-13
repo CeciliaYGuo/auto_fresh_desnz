@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UKAEA prompt payment return data from 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK\u2013China: climate change cooperation",
       "url": "https://www.gov.uk/government/publications/uk-china-climate-change-cooperation",
       "description": "",
@@ -38,13 +45,6 @@
     {
       "title": "Heat Network Efficiency Scheme (HNES): privacy notice",
       "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat Network Efficiency Scheme (HNES): privacy notice",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes-privacy-notice/heat-network-efficiency-scheme-hnes-privacy-notice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -78,5 +78,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-13T11:39:34.135119"
+  "check_time": "2026-04-13T12:43:58.768714"
 }
