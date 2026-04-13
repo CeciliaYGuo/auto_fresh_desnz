@@ -15,15 +15,29 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Electricity Supply Emergency Code",
-      "url": "https://www.gov.uk/government/publications/electricity-supply-emergency-code",
+      "title": "Participating in the UK Emissions Trading Scheme (UK ETS)",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Participating in the UK ETS",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/participating-in-the-uk-ets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK ETS installations, hospitals, small emitters and ultra-small emitters: baseline data collection, 1 April \u2013 30 June 2025",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/uk-ets-installations-hospitals-small-emitters-and-ultra-small-emitters-baseline-data-collection-1-april-30-june-2025",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
       "title": "Electricity Supply Emergency Code",
-      "url": "https://www.gov.uk/government/publications/electricity-supply-emergency-code/electricity-supply-emergency-code",
+      "url": "https://www.gov.uk/government/publications/electricity-supply-emergency-code",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -62,21 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Apply for the Heat Network Efficiency Scheme (HNES) Round 12",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-13T14:18:47.395147"
+  "check_time": "2026-04-13T15:48:33.466575"
 }
