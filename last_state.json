@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK\u2013China: climate change cooperation",
+      "url": "https://www.gov.uk/government/publications/uk-china-climate-change-cooperation",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK\u2013China memorandum of understanding on climate change cooperation, 2025",
+      "url": "https://www.gov.uk/government/publications/uk-china-climate-change-cooperation/uk-china-memorandum-of-understanding-on-climate-change-cooperation-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
       "url": "https://www.gov.uk/government/publications/desnz-major-projects-appointment-letters-for-senior-responsible-owners-sros",
       "description": "",
@@ -43,13 +57,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Regulation 15(1): clarification of transitional period",
-      "url": "https://www.gov.uk/government/publications/regulation-151-of-the-ecodesign-for-energy-related-products-and-energy-information-household-tumble-dryers-regulations-2026-clarification-note/regulation-151-clarification-of-transitional-period",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
       "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
       "description": "",
@@ -71,5 +78,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-13T10:12:12.410671"
+  "check_time": "2026-04-13T11:39:34.135119"
 }
