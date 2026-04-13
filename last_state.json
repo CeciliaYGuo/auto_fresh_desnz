@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK ETS Allocation Table for operators of installations",
+      "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK ETS Aviation Allocation Table",
+      "url": "https://www.gov.uk/government/publications/uk-ets-aviation-allocation-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Participating in the UK Emissions Trading Scheme (UK ETS)",
       "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
       "description": "",
@@ -62,21 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat Network Efficiency Scheme (HNES): privacy notice",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Regulation 15(1) of the Ecodesign for Energy\u2011Related Products and Energy Information (Household Tumble Dryers) Regulations 2026: clarification note",
-      "url": "https://www.gov.uk/government/publications/regulation-151-of-the-ecodesign-for-energy-related-products-and-energy-information-household-tumble-dryers-regulations-2026-clarification-note",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-13T15:48:33.466575"
+  "check_time": "2026-04-13T16:47:27.945930"
 }
