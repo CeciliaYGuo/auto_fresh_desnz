@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK Atomic Energy Authority strategy 2026 to 2030",
+      "url": "https://www.gov.uk/government/publications/ukaea-strategy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK ETS Allocation Table for operators of installations",
       "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
       "description": "",
@@ -36,20 +43,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Participating in the UK ETS",
-      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/participating-in-the-uk-ets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK ETS installations, hospitals, small emitters and ultra-small emitters: baseline data collection, 1 April \u2013 30 June 2025",
-      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/uk-ets-installations-hospitals-small-emitters-and-ultra-small-emitters-baseline-data-collection-1-april-30-june-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Electricity Supply Emergency Code",
       "url": "https://www.gov.uk/government/publications/electricity-supply-emergency-code",
       "description": "",
@@ -62,21 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK\u2013China: climate change cooperation",
-      "url": "https://www.gov.uk/government/publications/uk-china-climate-change-cooperation",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ major projects: appointment letters for Senior Responsible Owners (SROs)",
-      "url": "https://www.gov.uk/government/publications/desnz-major-projects-appointment-letters-for-senior-responsible-owners-sros",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-14T06:11:51.476706"
+  "check_time": "2026-04-14T08:02:47.383042"
 }
