@@ -15,6 +15,41 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contracts for Difference (CfD) Allocation Round 7: Subsidy Control Transparency Database estimates",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-subsidy-control-transparency-database-estimates",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contracts for Difference (CfD) Allocation Round 7: Subsidy Control Transparency Database estimates",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-subsidy-control-transparency-database-estimates/contracts-for-difference-cfd-allocation-round-7-subsidy-control-transparency-database-estimates",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK Atomic Energy Authority strategy 2026 to 2030",
       "url": "https://www.gov.uk/government/publications/ukaea-strategy",
       "description": "",
@@ -27,21 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK ETS Aviation Allocation Table",
-      "url": "https://www.gov.uk/government/publications/uk-ets-aviation-allocation-table",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Participating in the UK Emissions Trading Scheme (UK ETS)",
-      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-14T15:45:40.962218"
+  "check_time": "2026-04-14T16:47:05.580064"
 }
