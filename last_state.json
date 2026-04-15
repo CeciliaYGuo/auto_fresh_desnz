@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Small modular reactor: summary programme business case",
+      "url": "https://www.gov.uk/government/publications/small-modular-reactor-summary-programme-business-case",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Retrofit System Reform Advisory Panel: terms of reference",
       "url": "https://www.gov.uk/government/publications/retrofit-system-reform-advisory-panel-terms-of-reference",
       "description": "",
@@ -36,40 +43,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Contracts for Difference (CfD) Allocation Round 7: Subsidy Control Transparency Database estimates",
       "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-subsidy-control-transparency-database-estimates",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Contracts for Difference (CfD) Allocation Round 7: Subsidy Control Transparency Database estimates",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-7-subsidy-control-transparency-database-estimates/contracts-for-difference-cfd-allocation-round-7-subsidy-control-transparency-database-estimates",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK Atomic Energy Authority strategy 2026 to 2030",
-      "url": "https://www.gov.uk/government/publications/ukaea-strategy",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-15T15:37:22.656083"
+  "check_time": "2026-04-15T16:38:45.604119"
 }
