@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Retrofit System Reform Advisory Panel: terms of reference",
+      "url": "https://www.gov.uk/government/publications/retrofit-system-reform-advisory-panel-terms-of-reference",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Retrofit System Reform Advisory Panel: terms of reference",
+      "url": "https://www.gov.uk/government/publications/retrofit-system-reform-advisory-panel-terms-of-reference/retrofit-system-reform-advisory-panel-terms-of-reference",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Taking part in the UK Emissions Trading Scheme markets",
       "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
       "description": "",
@@ -55,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK ETS Allocation Table for operators of installations",
-      "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-15T12:43:09.107045"
+  "check_time": "2026-04-15T14:14:36.937209"
 }
