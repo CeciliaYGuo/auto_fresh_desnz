@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Connections Reform: delivery update and battery capacity",
+      "url": "https://www.gov.uk/government/publications/connections-reform-delivery-update-and-battery-capacity",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Open letter from DESNZ and Ofgem on connections reform delivery",
+      "url": "https://www.gov.uk/government/publications/connections-reform-delivery-update-and-battery-capacity/open-letter-from-desnz-and-ofgem-on-connections-reform-delivery",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Small modular reactor: summary programme business case",
       "url": "https://www.gov.uk/government/publications/small-modular-reactor-summary-programme-business-case",
       "description": "",
@@ -24,13 +38,6 @@
     {
       "title": "Retrofit System Reform Advisory Panel: terms of reference",
       "url": "https://www.gov.uk/government/publications/retrofit-system-reform-advisory-panel-terms-of-reference",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Retrofit System Reform Advisory Panel: terms of reference",
-      "url": "https://www.gov.uk/government/publications/retrofit-system-reform-advisory-panel-terms-of-reference/retrofit-system-reform-advisory-panel-terms-of-reference",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -50,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-16T06:15:37.956355"
+  "check_time": "2026-04-16T08:03:41.515314"
 }
