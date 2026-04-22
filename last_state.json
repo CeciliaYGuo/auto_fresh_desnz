@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Ofgem Review, 2026",
+      "url": "https://www.gov.uk/government/publications/ofgem-review-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Ofgem Review: final report",
+      "url": "https://www.gov.uk/government/publications/ofgem-review-2026/ofgem-review-final-report",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Ofgem Review: terms of reference",
+      "url": "https://www.gov.uk/government/publications/ofgem-review-2026/ofgem-review-terms-of-reference",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Renewables Obligation to Exchequer Cost Scheme: due diligence and monitoring privacy notice",
       "url": "https://www.gov.uk/government/publications/renewables-obligation-to-exchequer-cost-scheme-due-diligence-and-monitoring-privacy-notice",
       "description": "",
@@ -36,13 +57,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Guidance for fixed bottom and floating offshore wind projects on monitoring the implementation of Clean Industry Bonus",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance/guidance-for-fixed-bottom-and-floating-offshore-wind-projects-on-monitoring-the-implementation-of-clean-industry-bonus-draft",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
       "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
       "description": "",
@@ -55,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Transitional Energy Certificates",
-      "url": "https://www.gov.uk/government/publications/transitional-energy-certificates",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-22T14:22:57.948465"
+  "check_time": "2026-04-22T15:45:28.899514"
 }
