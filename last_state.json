@@ -15,26 +15,33 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Ofgem Review, 2026",
-      "url": "https://www.gov.uk/government/publications/ofgem-review-2026",
+      "title": "UK Emissions Trading Scheme: ministerial directions to the regulators",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-ministerial-directions-to-the-regulators",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Renewables Obligation to Exchequer Cost Scheme: due diligence and monitoring privacy notice",
-      "url": "https://www.gov.uk/government/publications/renewables-obligation-to-exchequer-cost-scheme-due-diligence-and-monitoring-privacy-notice",
+      "title": "UK fossil fuel incentives and subsidies inventory",
+      "url": "https://www.gov.uk/government/publications/uk-fossil-fuel-incentives-and-subsidies-inventory",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "title": "UK fossil fuel incentives and subsidies inventory",
+      "url": "https://www.gov.uk/government/publications/uk-fossil-fuel-incentives-and-subsidies-inventory/uk-fossil-fuel-incentives-and-subsidies-inventory",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: statutory notices",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-23T09:00:32.079270"
+  "check_time": "2026-04-23T10:23:22.341057"
 }
