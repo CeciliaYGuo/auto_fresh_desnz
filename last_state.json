@@ -15,19 +15,26 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "title": "Heat Pump Ready Programme Round 2: innovation funding competition",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "CCUS NPT Pathfinder selection process: clarification questions (added 22 April 2026)",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process/ccus-npt-pathfinder-selection-process-clarification-questions-added-22-april-2026",
+      "title": "HPRP Round 2: innovation funding competition - clarification questions (added 24 April 2026)",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition/hprp-round-2-innovation-funding-competition-clarification-questions-added-24-april-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-24T13:59:01.607305"
+  "check_time": "2026-04-24T15:07:34.604535"
 }
