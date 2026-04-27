@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK Emissions Trading Scheme and Carbon Price Support: apply for compensation",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-and-carbon-price-support-apply-for-compensation",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Compensation for the indirect costs of the UK ETS and the CPS mechanism: guidance for applicants",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-and-carbon-price-support-apply-for-compensation/compensation-for-the-indirect-costs-of-the-uk-ets-and-the-cps-mechanism-guidance-for-applicants",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Heat Pump Ready Programme Round 2: innovation funding competition",
       "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
       "description": "",
@@ -36,5 +50,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-27T09:32:42.194379"
+  "check_time": "2026-04-27T11:22:58.621018"
 }
