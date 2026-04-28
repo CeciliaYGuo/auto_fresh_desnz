@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Climate Change Agreements Scheme: templates for Umbrella and Underlying agreements",
+      "url": "https://www.gov.uk/government/publications/climate-change-agreements-scheme-templates-for-umbrella-and-underlying-agreements",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK Emissions Trading Scheme and Carbon Price Support: apply for compensation",
       "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-and-carbon-price-support-apply-for-compensation",
       "description": "",
@@ -27,14 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-28T08:40:38.027789"
+  "check_time": "2026-04-28T10:34:22.281795"
 }
