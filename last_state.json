@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ: workforce management information, March 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-march-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Standards for official statistics published by DESNZ",
       "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
       "description": "",
@@ -36,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-29T12:22:31.870182"
+  "check_time": "2026-04-29T14:33:45.250988"
 }
