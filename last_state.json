@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Tillbridge Solar Project: Correction of errors, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/tillbridge-solar-project-correction-of-errors-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ: workforce management information, March 2026",
       "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-march-2026",
       "description": "",
@@ -34,14 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Domestic energy tariff reductions 2026: guidance for energy suppliers",
-      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-04-29T14:33:45.250988"
+  "check_time": "2026-04-29T16:15:47.761477"
 }
