@@ -15,22 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS NPT Pathfinder selection process: clarification questions (updated 1 May 2026)",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process/ccus-npt-pathfinder-selection-process-clarification-questions-added-22-april-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Evaluation of the Warm Home Discount scheme, 2022 to 2024",
       "url": "https://www.gov.uk/government/publications/evaluation-of-the-warm-home-discount-scheme-2022-to-2024",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Evaluation of the Warm Home Discount scheme 2022-23 to 2023-24: interim report (HTML)",
-      "url": "https://www.gov.uk/government/publications/evaluation-of-the-warm-home-discount-scheme-2022-to-2024/evaluation-of-the-warm-home-discount-scheme-2022-23-to-2023-24-interim-report-html",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Evaluation of the Warm Home Discount scheme 2022-23 to 2023-24: annexes (HTML)",
-      "url": "https://www.gov.uk/government/publications/evaluation-of-the-warm-home-discount-scheme-2022-to-2024/evaluation-of-the-warm-home-discount-scheme-2022-23-to-2023-24-annexes-html",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -43,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-01T06:45:00.359980"
+  "check_time": "2026-05-01T08:32:19.993973"
 }
