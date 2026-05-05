@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
+      "url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
       "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
       "description": "",
@@ -41,14 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Private Rented Sector minimum energy efficiency standard exemptions",
-      "url": "https://www.gov.uk/government/publications/private-rented-sector-minimum-energy-efficiency-standard-exemptions",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-05T16:18:08.758024"
+  "check_time": "2026-05-05T17:52:43.214745"
 }
