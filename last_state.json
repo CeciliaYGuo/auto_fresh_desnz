@@ -15,33 +15,40 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Green Heat Network Fund (GHNF): guidance on how to apply",
-      "url": "https://www.gov.uk/government/publications/green-heat-network-fund-ghnf-guidance-on-how-to-apply",
+      "title": "Private Rented Sector minimum energy efficiency standard exemptions",
+      "url": "https://www.gov.uk/government/publications/private-rented-sector-minimum-energy-efficiency-standard-exemptions",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "title": "Biomass Feedstocks Innovation Programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Evaluation of the Warm Home Discount scheme, 2022 to 2024",
-      "url": "https://www.gov.uk/government/publications/evaluation-of-the-warm-home-discount-scheme-2022-to-2024",
+      "title": "CCUS Innovation 2.0 competition: StrataTrapper",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-stratatrapper",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Regulation of medical radioisotope supply",
-      "url": "https://www.gov.uk/government/publications/regulation-of-medical-radioisotope-supply",
+      "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS Innovation 2.0 competition: Flexibly-Operated Capture using Solvent Storage",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-flexibly-operated-capture-using-solvent-storage",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-05T08:34:17.625966"
+  "check_time": "2026-05-05T10:20:55.864657"
 }
