@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Renewable Energy Planning Database: quarterly extract",
+      "url": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat networks pipelines",
+      "url": "https://www.gov.uk/government/publications/heat-networks-pipelines",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
       "url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
       "description": "",
@@ -29,20 +43,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Notice of standards",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-standards",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Notice of approved grant categories and values for the Boiler Upgrade Scheme",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-approved-grant-categories-and-values-for-the-boiler-upgrade-scheme",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Contracts for Difference (CfD) Allocation Round 8: statutory notices",
       "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
       "description": "",
@@ -50,5 +50,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-06T07:59:31.526619"
+  "check_time": "2026-05-06T10:19:33.875121"
 }
