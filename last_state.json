@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Warm Homes Skills Programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/warm-homes-skills-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Warm Homes Skills Programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/warm-homes-skills-programme-successful-projects/warm-homes-skills-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Contributing to the IPCC",
       "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
       "description": "",
@@ -78,5 +92,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-06T12:11:58.667771"
+  "check_time": "2026-05-06T14:44:26.711323"
 }
