@@ -15,6 +15,34 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Contributing to the IPCC",
+      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contributing to the IPCC: guidance for UK experts",
+      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc/contributing-to-the-ipcc-guidance-for-uk-experts",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "IPCC Special Report on Climate Change and Cities Second Order Draft: expert review",
+      "url": "https://www.gov.uk/government/publications/ipcc-special-report-on-climate-change-and-cities-second-order-draft-expert-review",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "IPCC Special Report on Climate Change and Cities Second Order Draft: details and how to apply",
+      "url": "https://www.gov.uk/government/publications/ipcc-special-report-on-climate-change-and-cities-second-order-draft-expert-review/ipcc-special-report-on-climate-change-and-cities-second-order-draft-details-and-how-to-apply",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Renewable Energy Planning Database: quarterly extract",
       "url": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
       "description": "",
@@ -50,5 +78,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-06T10:19:33.875121"
+  "check_time": "2026-05-06T12:11:58.667771"
 }
