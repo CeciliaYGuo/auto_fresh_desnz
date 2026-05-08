@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Heat Pump Innovation Survey: privacy notice",
+      "url": "https://www.gov.uk/government/publications/heat-pump-innovation-survey-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Innovation Survey: privacy notice",
+      "url": "https://www.gov.uk/government/publications/heat-pump-innovation-survey-privacy-notice/heat-pump-innovation-survey-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Boiler Upgrade Scheme (BUS) Extension: summary business case",
       "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-bus-extension-summary-business-case",
       "description": "",
@@ -48,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-08T14:49:47.483740"
+  "check_time": "2026-05-08T16:03:59.564102"
 }
