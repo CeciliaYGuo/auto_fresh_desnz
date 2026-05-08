@@ -15,15 +15,64 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "title": "Boiler Upgrade Scheme (BUS) Extension: summary business case",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-bus-extension-summary-business-case",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "CCUS NPT Pathfinder selection process: clarification questions (updated 8 May 2026)",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process/ccus-npt-pathfinder-selection-process-clarification-questions-added-22-april-2026",
+      "title": "Department for Energy Security and Net Zero major projects: accounting officer assessments",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Track-1 Carbon Capture, Usage and Storage Programme - HyNet and East Coast Cluster: accounting officer assessment 2024",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments/track-1-carbon-capture-usage-and-storage-programme-hynet-and-east-coast-cluster-accounting-officer-assessment-2024",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Spherical Tokamak for Energy Production: Accounting officer assessment, 2023",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments/spherical-tokamak-for-energy-production-accounting-officer-assessment-2023",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Boiler Upgrade Scheme (BUS): accounting officer assessment",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments/boiler-upgrade-scheme-bus-accounting-officer-assessment",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: exemptions request notice",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-exemptions-request-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "National Buildings Database phase 1: non-domestic building stock in England and Wales",
+      "url": "https://www.gov.uk/government/publications/national-buildings-database-phase-1-non-domestic-building-stock-in-england-and-wales",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "National Buildings Database phase 2: understanding Great Britain\u2019s buildings",
+      "url": "https://www.gov.uk/government/publications/national-buildings-database-phase-2-understanding-great-britains-buildings",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -36,5 +85,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-08T08:46:51.739047"
+  "check_time": "2026-05-08T10:09:22.079310"
 }
