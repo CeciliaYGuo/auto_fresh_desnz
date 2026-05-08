@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS NPT Pathfinder selection process: clarification questions (updated 8 May 2026)",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process/ccus-npt-pathfinder-selection-process-clarification-questions-added-22-april-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Ambient gamma radiation dose rates across the UK",
       "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
       "description": "",
@@ -22,5 +36,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-08T07:09:38.610856"
+  "check_time": "2026-05-08T08:46:51.739047"
 }
