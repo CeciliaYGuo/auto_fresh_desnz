@@ -15,22 +15,43 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Ready Programme Round 2: innovation funding competition",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "HPRP Round 2: innovation funding competition - clarification questions (added 24 April 2026)",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition/hprp-round-2-innovation-funding-competition-clarification-questions-added-24-april-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Heat Pump Ready Programme",
       "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Information about the Heat Pump Ready Programme",
-      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme/information-about-the-heat-pump-ready-programme",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Potential future heat pump innovation support: request for informal expressions of interest (closed July 2023)",
-      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme/potential-future-heat-pump-innovation-support-request-for-informal-expressions-of-interest-by-12-july-2023",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -43,33 +64,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Hydrogen BECCS Innovation Programme: Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding/hydrogen-beccs-innovation-programme-phase-1-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Hydrogen BECCS Innovation Programme: Phase 2 projects",
-      "url": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding/hydrogen-beccs-innovation-programme-phase-2-projects-awarded-funding",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Heat Pump Innovation Survey: privacy notice",
       "url": "https://www.gov.uk/government/publications/heat-pump-innovation-survey-privacy-notice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Boiler Upgrade Scheme (BUS) Extension: summary business case",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-bus-extension-summary-business-case",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-11T14:09:29.000358"
+  "check_time": "2026-05-11T16:42:50.146002"
 }
