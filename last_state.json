@@ -15,15 +15,29 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Heat Pump Innovation Survey: privacy notice",
-      "url": "https://www.gov.uk/government/publications/heat-pump-innovation-survey-privacy-notice",
+      "title": "Hydrogen BECCS Innovation Programme: projects awarded funding",
+      "url": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Hydrogen BECCS Innovation Programme: Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding/hydrogen-beccs-innovation-programme-phase-1-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Hydrogen BECCS Innovation Programme: Phase 2 projects",
+      "url": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding/hydrogen-beccs-innovation-programme-phase-2-projects-awarded-funding",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
       "title": "Heat Pump Innovation Survey: privacy notice",
-      "url": "https://www.gov.uk/government/publications/heat-pump-innovation-survey-privacy-notice/heat-pump-innovation-survey-privacy-notice",
+      "url": "https://www.gov.uk/government/publications/heat-pump-innovation-survey-privacy-notice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -48,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "National Buildings Database phase 1: non-domestic building stock in England and Wales",
-      "url": "https://www.gov.uk/government/publications/national-buildings-database-phase-1-non-domestic-building-stock-in-england-and-wales",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-11T05:34:06.077213"
+  "check_time": "2026-05-11T08:43:11.597685"
 }
