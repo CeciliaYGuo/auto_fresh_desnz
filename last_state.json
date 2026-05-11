@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Heat Pump Ready Programme",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Information about the Heat Pump Ready Programme",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme/information-about-the-heat-pump-ready-programme",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Potential future heat pump innovation support: request for informal expressions of interest (closed July 2023)",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme/potential-future-heat-pump-innovation-support-request-for-informal-expressions-of-interest-by-12-july-2023",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Hydrogen BECCS Innovation Programme: projects awarded funding",
       "url": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding",
       "description": "",
@@ -48,21 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Department for Energy Security and Net Zero major projects: accounting officer assessments",
-      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Contracts for Difference (CfD) Allocation Round 8: exemptions request notice",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-exemptions-request-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-11T11:46:18.369774"
+  "check_time": "2026-05-11T14:09:29.000358"
 }
