@@ -15,22 +15,15 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ: prompt payment data, January to March 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-prompt-payment-data-january-to-march-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Direct Air Capture and Greenhouse Gas Removal Innovation Programme: selected projects",
       "url": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Direct Air Capture and Greenhouse Gas Removal Innovation Programme: Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-1-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Direct Air Capture and Greenhouse Gas Removal Innovation Programme: Phase 2 projects",
-      "url": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,14 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat Pump Ready Programme Round 2: innovation funding competition",
-      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-12T12:06:47.914656"
+  "check_time": "2026-05-12T14:46:05.926661"
 }
