@@ -15,22 +15,43 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Direct Air Capture and Greenhouse Gas Removal Innovation Programme: selected projects",
+      "url": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Direct Air Capture and Greenhouse Gas Removal Innovation Programme: Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-1-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Direct Air Capture and Greenhouse Gas Removal Innovation Programme: Phase 2 projects",
+      "url": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ: framework documents",
+      "url": "https://www.gov.uk/government/publications/desnz-framework-documents",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Great British Energy framework document",
+      "url": "https://www.gov.uk/government/publications/great-british-energy-framework-document",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Taking part in the UK Emissions Trading Scheme markets",
       "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -43,33 +64,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "HPRP Round 2: innovation funding competition - clarification questions (added 24 April 2026)",
-      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition/hprp-round-2-innovation-funding-competition-clarification-questions-added-24-april-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Heat Pump Ready Programme",
       "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Hydrogen BECCS Innovation Programme: projects awarded funding",
-      "url": "https://www.gov.uk/government/publications/hydrogen-beccs-innovation-programme-projects-awarded-funding",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat Pump Innovation Survey: privacy notice",
-      "url": "https://www.gov.uk/government/publications/heat-pump-innovation-survey-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-12T07:32:28.658597"
+  "check_time": "2026-05-12T10:06:58.157208"
 }
