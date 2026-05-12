@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CHPQA glossary",
+      "url": "https://www.gov.uk/government/publications/chpqa-glossary",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ: prompt payment data, January to March 2026",
       "url": "https://www.gov.uk/government/publications/desnz-prompt-payment-data-january-to-march-2026",
       "description": "",
@@ -41,14 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-12T14:46:05.926661"
+  "check_time": "2026-05-12T16:57:02.567112"
 }
