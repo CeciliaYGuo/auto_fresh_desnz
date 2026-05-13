@@ -15,6 +15,62 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 competition: Call 1 successful projects",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects/carbon-capture-usage-and-storage-ccus-innovation-20-competition-call-1-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 competition: Call 2 successful projects",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects/carbon-capture-usage-and-storage-ccus-innovation-20-competition-call-2-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS Innovation 2.0 competition: Carbon sequestration in the built environment",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-carbon-sequestration-in-the-built-environment",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS Innovation 2.0 competition: Developing inorganic carriers to create net-zero concrete",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-developing-inorganic-carriers-to-create-net-zero-concrete",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS Innovation 2.0 competition: Innovative high temperature sealing solution for supercritical CO2 power cycle",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-innovative-high-temperature-sealing-solution-for-supercritical-co2-power-cycle",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS Innovation 2.0 competition: Monolithic metal-organic frameworks (MOFs) for carbon capture",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-monolithic-metal-organic-frameworks-mofs-for-carbon-capture",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS Innovation 2.0 competition: Use of CO2 capture to enhance low carbon fertiliser manufacture",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-use-of-co2-capture-to-enhance-low-carbon-fertiliser-manufacture",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "CHPQA glossary",
       "url": "https://www.gov.uk/government/publications/chpqa-glossary",
       "description": "",
@@ -27,28 +83,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Direct Air Capture and Greenhouse Gas Removal Innovation Programme: selected projects",
-      "url": "https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: framework documents",
-      "url": "https://www.gov.uk/government/publications/desnz-framework-documents",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Great British Energy framework document",
-      "url": "https://www.gov.uk/government/publications/great-british-energy-framework-document",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-13T08:06:47.122054"
+  "check_time": "2026-05-13T10:38:55.684349"
 }
