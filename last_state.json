@@ -15,12 +15,19 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Fuel poverty: sub-regional methodology and documentation",
-      "url": "https://www.gov.uk/government/publications/fuel-poverty-sub-regional-methodology-and-documentation",
+      "title": "Heat Pump Investment Accelerator Competition: round 2",
+      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Fuel mix disclosure data table",
+      "url": "https://www.gov.uk/government/publications/fuel-mix-disclosure-data-table",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-14T09:41:13.694136"
+  "check_time": "2026-05-14T11:28:02.212405"
 }
