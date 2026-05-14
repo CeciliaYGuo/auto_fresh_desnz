@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Energy code manager standard licence conditions: determination notice",
+      "url": "https://www.gov.uk/government/publications/energy-code-manager-standard-licence-conditions-determination-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Code manager standard licence conditions: determination notice (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/energy-code-manager-standard-licence-conditions-determination-notice/code-manager-standard-licence-conditions-determination-notice-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Heat Pump Investment Accelerator Competition: round 2",
       "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
       "description": "",
@@ -29,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-14T11:28:02.212405"
+  "check_time": "2026-05-14T13:13:09.618527"
 }
