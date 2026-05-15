@@ -15,6 +15,34 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Local net zero: support for local authorities and communities",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Local net zero: central support for local authorities and communities",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/local-net-zero-central-support-for-local-authorities-and-communities",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Community Energy Fund projects (May 2026)",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-february-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "GBE Community Fund projects (May 2026)",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/gbe-community-fund-projects-february-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "North Falls Offshore Wind Farm: development consent order, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/north-falls-offshore-wind-farm-development-consent-order-planning-act-2008",
       "description": "",
@@ -43,5 +71,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-15T08:13:38.141368"
+  "check_time": "2026-05-15T10:37:10.864927"
 }
