@@ -15,29 +15,43 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 competition: Call 1 successful projects",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects/carbon-capture-usage-and-storage-ccus-innovation-20-competition-call-1-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 competition: Call 2 successful projects",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects/carbon-capture-usage-and-storage-ccus-innovation-20-competition-call-2-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS Innovation 2.0 competition: UNICORN - Efficient MOF based pilot unit for CO2 filtration",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-unicorn-efficient-mof-based-pilot-unit-for-co2-filtration",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS Innovation 2.0 competition: MONET - MOF-based negative emissions technology",
+      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-monet-mof-based-negative-emissions-technology",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Local net zero: support for local authorities and communities",
       "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Local net zero: central support for local authorities and communities",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/local-net-zero-central-support-for-local-authorities-and-communities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Community Energy Fund projects (May 2026)",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-february-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "GBE Community Fund projects (May 2026)",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/gbe-community-fund-projects-february-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,21 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat Pump Investment Accelerator Competition: round 2",
-      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Fuel mix disclosure data table",
-      "url": "https://www.gov.uk/government/publications/fuel-mix-disclosure-data-table",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-18T04:36:47.401646"
+  "check_time": "2026-05-18T08:32:34.604805"
 }
