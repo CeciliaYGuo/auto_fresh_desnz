@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Bill discount scheme: administrator update",
+      "url": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Bill discount scheme: administrator update",
+      "url": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update/bill-discount-scheme-administrator-update",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Smart Secure Electricity Systems (SSES) tariff interoperability: code and licence modifications",
+      "url": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-tariff-interoperability-code-and-licence-modifications",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
       "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
       "description": "",
@@ -62,14 +83,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Energy code manager standard licence conditions: determination notice",
-      "url": "https://www.gov.uk/government/publications/energy-code-manager-standard-licence-conditions-determination-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-18T08:32:34.604805"
+  "check_time": "2026-05-18T12:00:20.914391"
 }
