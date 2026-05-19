@@ -15,68 +15,19 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Project Union: East Coast - section 35 direction, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/project-union-east-coast-section-35-direction-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Low Carbon Hydrogen Supply 2 competition: successful projects",
       "url": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Low Carbon Hydrogen Supply 2 competition - Stream 1 Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects/low-carbon-hydrogen-supply-2-competition-stream-1-phase-1-summaries-of-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Low Carbon Hydrogen Supply 2 competition - Stream 1 Phase 2 projects",
-      "url": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects/low-carbon-hydrogen-supply-2-competition-stream-1-phase-2-summaries-of-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Low Carbon Hydrogen Supply 2 competition - Stream 2 projects",
-      "url": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects/low-carbon-hydrogen-supply-2-competition-stream-2-summaries-of-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Bill discount scheme: administrator update",
-      "url": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Smart Secure Electricity Systems (SSES) tariff interoperability: code and licence modifications",
-      "url": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-tariff-interoperability-code-and-licence-modifications",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Carbon Capture, Usage and Storage (CCUS) Innovation 2.0 programme: successful projects",
-      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-innovation-20-programme-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS Innovation 2.0 competition: UNICORN - Efficient MOF based pilot unit for CO2 filtration",
-      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-unicorn-efficient-mof-based-pilot-unit-for-co2-filtration",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS Innovation 2.0 competition: MONET - MOF-based negative emissions technology",
-      "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-monet-mof-based-negative-emissions-technology",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-19T11:47:15.150154"
+  "check_time": "2026-05-19T14:17:21.881946"
 }
