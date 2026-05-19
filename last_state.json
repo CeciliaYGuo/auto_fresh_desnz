@@ -15,15 +15,36 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Bill discount scheme: administrator update",
-      "url": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update",
+      "title": "Low Carbon Hydrogen Supply 2 competition: successful projects",
+      "url": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Low Carbon Hydrogen Supply 2 competition - Stream 1 Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects/low-carbon-hydrogen-supply-2-competition-stream-1-phase-1-summaries-of-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Low Carbon Hydrogen Supply 2 competition - Stream 1 Phase 2 projects",
+      "url": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects/low-carbon-hydrogen-supply-2-competition-stream-1-phase-2-summaries-of-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Low Carbon Hydrogen Supply 2 competition - Stream 2 projects",
+      "url": "https://www.gov.uk/government/publications/low-carbon-hydrogen-supply-2-competition-successful-projects/low-carbon-hydrogen-supply-2-competition-stream-2-summaries-of-successful-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
       "title": "Bill discount scheme: administrator update",
-      "url": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update/bill-discount-scheme-administrator-update",
+      "url": "https://www.gov.uk/government/publications/bill-discount-scheme-administrator-update",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,14 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Local net zero: support for local authorities and communities",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-19T08:49:53.898174"
+  "check_time": "2026-05-19T11:47:15.150154"
 }
