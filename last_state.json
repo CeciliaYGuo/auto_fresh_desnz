@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "2026 post-implementation review of the SECR regulations 2018",
+      "url": "https://www.gov.uk/government/publications/2026-post-implementation-review-of-the-secr-regulations-2018",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Performance Certificate (EPC) accuracy research",
+      "url": "https://www.gov.uk/government/publications/energy-performance-certificate-epc-accuracy-research",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Boiler methane emissions research",
+      "url": "https://www.gov.uk/government/publications/boiler-methane-emissions-research",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Smart Secure Electricity Systems (SSES) enduring governance: governance framework",
       "url": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-enduring-governance-governance-framework",
       "description": "",
@@ -36,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-26T05:42:05.293625"
+  "check_time": "2026-05-26T08:53:40.494054"
 }
