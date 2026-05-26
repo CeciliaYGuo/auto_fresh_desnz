@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Data quality of life cycle assessments of steel, cement and concrete products",
+      "url": "https://www.gov.uk/government/publications/data-quality-of-life-cycle-assessments-of-steel-cement-and-concrete-products",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "2026 post-implementation review of the SECR regulations 2018",
       "url": "https://www.gov.uk/government/publications/2026-post-implementation-review-of-the-secr-regulations-2018",
       "description": "",
@@ -48,14 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
-      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-26T08:53:40.494054"
+  "check_time": "2026-05-26T14:26:37.910364"
 }
