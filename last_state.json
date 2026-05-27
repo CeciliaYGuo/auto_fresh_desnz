@@ -15,26 +15,26 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "CCUS East Coast Cluster: NPT Pathfinder selection process",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "CCUS NPT Pathfinder selection process: clarification questions (updated 27 May 2026)",
+      "url": "https://www.gov.uk/government/publications/ccus-east-coast-cluster-npt-pathfinder-selection-process/ccus-npt-pathfinder-selection-process-clarification-questions-added-22-april-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Data quality of life cycle assessments of steel, cement and concrete products",
       "url": "https://www.gov.uk/government/publications/data-quality-of-life-cycle-assessments-of-steel-cement-and-concrete-products",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "2026 post-implementation review of the SECR regulations 2018",
-      "url": "https://www.gov.uk/government/publications/2026-post-implementation-review-of-the-secr-regulations-2018",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Energy Performance Certificate (EPC) accuracy research",
-      "url": "https://www.gov.uk/government/publications/energy-performance-certificate-epc-accuracy-research",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-05-27T13:47:32.094578"
+  "check_time": "2026-05-27T16:52:23.566253"
 }
