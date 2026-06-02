@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Apply for the Heat Network Efficiency Scheme (HNES)",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Network Efficiency Scheme (HNES): overview",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes/heat-network-efficiency-scheme-hnes-overview",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Red Diesel Replacement competition: successful projects",
+      "url": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Contracts for Difference (CfD) Allocation Round 8: allocation framework",
       "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-allocation-framework",
       "description": "",
@@ -27,21 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UKAEA Group Policy Manual",
-      "url": "https://www.gov.uk/government/publications/ukaea-policy-manual",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme (GGSS): expenditure forecast statements and tariff change notices",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-02T06:18:34.802152"
+  "check_time": "2026-06-02T10:56:40.917963"
 }
