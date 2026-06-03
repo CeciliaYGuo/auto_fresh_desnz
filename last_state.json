@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Apply for the Heat Network Efficiency Scheme (HNES)",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "title": "Heat Pump Investment Accelerator Competition: round 2",
+      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Heat Network Efficiency Scheme (HNES): overview",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes/heat-network-efficiency-scheme-hnes-overview",
+      "title": "Heat pump investment accelerator competition: round 2 - clarification questions (updated 3 June 2026)",
+      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2/heat-pump-investment-accelerator-competition-round-2-clarification-questions-added-28-may-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Apply for the Heat Network Efficiency Scheme (HNES)",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -41,14 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Contracts for Difference (CfD) Allocation Round 8: standard terms and conditions",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-standard-terms-and-conditions",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-03T11:27:59.831556"
+  "check_time": "2026-06-03T15:58:28.696270"
 }
