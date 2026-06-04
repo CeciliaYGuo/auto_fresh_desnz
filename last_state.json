@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ senior civil servant secondary paid employment, 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-senior-civil-servant-secondary-paid-employment-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ register of senior civil servants' secondary paid employment, April 2025 to March 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-senior-civil-servant-secondary-paid-employment-2025-to-2026/desnz-register-of-senior-civil-servants-secondary-paid-employment-april-2025-to-march-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Heat Training Grant 2025 Mid-scheme Review: heat pump installers",
       "url": "https://www.gov.uk/government/publications/heat-training-grant-2025-mid-scheme-review-heat-pump-installers",
       "description": "",
@@ -29,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-04T14:15:46.444538"
+  "check_time": "2026-06-04T17:23:27.203853"
 }
