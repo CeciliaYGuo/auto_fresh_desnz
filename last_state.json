@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ: workforce management information, April 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-april-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
       "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
       "description": "",
@@ -43,26 +50,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "DESNZ register of senior civil servants' secondary paid employment, April 2025 to March 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-senior-civil-servant-secondary-paid-employment-2025-to-2026/desnz-register-of-senior-civil-servants-secondary-paid-employment-april-2025-to-march-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Heat Training Grant 2025 Mid-scheme Review: heat pump installers",
       "url": "https://www.gov.uk/government/publications/heat-training-grant-2025-mid-scheme-review-heat-pump-installers",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat Pump Investment Accelerator Competition: round 2",
-      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-05T10:14:15.842984"
+  "check_time": "2026-06-05T13:24:15.995491"
 }
