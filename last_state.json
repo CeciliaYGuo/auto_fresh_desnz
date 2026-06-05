@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Guidance for fixed bottom and floating offshore wind projects on monitoring the implementation of Clean Industry Bonus",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance/guidance-for-fixed-bottom-and-floating-offshore-wind-projects-on-monitoring-the-implementation-of-clean-industry-bonus-draft",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Fair Work Charter: signatories list",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance/fair-work-charter-signatories-list",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ senior civil servant secondary paid employment, 2025 to 2026",
       "url": "https://www.gov.uk/government/publications/desnz-senior-civil-servant-secondary-paid-employment-2025-to-2026",
       "description": "",
@@ -43,5 +64,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-05T06:12:07.498350"
+  "check_time": "2026-06-05T10:14:15.842984"
 }
