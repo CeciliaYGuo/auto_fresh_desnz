@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Red Diesel Replacement competition: successful projects",
+      "url": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Red Diesel Replacement competition: Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects/red-diesel-replacement-competition-phase-1-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Red Diesel Replacement competition: Phase 2 projects",
+      "url": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects/red-diesel-replacement-competition-phase-2-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "CCUS Innovation 2.0 competition: UK BECCS-MCFC - Next generation CCUS technology for net zero 2050",
       "url": "https://www.gov.uk/government/publications/ccus-innovation-20-competition-uk-beccs-mcfc-next-generation-ccus-technology-for-net-zero-2050",
       "description": "",
@@ -29,27 +50,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Notice of standards",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-standards",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Notice of approved grant categories and values for the Boiler Upgrade Scheme (from 21 July 2026)",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-approved-grant-categories-and-values-for-the-boiler-upgrade-scheme",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Notice of approved grant categories and values for the Boiler Upgrade Scheme",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-approved-grant-categories-and-values-for-the-boiler-upgrade-scheme--2",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "UK Special Representative for Climate: terms of reference",
       "url": "https://www.gov.uk/government/publications/uk-special-representative-for-climate-terms-of-reference",
       "description": "",
@@ -57,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-09T11:47:05.867174"
+  "check_time": "2026-06-09T14:06:23.545542"
 }
