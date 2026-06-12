@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Using home retrofit scheme data to manage fraud, error and non-compliance: privacy notice",
-      "url": "https://www.gov.uk/government/publications/using-home-retrofit-scheme-data-to-manage-fraud-and-error-privacy-notice",
+      "title": "Undergrounding transmission cables: study of costs of innovative methods",
+      "url": "https://www.gov.uk/government/publications/undergrounding-transmission-cables-study-of-costs-of-innovative-methods",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Rapid evidence assessment: international electricity networks research best practice",
+      "url": "https://www.gov.uk/government/publications/rapid-evidence-assessment-international-electricity-networks-research-best-practice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
       "title": "Using home retrofit scheme data to manage fraud, error and non-compliance: privacy notice",
-      "url": "https://www.gov.uk/government/publications/using-home-retrofit-scheme-data-to-manage-fraud-and-error-privacy-notice/using-home-retrofit-scheme-data-to-manage-fraud-error-and-non-compliance-privacy-notice",
+      "url": "https://www.gov.uk/government/publications/using-home-retrofit-scheme-data-to-manage-fraud-and-error-privacy-notice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -43,5 +50,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-12T06:48:07.861244"
+  "check_time": "2026-06-12T10:53:27.373698"
 }
