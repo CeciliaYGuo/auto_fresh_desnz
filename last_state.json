@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Undergrounding transmission cables: study of costs of innovative methods",
       "url": "https://www.gov.uk/government/publications/undergrounding-transmission-cables-study-of-costs-of-innovative-methods",
       "description": "",
@@ -50,5 +71,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-12T13:55:01.501181"
+  "check_time": "2026-06-12T16:36:45.990545"
 }
