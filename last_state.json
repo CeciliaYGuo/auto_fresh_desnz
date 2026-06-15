@@ -13,6 +13,28 @@
   ],
   "specific_page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
   "specific_page_last_updated": "Unknown",
-  "desnz_publications": [],
-  "check_time": "2026-06-15T13:32:39.615387"
+  "desnz_publications": [
+    {
+      "title": "Westermost Rough Offshore Wind Farm: application for a safety zone, Energy Act 2004",
+      "url": "https://www.gov.uk/government/publications/westermost-rough-offshore-wind-farm-application-for-a-safety-zone-energy-act-2004",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Ready Programme Round 2: innovation funding competition",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "HPRP Round 2: innovation funding competition - clarification questions (updated 15 June 2026)",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-round-2-innovation-funding-competition/hprp-round-2-innovation-funding-competition-clarification-questions-added-24-april-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    }
+  ],
+  "check_time": "2026-06-15T18:10:47.622157"
 }
