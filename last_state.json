@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Plug-in solar electrical safety study",
+      "url": "https://www.gov.uk/government/publications/plug-in-solar-electrical-safety-study",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Public Sector Decarbonisation Scheme: delivery data",
+      "url": "https://www.gov.uk/government/publications/public-sector-decarbonisation-scheme-delivery-data",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Westermost Rough Offshore Wind Farm: application for a safety zone, Energy Act 2004",
       "url": "https://www.gov.uk/government/publications/westermost-rough-offshore-wind-farm-application-for-a-safety-zone-energy-act-2004",
       "description": "",
@@ -29,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-16T12:19:20.179163"
+  "check_time": "2026-06-16T17:24:03.647750"
 }
