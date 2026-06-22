@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ: workforce management information, May 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-may-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Jackdaw Field Development",
+      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Assessment and rating of noise from wind turbines: guidance",
       "url": "https://www.gov.uk/government/publications/assessment-and-rating-of-noise-from-wind-turbines-guidance",
       "description": "",
@@ -27,35 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "AI Energy Council minutes: Monday 13 April 2026 (HTML)",
-      "url": "https://www.gov.uk/government/publications/ai-energy-council-meetings-minutes/ai-energy-council-minutes-monday-13-april-2026-html",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "AI Energy Council minutes: Monday 1 December 2025 (HTML)",
-      "url": "https://www.gov.uk/government/publications/ai-energy-council-meetings-minutes/ai-energy-council-minutes-monday-1-december-2025-html",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "AI Energy Council minutes: Monday 30 June 2025 (HTML)",
-      "url": "https://www.gov.uk/government/publications/ai-energy-council-meetings-minutes/ai-energy-council-minutes-monday-30-june-2025-html",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "AI Energy Council minutes: Tuesday, 8 April 2025 (HTML)",
-      "url": "https://www.gov.uk/government/publications/ai-energy-council-meetings-minutes/ai-energy-council-minutes-tuesday-8-april-2025-html",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-22T07:38:35.529854"
+  "check_time": "2026-06-22T13:14:47.008532"
 }
