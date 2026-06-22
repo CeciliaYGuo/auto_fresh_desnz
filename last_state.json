@@ -15,6 +15,41 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "International Climate Finance Strategy 2026",
+      "url": "https://www.gov.uk/government/publications/international-climate-finance-strategy-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK \u2013 Mexico partnership on climate, energy and nature",
+      "url": "https://www.gov.uk/government/publications/uk-mexico-partnership-on-climate-energy-and-nature",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK \u2013 Mexico memorandum of understanding",
+      "url": "https://www.gov.uk/government/publications/uk-mexico-partnership-on-climate-energy-and-nature/uk-mexico-memorandum-of-understanding",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UKAEA prompt payment return data from 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UKAEA prompt payment return data from 2026 to 2027",
+      "url": "https://www.gov.uk/government/publications/ukaea-prompt-payment-return-data-from-2026-to-2027",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ: workforce management information, May 2026",
       "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-may-2026",
       "description": "",
@@ -34,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "AI Energy Council meetings minutes",
-      "url": "https://www.gov.uk/government/publications/ai-energy-council-meetings-minutes",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-22T13:14:47.008532"
+  "check_time": "2026-06-22T17:50:30.573104"
 }
