@@ -13,6 +13,21 @@
   ],
   "specific_page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
   "specific_page_last_updated": "Unknown",
-  "desnz_publications": [],
-  "check_time": "2026-06-25T08:36:10.930636"
+  "desnz_publications": [
+    {
+      "title": "Heat Pump Investment Accelerator Competition: round 2",
+      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat pump investment accelerator competition: round 2 - clarification questions (updated 25 June 2026)",
+      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2/heat-pump-investment-accelerator-competition-round-2-clarification-questions-added-28-may-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    }
+  ],
+  "check_time": "2026-06-25T11:17:34.759136"
 }
