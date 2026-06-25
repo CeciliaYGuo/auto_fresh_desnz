@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Australia-Canada-UK energy and climate cooperation: joint statement",
+      "url": "https://www.gov.uk/government/publications/australia-canada-uk-energy-and-climate-cooperation-joint-statement",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Australia-Canada-UK energy and climate cooperation: joint statement",
+      "url": "https://www.gov.uk/government/publications/australia-canada-uk-energy-and-climate-cooperation-joint-statement/australia-canada-uk-energy-and-climate-cooperation-joint-statement",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ register of board members\u2019 interests, 2025 to 2026",
       "url": "https://www.gov.uk/government/publications/desnz-register-of-board-members-interests-2025-to-2026",
       "description": "",
@@ -64,5 +78,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-25T15:59:17.648105"
+  "check_time": "2026-06-25T18:09:52.387587"
 }
