@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK ETS: Waste quarterly data report template (Q2)",
       "url": "https://www.gov.uk/government/publications/uk-ets-waste-quarterly-data-report-template",
       "description": "",
@@ -50,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-26T13:22:08.858827"
+  "check_time": "2026-06-26T15:32:19.819794"
 }
