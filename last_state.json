@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK ETS: Waste quarterly data report template (Q2)",
+      "url": "https://www.gov.uk/government/publications/uk-ets-waste-quarterly-data-report-template",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Capacity Market Rules",
       "url": "https://www.gov.uk/government/publications/capacity-market-rules",
       "description": "",
@@ -41,21 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: ministerial overseas travel and meetings, January to March 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-january-to-march-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a3500, January 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-500-january-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-26T11:17:05.252577"
+  "check_time": "2026-06-26T13:22:08.858827"
 }
