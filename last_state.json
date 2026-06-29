@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK Emissions Trading Scheme: ministerial directions to the regulators",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-ministerial-directions-to-the-regulators",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Ambient gamma radiation dose rates across the UK",
       "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
       "description": "",
@@ -34,21 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Australia-Canada-UK energy and climate cooperation: joint statement",
-      "url": "https://www.gov.uk/government/publications/australia-canada-uk-energy-and-climate-cooperation-joint-statement",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ register of board members\u2019 interests, 2025 to 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-register-of-board-members-interests-2025-to-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-06-29T11:25:28.570205"
+  "check_time": "2026-06-29T14:54:22.652559"
 }
