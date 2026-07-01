@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Warm Homes: Social Housing Fund Wave 3 (closed to applications)",
+      "url": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Warm Homes: Social Housing Fund: Wave 3 - clarification questions (updated 18 November 2024)",
+      "url": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3/warm-homes-social-housing-fund-wave-3-clarification-questions-23-september-2024",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Warm Homes: Social Housing Fund: Wave 3 - application forms clarifications (updated 21 November 2024)",
+      "url": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3/warm-homes-social-housing-fund-wave-3-application-forms-clarifications",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Participating in the UK Emissions Trading Scheme (UK ETS)",
       "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
       "description": "",
@@ -43,5 +64,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-01T12:46:55.796710"
+  "check_time": "2026-07-01T15:29:36.886894"
 }
