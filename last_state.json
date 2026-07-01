@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Participating in the UK Emissions Trading Scheme (UK ETS)",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Participating in the UK ETS",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/participating-in-the-uk-ets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK ETS installations, hospitals, small emitters and ultra-small emitters: baseline data collection, 1 April \u2013 30 June 2025",
+      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/uk-ets-installations-hospitals-small-emitters-and-ultra-small-emitters-baseline-data-collection-1-april-30-june-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Potential future nuclear power plant siting in Scotland",
       "url": "https://www.gov.uk/government/publications/potential-future-nuclear-power-plant-siting-in-scotland",
       "description": "",
@@ -22,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-01T06:14:19.856375"
+  "check_time": "2026-07-01T10:13:38.755857"
 }
