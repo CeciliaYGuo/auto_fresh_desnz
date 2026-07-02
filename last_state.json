@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Domestic energy tariff reductions 2026: guidance for energy suppliers",
+      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "RO to Exchequer and ECO costs schemes: guidance for suppliers (HTML)",
+      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers/ro-to-exchequer-and-eco-costs-schemes-guidance-for-suppliers-html",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Dean Moor Solar Farm: development consent order, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/dean-moor-solar-farm-development-consent-order-planning-act-2008",
       "description": "",
@@ -24,13 +38,6 @@
     {
       "title": "Warm Homes: Local Grant \u2013 successful local authorities",
       "url": "https://www.gov.uk/government/publications/warm-homes-local-grant-successful-local-authorities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes: Local Grant \u2013 successful local authorities (updated July 2026)",
-      "url": "https://www.gov.uk/government/publications/warm-homes-local-grant-successful-local-authorities/warm-homes-local-grant-successful-local-authorities",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -64,5 +71,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-02T15:25:00.624258"
+  "check_time": "2026-07-02T17:07:13.632790"
 }
