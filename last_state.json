@@ -15,22 +15,15 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Summary of questions included in the DESNZ/BEIS Public Attitudes Tracker since Autumn 2021",
+      "url": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnzbeis-public-attitudes-tracker-since-autumn-2021",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Warm Homes: Social Housing Fund Wave 3 (closed to applications)",
       "url": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes: Social Housing Fund: Wave 3 - clarification questions (updated 18 November 2024)",
-      "url": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3/warm-homes-social-housing-fund-wave-3-clarification-questions-23-september-2024",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes: Social Housing Fund: Wave 3 - application forms clarifications (updated 21 November 2024)",
-      "url": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3/warm-homes-social-housing-fund-wave-3-application-forms-clarifications",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -41,28 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Participating in the UK ETS",
-      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/participating-in-the-uk-ets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK ETS installations, hospitals, small emitters and ultra-small emitters: baseline data collection, 1 April \u2013 30 June 2025",
-      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets/uk-ets-installations-hospitals-small-emitters-and-ultra-small-emitters-baseline-data-collection-1-april-30-june-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Potential future nuclear power plant siting in Scotland",
-      "url": "https://www.gov.uk/government/publications/potential-future-nuclear-power-plant-siting-in-scotland",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-02T05:38:42.837496"
+  "check_time": "2026-07-02T08:31:14.893693"
 }
