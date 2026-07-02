@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Dean Moor Solar Farm: development consent order, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/dean-moor-solar-farm-development-consent-order-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Warm Homes: Local Grant \u2013 successful local authorities",
       "url": "https://www.gov.uk/government/publications/warm-homes-local-grant-successful-local-authorities",
       "description": "",
@@ -43,20 +50,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Jackdaw Field Development",
       "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
       "description": "",
@@ -69,21 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes: Social Housing Fund Wave 3 (closed to applications)",
-      "url": "https://www.gov.uk/government/publications/warm-homes-social-housing-fund-wave-3",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Participating in the UK Emissions Trading Scheme (UK ETS)",
-      "url": "https://www.gov.uk/government/publications/participating-in-the-uk-ets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-02T13:04:30.330278"
+  "check_time": "2026-07-02T15:25:00.624258"
 }
