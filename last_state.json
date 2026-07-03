@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Domestic energy tariff reductions 2026: guidance for energy suppliers",
-      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
+      "title": "Annual report for 2025 on the operation of the Chemical Weapons Act 1996",
+      "url": "https://www.gov.uk/government/publications/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "RO to Exchequer and ECO costs schemes: guidance for suppliers (HTML)",
-      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers/ro-to-exchequer-and-eco-costs-schemes-guidance-for-suppliers-html",
+      "title": "Annual report for 2025 on the operation of the Chemical Weapons Act 1996 (HTML)",
+      "url": "https://www.gov.uk/government/publications/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996-html",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Domestic energy tariff reductions 2026: guidance for energy suppliers",
+      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -69,14 +76,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Summary of questions included in the DESNZ/BEIS Public Attitudes Tracker since Autumn 2021",
-      "url": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnzbeis-public-attitudes-tracker-since-autumn-2021",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-03T12:23:54.832934"
+  "check_time": "2026-07-03T14:35:47.890491"
 }
