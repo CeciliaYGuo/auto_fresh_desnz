@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Annual report for 2025 on the operation of the Chemical Weapons Act 1996",
-      "url": "https://www.gov.uk/government/publications/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996",
+      "title": "Consumer value of in-use home energy performance metrics",
+      "url": "https://www.gov.uk/government/publications/consumer-value-of-in-use-home-energy-performance-metrics",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Annual report for 2025 on the operation of the Chemical Weapons Act 1996 (HTML)",
-      "url": "https://www.gov.uk/government/publications/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996-html",
+      "title": "Smart meter enabled thermal efficiency ratings (SMETER): strategic guide",
+      "url": "https://www.gov.uk/government/publications/smart-meter-enabled-thermal-efficiency-ratings-smeter-strategic-guide",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Annual report for 2025 on the operation of the Chemical Weapons Act 1996",
+      "url": "https://www.gov.uk/government/publications/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -62,21 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Jackdaw Field Development",
-      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-03T14:35:47.890491"
+  "check_time": "2026-07-03T16:09:08.044374"
 }
