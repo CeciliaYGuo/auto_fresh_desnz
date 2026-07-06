@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: standard terms and conditions",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-standard-terms-and-conditions",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: allocation framework",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-allocation-framework",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: statutory notices",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Consumer value of in-use home energy performance metrics",
       "url": "https://www.gov.uk/government/publications/consumer-value-of-in-use-home-energy-performance-metrics",
       "description": "",
@@ -34,42 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Domestic energy tariff reductions 2026: guidance for energy suppliers",
-      "url": "https://www.gov.uk/government/publications/domestic-energy-tariff-reductions-2026-guidance-for-energy-suppliers",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Peartree Hill Solar Farm: Development Consent Order, Planning Act 2008",
-      "url": "https://www.gov.uk/government/publications/peartree-hill-solar-farm-development-consent-order-planning-act-2008",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Dean Moor Solar Farm: development consent order, Planning Act 2008",
-      "url": "https://www.gov.uk/government/publications/dean-moor-solar-farm-development-consent-order-planning-act-2008",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes: Local Grant \u2013 successful local authorities",
-      "url": "https://www.gov.uk/government/publications/warm-homes-local-grant-successful-local-authorities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes: Local Grant \u2013 guidance for local authorities",
-      "url": "https://www.gov.uk/government/publications/warm-homes-local-grant",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-06T08:49:05.077751"
+  "check_time": "2026-07-06T12:29:03.329341"
 }
