@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Trends: June 2026, special feature articles",
+      "url": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-articles",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Trends: June 2026, special feature article - Hydrogen production and demand in the UK, 2022 to 2025",
+      "url": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-hydrogen-production-and-demand-in-the-uk-2022-to-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Contracts for Difference (CfD) Allocation Round 8: standard terms and conditions",
       "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-standard-terms-and-conditions",
       "description": "",
@@ -27,35 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Contracts for Difference (CfD) Allocation Round 8: statutory notices",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Consumer value of in-use home energy performance metrics",
-      "url": "https://www.gov.uk/government/publications/consumer-value-of-in-use-home-energy-performance-metrics",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Smart meter enabled thermal efficiency ratings (SMETER): strategic guide",
-      "url": "https://www.gov.uk/government/publications/smart-meter-enabled-thermal-efficiency-ratings-smeter-strategic-guide",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Annual report for 2025 on the operation of the Chemical Weapons Act 1996",
-      "url": "https://www.gov.uk/government/publications/annual-report-for-2025-on-the-operation-of-the-chemical-weapons-act-1996",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-06T12:29:03.329341"
+  "check_time": "2026-07-06T15:59:23.955987"
 }
