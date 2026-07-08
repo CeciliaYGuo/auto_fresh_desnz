@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "One Earth Solar Farm: development consent order, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/one-earth-solar-farm-development-consent-order-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Jackdaw Field Development",
       "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
       "description": "",
@@ -29,54 +36,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 1 Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-1-phase-1-details-of-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 1 Phase 2 project",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-1-phase-2-details-of-successful-project",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 2 Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-2-phase-1-details-of-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 2 Phase 2 projects",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-2-phase-2-details-of-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Ambient gamma radiation dose rates across the UK",
       "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Energy Trends: June 2026, special feature articles",
-      "url": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-articles",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Energy Trends: June 2026, special feature article - Hydrogen production and demand in the UK, 2022 to 2025",
-      "url": "https://www.gov.uk/government/publications/energy-trends-june-2026-special-feature-article-hydrogen-production-and-demand-in-the-uk-2022-to-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-08T12:52:16.781924"
+  "check_time": "2026-07-08T15:02:26.926421"
 }
