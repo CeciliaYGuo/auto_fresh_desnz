@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Jackdaw Field Development",
+      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
       "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
       "description": "",
@@ -71,5 +78,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-08T09:12:09.267433"
+  "check_time": "2026-07-08T11:15:44.606079"
 }
