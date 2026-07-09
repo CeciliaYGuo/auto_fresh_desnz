@@ -15,26 +15,26 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Homes for Net Zero research programme",
+      "url": "https://www.gov.uk/government/publications/homes-for-net-zero-research-programme",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "The suitability of reversible air-to-air heat pumps for UK domestic use",
+      "url": "https://www.gov.uk/government/publications/the-suitability-of-reversible-air-to-air-heat-pumps-for-uk-domestic-use",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "One Earth Solar Farm: development consent order, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/one-earth-solar-farm-development-consent-order-planning-act-2008",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Jackdaw Field Development",
-      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-09T08:50:48.064717"
+  "check_time": "2026-07-09T11:31:57.160572"
 }
