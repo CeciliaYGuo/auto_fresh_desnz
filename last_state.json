@@ -15,8 +15,15 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Homes for Net Zero research programme",
-      "url": "https://www.gov.uk/government/publications/homes-for-net-zero-research-programme",
+      "title": "Lynemouth Power Station: signature of low-carbon dispatchable Contract for Difference",
+      "url": "https://www.gov.uk/government/publications/lynemouth-power-station-signature-of-low-carbon-dispatchable-contract-for-difference",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Lynemouth Power Station: signature of low-carbon dispatchable Contract for Difference (LCD CfD) - summary",
+      "url": "https://www.gov.uk/government/publications/lynemouth-power-station-signature-of-low-carbon-dispatchable-contract-for-difference/lynemouth-power-station-signature-of-low-carbon-dispatchable-contract-for-difference-lcd-cfd-summary",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -29,12 +36,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "One Earth Solar Farm: development consent order, Planning Act 2008",
-      "url": "https://www.gov.uk/government/publications/one-earth-solar-farm-development-consent-order-planning-act-2008",
+      "title": "Homes for Net Zero research programme",
+      "url": "https://www.gov.uk/government/publications/homes-for-net-zero-research-programme",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-09T11:31:57.160572"
+  "check_time": "2026-07-09T14:06:30.314822"
 }
