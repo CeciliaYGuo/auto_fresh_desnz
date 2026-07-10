@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Lynemouth Power Station: signature of low-carbon dispatchable Contract for Difference",
       "url": "https://www.gov.uk/government/publications/lynemouth-power-station-signature-of-low-carbon-dispatchable-contract-for-difference",
       "description": "",
@@ -43,5 +64,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-10T15:51:07.066501"
+  "check_time": "2026-07-10T17:30:47.536264"
 }
