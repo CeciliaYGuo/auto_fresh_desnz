@@ -15,22 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Nuclear Decommissioning Funding Account: statement for 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-funding-account-statement-for-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Statement of the Nuclear Decommissioning Funding Account, for the period from 1 April 2025 to 31 March 2026 (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-funding-account-statement-for-2025-to-2026/statement-of-the-nuclear-decommissioning-funding-account-for-the-period-from-1-april-2025-to-31-march-2026-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Clean flexibility roadmap",
       "url": "https://www.gov.uk/government/publications/clean-flexibility-roadmap",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Clean flexibility roadmap: July 2026 update (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/clean-flexibility-roadmap/clean-flexibility-roadmap-july-2026-update-accessible-webpage",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Clean flexibility roadmap (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/clean-flexibility-roadmap/clean-flexibility-roadmap",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -48,14 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "The suitability of reversible air-to-air heat pumps for UK domestic use",
-      "url": "https://www.gov.uk/government/publications/the-suitability-of-reversible-air-to-air-heat-pumps-for-uk-domestic-use",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-13T13:04:46.942513"
+  "check_time": "2026-07-13T15:47:15.723570"
 }
