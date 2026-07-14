@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "National Energy System Operator framework document",
+      "url": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "National Energy System Operator (NESO) framework document (July 2026)",
+      "url": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document/national-energy-system-operator-neso-framework-document",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Young Voices for Climate and Nature",
       "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
       "description": "",
@@ -48,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Clean flexibility roadmap",
-      "url": "https://www.gov.uk/government/publications/clean-flexibility-roadmap",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-14T14:08:09.093839"
+  "check_time": "2026-07-14T15:40:56.082968"
 }
