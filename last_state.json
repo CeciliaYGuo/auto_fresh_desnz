@@ -15,15 +15,36 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Nuclear Decommissioning Funding Account: statement for 2025 to 2026",
-      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-funding-account-statement-for-2025-to-2026",
+      "title": "Young Voices for Climate and Nature",
+      "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Statement of the Nuclear Decommissioning Funding Account, for the period from 1 April 2025 to 31 March 2026 (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-funding-account-statement-for-2025-to-2026/statement-of-the-nuclear-decommissioning-funding-account-for-the-period-from-1-april-2025-to-31-march-2026-accessible-webpage",
+      "title": "Youth Climate and Nature Panel",
+      "url": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Youth Climate and Nature Panel: privacy notice",
+      "url": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Young Voices for Climate and Nature: privacy notice",
+      "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Nuclear Decommissioning Funding Account: statement for 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-funding-account-statement-for-2025-to-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,21 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Lynemouth Power Station: signature of low-carbon dispatchable Contract for Difference",
-      "url": "https://www.gov.uk/government/publications/lynemouth-power-station-signature-of-low-carbon-dispatchable-contract-for-difference",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-14T07:27:11.142409"
+  "check_time": "2026-07-14T09:22:16.747598"
 }
