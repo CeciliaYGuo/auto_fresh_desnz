@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ: ministerial overseas travel and meetings, October to December 2025",
+      "url": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-october-to-december-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UKAEA pension schemes: combined annual accounts 2025 to 2026",
       "url": "https://www.gov.uk/government/publications/ukaea-pension-schemes-combined-annual-accounts-2025-to-2026",
       "description": "",
@@ -83,14 +90,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Youth Climate and Nature Panel: privacy notice",
-      "url": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-15T14:14:56.727328"
+  "check_time": "2026-07-15T15:50:27.027579"
 }
