@@ -15,15 +15,43 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "National Energy System Operator framework document",
-      "url": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
+      "title": "UK cleantech innovation challenges: programme overview",
+      "url": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "National Energy System Operator (NESO) framework document (July 2026)",
-      "url": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document/national-energy-system-operator-neso-framework-document",
+      "title": "UK cleantech innovation challenges: programme overview (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview/uk-cleantech-innovation-challenges-programme-overview-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK carbon management innovation challenge",
+      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK carbon management innovation challenge (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge/uk-carbon-management-innovation-challenge-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK carbon management innovation challenge: challenge coalition guidance (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge/uk-carbon-management-innovation-challenge-challenge-coalition-guidance-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "National Energy System Operator framework document",
+      "url": "https://www.gov.uk/government/publications/national-energy-system-operator-framework-document",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,14 +83,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Nuclear Decommissioning Funding Account: statement for 2025 to 2026",
-      "url": "https://www.gov.uk/government/publications/nuclear-decommissioning-funding-account-statement-for-2025-to-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-15T09:24:52.223729"
+  "check_time": "2026-07-15T11:04:54.393891"
 }
