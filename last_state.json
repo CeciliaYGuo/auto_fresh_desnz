@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UKAEA pension schemes: combined annual accounts 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/ukaea-pension-schemes-combined-annual-accounts-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "United Kingdom Atomic Energy Authority pension schemes: combined annual accounts 2025 to 2026 (accessible version)",
+      "url": "https://www.gov.uk/government/publications/ukaea-pension-schemes-combined-annual-accounts-2025-to-2026/united-kingdom-atomic-energy-authority-pension-schemes-combined-annual-accounts-2025-to-2026-accessible-version",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "British Sign Language (BSL) 5-year plan: Department for Energy Security and Net Zero",
       "url": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero",
       "description": "",
@@ -38,13 +52,6 @@
     {
       "title": "UK cleantech innovation challenges: programme overview",
       "url": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK cleantech innovation challenges: programme overview (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview/uk-cleantech-innovation-challenges-programme-overview-accessible-webpage",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -83,14 +90,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Young Voices for Climate and Nature: privacy notice",
-      "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-15T12:21:18.794280"
+  "check_time": "2026-07-15T14:14:56.727328"
 }
