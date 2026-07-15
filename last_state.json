@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "British Sign Language (BSL) 5-year plan: Department for Energy Security and Net Zero",
+      "url": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "British Sign Language 5-year plan: Department for Energy Security and Net Zero \u2013 1-year update, July 2026 (English and BSL versions)",
+      "url": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero-1-year-update-july-2026-english-and-bsl-versions",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "British Sign Language 5-year plan: Department for Energy Security and Net Zero (English and BSL versions)",
+      "url": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero-english-and-bsl-versions",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK cleantech innovation challenges: programme overview",
       "url": "https://www.gov.uk/government/publications/uk-cleantech-innovation-challenges-programme-overview",
       "description": "",
@@ -31,20 +52,6 @@
     {
       "title": "UK carbon management innovation challenge",
       "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK carbon management innovation challenge (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge/uk-carbon-management-innovation-challenge-accessible-webpage",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK carbon management innovation challenge: challenge coalition guidance (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge/uk-carbon-management-innovation-challenge-challenge-coalition-guidance-accessible-webpage",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -85,5 +92,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-15T11:04:54.393891"
+  "check_time": "2026-07-15T12:21:18.794280"
 }
