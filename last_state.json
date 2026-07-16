@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Jackdaw Field Development",
+      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ annual report and accounts 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-annual-report-and-accounts-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UKAEA Annual Report and Accounts 2025 to 2026",
       "url": "https://www.gov.uk/government/publications/ukaea-annual-report-and-accounts-2025-to-2026",
       "description": "",
@@ -48,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK carbon management innovation challenge",
-      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-16T13:27:37.279580"
+  "check_time": "2026-07-16T15:16:21.178138"
 }
