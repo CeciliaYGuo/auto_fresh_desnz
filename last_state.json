@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UKAEA Annual Report and Accounts 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/ukaea-annual-report-and-accounts-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ: ministerial overseas travel and meetings, October to December 2025",
       "url": "https://www.gov.uk/government/publications/desnz-ministerial-overseas-travel-and-meetings-october-to-december-2025",
       "description": "",
@@ -24,13 +31,6 @@
     {
       "title": "UKAEA pension schemes: combined annual accounts 2025 to 2026",
       "url": "https://www.gov.uk/government/publications/ukaea-pension-schemes-combined-annual-accounts-2025-to-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "United Kingdom Atomic Energy Authority pension schemes: combined annual accounts 2025 to 2026 (accessible version)",
-      "url": "https://www.gov.uk/government/publications/ukaea-pension-schemes-combined-annual-accounts-2025-to-2026/united-kingdom-atomic-energy-authority-pension-schemes-combined-annual-accounts-2025-to-2026-accessible-version",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -62,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Young Voices for Climate and Nature",
-      "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-16T06:06:43.553917"
+  "check_time": "2026-07-16T08:29:00.653677"
 }
