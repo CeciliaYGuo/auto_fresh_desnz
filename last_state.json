@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: statutory notices",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Independent review on greenhouse gas removals: government response",
       "url": "https://www.gov.uk/government/publications/independent-review-on-greenhouse-gas-removals-government-response",
       "description": "",
@@ -27,14 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Capacity Market Rules",
-      "url": "https://www.gov.uk/government/publications/capacity-market-rules",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-20T05:54:38.011488"
+  "check_time": "2026-07-20T08:32:52.567919"
 }
