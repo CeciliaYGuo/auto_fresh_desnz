@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Notice of standards",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-standards",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Notice of approved grant categories and values for the Boiler Upgrade Scheme",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-approved-grant-categories-and-values-for-the-boiler-upgrade-scheme",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
       "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
       "description": "",
@@ -24,13 +45,6 @@
     {
       "title": "Warm Homes Loan Scheme: due diligence and monitoring privacy notice",
       "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-due-diligence-and-monitoring-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes Loan Scheme: due diligence and monitoring privacy notice",
-      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-due-diligence-and-monitoring-privacy-notice/warm-homes-loan-scheme-due-diligence-and-monitoring-privacy-notice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -50,5 +64,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-21T12:45:04.035383"
+  "check_time": "2026-07-21T14:47:43.512811"
 }
