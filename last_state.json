@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2026",
+      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Full details of auction parameters and interconnector de-rating factors",
+      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2026/full-details-of-auction-parameters-and-interconnector-de-rating-factors",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "NESO Electricity Capacity Report 2026: findings of the Panel of Technical Experts",
+      "url": "https://www.gov.uk/government/publications/neso-electricity-capacity-report-2026-findings-of-the-panel-of-technical-experts",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Contracts for Difference (CfD) Allocation Round 8: statutory notices",
       "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
       "description": "",
@@ -22,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-21T04:15:57.177987"
+  "check_time": "2026-07-21T06:41:45.750269"
 }
