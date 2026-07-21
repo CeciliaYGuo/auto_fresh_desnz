@@ -15,15 +15,29 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2026",
-      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2026",
+      "title": "Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
+      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Full details of auction parameters and interconnector de-rating factors",
-      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2026/full-details-of-auction-parameters-and-interconnector-de-rating-factors",
+      "title": "Warm Homes Loan Scheme: due diligence and monitoring privacy notice",
+      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-due-diligence-and-monitoring-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Warm Homes Loan Scheme: due diligence and monitoring privacy notice",
+      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-due-diligence-and-monitoring-privacy-notice/warm-homes-loan-scheme-due-diligence-and-monitoring-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2026",
+      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,14 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Contracts for Difference (CfD) Allocation Round 8: statutory notices",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-statutory-notices",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-21T11:18:31.277429"
+  "check_time": "2026-07-21T12:45:04.035383"
 }
