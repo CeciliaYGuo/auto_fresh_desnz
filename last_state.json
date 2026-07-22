@@ -15,6 +15,34 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Contributing to the IPCC",
+      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contributing to the IPCC: guidance for UK experts",
+      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc/contributing-to-the-ipcc-guidance-for-uk-experts",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Working Group I Contribution to the IPCC AR7, The Physical Science Basis: expert review",
+      "url": "https://www.gov.uk/government/publications/working-group-i-contribution-to-the-ipcc-ar7-the-physical-science-basis-expert-review",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Working Group I Contribution to the IPCC Seventh Assessment Report, The Physical Science Basis: details and how to apply",
+      "url": "https://www.gov.uk/government/publications/working-group-i-contribution-to-the-ipcc-ar7-the-physical-science-basis-expert-review/working-group-i-contribution-to-the-ipcc-seventh-assessment-report-the-physical-science-basis-details-and-how-to-apply",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Carbon capture, usage and storage (CCUS): business models",
       "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
       "description": "",
@@ -31,20 +59,6 @@
     {
       "title": "Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
       "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Notice of standards",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-standards",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Notice of approved grant categories and values for the Boiler Upgrade Scheme",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-approved-grant-categories-and-values-for-the-boiler-upgrade-scheme",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -78,5 +92,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-22T12:15:41.325506"
+  "check_time": "2026-07-22T14:22:45.925195"
 }
