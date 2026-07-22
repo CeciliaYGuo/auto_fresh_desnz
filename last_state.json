@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Carbon capture, usage and storage (CCUS): business models",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "November 2021: Updates on the industrial carbon capture and dispatchable power agreement business models",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models/november-2021-updates-on-the-industrial-carbon-capture-and-dispatchable-power-agreement-business-models",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
       "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
       "description": "",
@@ -64,5 +78,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-22T08:41:27.645947"
+  "check_time": "2026-07-22T10:49:33.843914"
 }
