@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ workforce management information, June 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-june-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Contributing to the IPCC",
       "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
       "description": "",
@@ -36,22 +43,8 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Working Group I Contribution to the IPCC Seventh Assessment Report, The Physical Science Basis: details and how to apply",
-      "url": "https://www.gov.uk/government/publications/working-group-i-contribution-to-the-ipcc-ar7-the-physical-science-basis-expert-review/working-group-i-contribution-to-the-ipcc-seventh-assessment-report-the-physical-science-basis-details-and-how-to-apply",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Carbon capture, usage and storage (CCUS): business models",
       "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "November 2021: Updates on the industrial carbon capture and dispatchable power agreement business models",
-      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models/november-2021-updates-on-the-industrial-carbon-capture-and-dispatchable-power-agreement-business-models",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -76,21 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2026",
-      "url": "https://www.gov.uk/government/publications/capacity-market-auction-parameters-letter-from-desnz-to-neso-july-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "NESO Electricity Capacity Report 2026: findings of the Panel of Technical Experts",
-      "url": "https://www.gov.uk/government/publications/neso-electricity-capacity-report-2026-findings-of-the-panel-of-technical-experts",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-22T14:22:45.925195"
+  "check_time": "2026-07-22T15:53:49.672889"
 }
