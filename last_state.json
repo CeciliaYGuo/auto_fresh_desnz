@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Heat Pump Investment Accelerator Competition: round 2",
+      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat pump investment accelerator competition: round 2 - clarification questions (updated 23 July 2026)",
+      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2/heat-pump-investment-accelerator-competition-round-2-clarification-questions-added-28-may-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ workforce management information, June 2026",
       "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-june-2026",
       "description": "",
@@ -24,13 +38,6 @@
     {
       "title": "Contributing to the IPCC",
       "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Contributing to the IPCC: guidance for UK experts",
-      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc/contributing-to-the-ipcc-guidance-for-uk-experts",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -71,5 +78,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-23T14:55:31.463972"
+  "check_time": "2026-07-23T16:18:23.055966"
 }
