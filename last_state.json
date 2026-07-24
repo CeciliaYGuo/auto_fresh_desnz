@@ -15,6 +15,41 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 2 Phase 2 projects",
+      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-2-phase-2-details-of-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 2 Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-2-phase-1-details-of-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 1 Phase 2 project",
+      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-1-phase-2-details-of-successful-project",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 1 Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-1-phase-1-details-of-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Heat Pump Investment Accelerator Competition: round 2",
       "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
       "description": "",
@@ -69,14 +104,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes Loan Scheme: due diligence and monitoring privacy notice",
-      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-due-diligence-and-monitoring-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-24T08:40:04.681966"
+  "check_time": "2026-07-24T10:36:30.636763"
 }
