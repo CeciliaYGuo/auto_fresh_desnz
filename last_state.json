@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Using UK greenhouse gas inventory data in UK ETS monitoring and reporting: the country-specific factor list",
+      "url": "https://www.gov.uk/government/publications/using-uk-greenhouse-gas-inventory-data-in-uk-ets-monitoring-and-reporting-the-country-specific-factor-list",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
       "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
       "description": "",
@@ -97,14 +104,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
-      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-24T10:36:30.636763"
+  "check_time": "2026-07-24T12:04:28.065729"
 }
