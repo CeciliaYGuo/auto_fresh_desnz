@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Bill discounts for transmission network infrastructure: scheme design update",
+      "url": "https://www.gov.uk/government/publications/bill-discounts-for-transmission-network-infrastructure-scheme-design-update",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Scheme design for bill discounts for new transmission network infrastructure \u2013 update",
+      "url": "https://www.gov.uk/government/publications/bill-discounts-for-transmission-network-infrastructure-scheme-design-update/scheme-design-for-bill-discounts-for-new-transmission-network-infrastructure-update",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Interministerial Group for Net Zero, Energy and Climate Change Communiqu\u00e9: 1 July 2026",
+      "url": "https://www.gov.uk/government/publications/interministerial-group-for-net-zero-energy-and-climate-change-communique-1-july-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Using UK greenhouse gas inventory data in UK ETS monitoring and reporting: the country-specific factor list",
       "url": "https://www.gov.uk/government/publications/using-uk-greenhouse-gas-inventory-data-in-uk-ets-monitoring-and-reporting-the-country-specific-factor-list",
       "description": "",
@@ -24,34 +45,6 @@
     {
       "title": "Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
       "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 2 Phase 2 projects",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-2-phase-2-details-of-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 2 Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-2-phase-1-details-of-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 1 Phase 2 project",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-1-phase-2-details-of-successful-project",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage Demonstration Programme, Stream 1 Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects/longer-duration-energy-storage-demonstration-programme-stream-1-phase-1-details-of-successful-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -69,35 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Contributing to the IPCC",
-      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Working Group I Contribution to the IPCC AR7, The Physical Science Basis: expert review",
-      "url": "https://www.gov.uk/government/publications/working-group-i-contribution-to-the-ipcc-ar7-the-physical-science-basis-expert-review",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Carbon capture, usage and storage (CCUS): business models",
-      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-27T08:15:39.874292"
+  "check_time": "2026-07-27T11:40:14.031351"
 }
