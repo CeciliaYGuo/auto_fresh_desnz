@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Capacity Market Rules",
+      "url": "https://www.gov.uk/government/publications/capacity-market-rules",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Bill discounts for transmission network infrastructure: scheme design update",
       "url": "https://www.gov.uk/government/publications/bill-discounts-for-transmission-network-infrastructure-scheme-design-update",
       "description": "",
@@ -55,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ workforce management information, June 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-june-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-27T11:40:14.031351"
+  "check_time": "2026-07-27T13:56:12.319853"
 }
