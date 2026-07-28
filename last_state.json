@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Impact of growth of data centres on energy consumption",
+      "url": "https://www.gov.uk/government/publications/impact-of-growth-of-data-centres-on-energy-consumption",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "An updated assessment of hydrogen BECCS technologies",
+      "url": "https://www.gov.uk/government/publications/an-updated-assessment-of-hydrogen-beccs-technologies",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Capacity Market Rules",
       "url": "https://www.gov.uk/government/publications/capacity-market-rules",
       "description": "",
@@ -27,28 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Interministerial Group for Net Zero, Energy and Climate Change Communiqu\u00e9: 1 July 2026",
-      "url": "https://www.gov.uk/government/publications/interministerial-group-for-net-zero-energy-and-climate-change-communique-1-july-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Using UK greenhouse gas inventory data in UK ETS monitoring and reporting: the country-specific factor list",
-      "url": "https://www.gov.uk/government/publications/using-uk-greenhouse-gas-inventory-data-in-uk-ets-monitoring-and-reporting-the-country-specific-factor-list",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Longer Duration Energy Storage (LoDES) Demonstration Programme: successful projects",
-      "url": "https://www.gov.uk/government/publications/longer-duration-energy-storage-demonstration-programme-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-28T06:41:05.244080"
+  "check_time": "2026-07-28T09:21:24.062264"
 }
