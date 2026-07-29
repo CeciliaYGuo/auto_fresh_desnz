@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Necessary wayleave and tree lopping/felling applications: privacy notice",
+      "url": "https://www.gov.uk/government/publications/necessary-wayleave-and-tree-loppingfelling-applications-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Privacy notice relating to necessary wayleave and tree lopping/felling applications",
+      "url": "https://www.gov.uk/government/publications/necessary-wayleave-and-tree-loppingfelling-applications-privacy-notice/privacy-notice-relating-to-necessary-wayleave-and-tree-loppingfelling-applications",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Red Diesel Replacement competition: successful projects",
       "url": "https://www.gov.uk/government/publications/red-diesel-replacement-competition-successful-projects",
       "description": "",
@@ -34,14 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "An updated assessment of hydrogen BECCS technologies",
-      "url": "https://www.gov.uk/government/publications/an-updated-assessment-of-hydrogen-beccs-technologies",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-29T15:24:32.072737"
+  "check_time": "2026-07-29T16:43:40.374476"
 }
