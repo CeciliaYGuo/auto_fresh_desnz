@@ -15,19 +15,26 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Energy balance: methodology note",
-      "url": "https://www.gov.uk/government/publications/energy-balance-methodology-note",
+      "title": "Greenhouse gas reporting: conversion factors 2026",
+      "url": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Natural gas statistics: data sources and methodologies",
-      "url": "https://www.gov.uk/government/publications/natural-gas-statistics-data-sources-and-methodologies",
+      "title": "Conversion factors 2026: statement of voluntary compliance with the Code of Practice for Statistics",
+      "url": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2026/conversion-factors-2026-statement-of-voluntary-compliance-with-the-code-of-practice-for-statistics",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy balance: methodology note",
+      "url": "https://www.gov.uk/government/publications/energy-balance-methodology-note",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-07-31T12:05:37.962982"
+  "check_time": "2026-07-31T14:28:10.492048"
 }
