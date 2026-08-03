@@ -15,26 +15,33 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Renewable Energy Planning Database: quarterly extract",
+      "url": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat networks pipelines",
+      "url": "https://www.gov.uk/government/publications/heat-networks-pipelines",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Fuel mix disclosure data table",
+      "url": "https://www.gov.uk/government/publications/fuel-mix-disclosure-data-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Greenhouse gas reporting: conversion factors 2026",
       "url": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Conversion factors 2026: statement of voluntary compliance with the Code of Practice for Statistics",
-      "url": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2026/conversion-factors-2026-statement-of-voluntary-compliance-with-the-code-of-practice-for-statistics",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Energy balance: methodology note",
-      "url": "https://www.gov.uk/government/publications/energy-balance-methodology-note",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-03T06:47:38.183270"
+  "check_time": "2026-08-03T10:27:50.905141"
 }
