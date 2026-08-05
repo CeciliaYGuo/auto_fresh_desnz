@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Renewable Energy Planning Database: quarterly extract",
       "url": "https://www.gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
       "description": "",
@@ -43,5 +50,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-05T11:32:49.201414"
+  "check_time": "2026-08-05T13:13:03.273016"
 }
