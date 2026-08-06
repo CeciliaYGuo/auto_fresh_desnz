@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Youth Climate and Nature Panel",
+      "url": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Young Voices for Climate and Nature",
+      "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "National Buildings Database phase 2: understanding Great Britain\u2019s buildings",
       "url": "https://www.gov.uk/government/publications/national-buildings-database-phase-2-understanding-great-britains-buildings",
       "description": "",
@@ -24,13 +38,6 @@
     {
       "title": "Heat Pump Investment Accelerator Competition: round 2 (closed)",
       "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat pump investment accelerator competition: round 2 - clarification questions (updated 23 July 2026)",
-      "url": "https://www.gov.uk/government/publications/heat-pump-investment-accelerator-competition-round-2/heat-pump-investment-accelerator-competition-round-2-clarification-questions-added-28-may-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -48,14 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat networks pipelines",
-      "url": "https://www.gov.uk/government/publications/heat-networks-pipelines",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-06T13:01:18.428630"
+  "check_time": "2026-08-06T15:20:35.918556"
 }
