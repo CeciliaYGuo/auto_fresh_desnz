@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK ETS Allocation Table for operators of installations",
+      "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Smart Secure Electricity Systems: proposed class exemptions from the requirement to hold a load control licence",
       "url": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-proposed-class-exemptions-from-the-requirement-to-hold-a-load-control-licence",
       "description": "",
@@ -29,5 +36,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-07T16:07:03.103101"
+  "check_time": "2026-08-07T17:03:05.327417"
 }
