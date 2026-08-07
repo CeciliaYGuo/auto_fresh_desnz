@@ -15,26 +15,19 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Smart Secure Electricity Systems: proposed class exemptions from the requirement to hold a load control licence",
+      "url": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-proposed-class-exemptions-from-the-requirement-to-hold-a-load-control-licence",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Fuel poverty statistics methodology handbooks",
       "url": "https://www.gov.uk/government/publications/fuel-poverty-statistics-methodology-handbook",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Home Discount: eligibility statement (England and Wales), 2026 to 2027 scheme year",
-      "url": "https://www.gov.uk/government/publications/warm-home-discount-eligibility-statement-england-and-wales-2026-to-2027-scheme-year",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Youth Climate and Nature Panel",
-      "url": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-07T09:36:37.239421"
+  "check_time": "2026-08-07T10:29:05.962838"
 }
