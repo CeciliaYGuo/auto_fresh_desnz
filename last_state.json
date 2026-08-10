@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Carbon emissions limits in the Capacity Market",
+      "url": "https://www.gov.uk/government/publications/carbon-emissions-limits-in-the-capacity-market",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Apply for the Heat Training Grant: discounted heat pump training",
       "url": "https://www.gov.uk/government/publications/heat-training-grant-for-heat-pumps",
       "description": "",
@@ -50,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-10T13:51:14.009923"
+  "check_time": "2026-08-10T14:45:50.591303"
 }
