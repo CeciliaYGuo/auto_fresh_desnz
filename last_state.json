@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Biomass Feedstocks Innovation Programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Biomass Feedstocks Innovation Programme: Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects/biomass-feedstocks-innovation-programme-phase-1-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Biomass Feedstocks Innovation Programme: Phase 2 projects",
+      "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects/biomass-feedstocks-innovation-programme-phase-2-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Taking part in the UK Emissions Trading Scheme markets",
       "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
       "description": "",
@@ -64,5 +85,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-11T10:23:31.259675"
+  "check_time": "2026-08-11T11:09:21.911129"
 }
