@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Electricity bill discount scheme for transmission network infrastructure: expected eligible projects",
+      "url": "https://www.gov.uk/government/publications/electricity-bill-discount-scheme-for-transmission-network-infrastructure-expected-eligible-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Expected eligible projects",
+      "url": "https://www.gov.uk/government/publications/electricity-bill-discount-scheme-for-transmission-network-infrastructure-expected-eligible-projects/expected-eligible-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Biomass Feedstocks Innovation Programme: successful projects",
       "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
       "description": "",
@@ -38,20 +52,6 @@
     {
       "title": "Taking part in the UK Emissions Trading Scheme markets",
       "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -85,5 +85,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-11T22:26:25.482866"
+  "check_time": "2026-08-11T23:09:43.644676"
 }
