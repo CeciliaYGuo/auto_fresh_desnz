@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "British Sign Language (BSL) 5-year plan: Department for Energy Security and Net Zero",
+      "url": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "British Sign Language 5-year plan: Department for Energy Security and Net Zero (English and BSL versions)",
+      "url": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero-english-and-bsl-versions",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
       "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
       "description": "",
@@ -24,13 +38,6 @@
     {
       "title": "Electricity bill discount scheme for transmission network infrastructure: expected eligible projects",
       "url": "https://www.gov.uk/government/publications/electricity-bill-discount-scheme-for-transmission-network-infrastructure-expected-eligible-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Expected eligible projects",
-      "url": "https://www.gov.uk/government/publications/electricity-bill-discount-scheme-for-transmission-network-infrastructure-expected-eligible-projects/expected-eligible-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -62,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK ETS Allocation Table for operators of installations",
-      "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-12T22:21:00.386619"
+  "check_time": "2026-08-12T23:04:58.760541"
 }
