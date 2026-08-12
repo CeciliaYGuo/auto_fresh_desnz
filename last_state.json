@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
+      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Electricity bill discount scheme for transmission network infrastructure: expected eligible projects",
       "url": "https://www.gov.uk/government/publications/electricity-bill-discount-scheme-for-transmission-network-infrastructure-expected-eligible-projects",
       "description": "",
@@ -31,20 +38,6 @@
     {
       "title": "Biomass Feedstocks Innovation Programme: successful projects",
       "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Biomass Feedstocks Innovation Programme: Phase 1 projects",
-      "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects/biomass-feedstocks-innovation-programme-phase-1-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Biomass Feedstocks Innovation Programme: Phase 2 projects",
-      "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects/biomass-feedstocks-innovation-programme-phase-2-successful-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -76,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Smart Secure Electricity Systems: proposed class exemptions from the requirement to hold a load control licence",
-      "url": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-proposed-class-exemptions-from-the-requirement-to-hold-a-load-control-licence",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-12T15:24:19.701231"
+  "check_time": "2026-08-12T16:14:03.478551"
 }
