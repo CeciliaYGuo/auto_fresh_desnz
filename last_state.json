@@ -15,33 +15,68 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Department for Energy Security and Net Zero major projects: accounting officer assessments",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Small Modular Reactor Programme \u2013 Technology Partner Contract: accounting officer assessment 2026",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments/small-modular-reactor-programme-technology-partner-contract-accounting-officer-assessment-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Track-1 expansion of the HyNet CCUS cluster process Outline Business Case (OBC): accounting officer assessment 2025",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments/track-1-expansion-of-the-hynet-ccus-cluster-process-outline-business-case-obc-accounting-officer-assessment-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Track-1 Carbon Capture, Usage and Storage Programme - HyNet and East Coast Cluster: accounting officer assessment 2024",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments/track-1-carbon-capture-usage-and-storage-programme-hynet-and-east-coast-cluster-accounting-officer-assessment-2024",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Spherical Tokamak for Energy Production: Accounting officer assessment, 2023",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments/spherical-tokamak-for-energy-production-accounting-officer-assessment-2023",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Boiler Upgrade Scheme (BUS): accounting officer assessment",
+      "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments/boiler-upgrade-scheme-bus-accounting-officer-assessment",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Small modular reactor Technology Partner: summary business case",
+      "url": "https://www.gov.uk/government/publications/small-modular-reactor-technology-partner-summary-business-case",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Small modular reactor Owner\u2019s Engineer Procurement: summary business case",
+      "url": "https://www.gov.uk/government/publications/small-modular-reactor-owners-engineer-procurement-summary-business-case",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "British Sign Language (BSL) 5-year plan: Department for Energy Security and Net Zero",
       "url": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-department-for-energy-security-and-net-zero",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
-      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity bill discount scheme for transmission network infrastructure: expected eligible projects",
-      "url": "https://www.gov.uk/government/publications/electricity-bill-discount-scheme-for-transmission-network-infrastructure-expected-eligible-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Biomass Feedstocks Innovation Programme: successful projects",
-      "url": "https://www.gov.uk/government/publications/biomass-feedstocks-innovation-programme-successful-projects",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-17T14:36:12.979472"
+  "check_time": "2026-08-17T14:56:08.242554"
 }
