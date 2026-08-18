@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Apply for the Heat Network Efficiency Scheme (HNES): Round 13",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Department for Energy Security and Net Zero major projects: accounting officer assessments",
       "url": "https://www.gov.uk/government/publications/department-for-energy-security-and-net-zero-major-projects-accounting-officer-assessments",
       "description": "",
@@ -36,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-18T12:01:14.675173"
+  "check_time": "2026-08-18T12:55:21.121219"
 }
