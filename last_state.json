@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Compliance with the Convention on Nuclear Safety Obligations: 10th national report",
+      "url": "https://www.gov.uk/government/publications/compliance-with-the-convention-on-nuclear-safety-obligations-10th-national-report",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ annual report and accounts 2025 to 2026",
       "url": "https://www.gov.uk/government/publications/desnz-annual-report-and-accounts-2025-to-2026",
       "description": "",
@@ -76,14 +83,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Small modular reactor Owner\u2019s Engineer Procurement: summary business case",
-      "url": "https://www.gov.uk/government/publications/small-modular-reactor-owners-engineer-procurement-summary-business-case",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-08-19T08:31:22.241401"
+  "check_time": "2026-08-19T09:05:46.488638"
 }
