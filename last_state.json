@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Non-domestic smart meters: energy supplier obligations",
+      "url": "https://www.gov.uk/government/publications/non-domestic-smart-meters-energy-supplier-obligations",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Non-domestic smart meter rollout: energy supplier obligations",
+      "url": "https://www.gov.uk/government/publications/non-domestic-smart-meters-energy-supplier-obligations/non-domestic-smart-meter-rollout-energy-supplier-obligations",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Communicating the rollout of smart-contingent contracts to non-domestic customers",
+      "url": "https://www.gov.uk/government/publications/communicating-the-rollout-of-smart-contingent-contracts-to-non-domestic-customers",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK ETS Allocation Table for operators of installations",
       "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
       "description": "",
@@ -27,84 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 July 2026",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-july-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 30 April 2026",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-30-april-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 January 2026",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-january-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 October 2025",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-october-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 July 2025",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-july-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 30 April 2025",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-30-april-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 January 2025",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-january-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 October 2024",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-october-2024",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 31 July 2024",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-31-july-2024",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Gas Support Scheme expenditure forecast statement for the quarter ending 30 April 2024",
-      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-ggss-expenditure-forecast-statements-and-tariff-change-notices/green-gas-support-scheme-expenditure-forecast-statement-for-the-quarter-ending-30-april-2024",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Social Housing Decarbonisation Fund Wave 1: impact evaluation",
-      "url": "https://www.gov.uk/government/publications/social-housing-decarbonisation-fund-wave-1-impact-evaluation",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-01T06:47:10.768490"
+  "check_time": "2026-09-01T12:03:45.309732"
 }
