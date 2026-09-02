@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Jackdaw Field Development",
+      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Non-domestic smart meters: energy supplier obligations",
       "url": "https://www.gov.uk/government/publications/non-domestic-smart-meters-energy-supplier-obligations",
       "description": "",
@@ -29,5 +36,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-02T10:00:49.382681"
+  "check_time": "2026-09-02T14:11:50.962626"
 }
