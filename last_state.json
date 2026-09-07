@@ -15,19 +15,40 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Oil and gas: OPRED communications, 2026",
-      "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "title": "Electricity consumption data in subnational consumption statistics and the National Energy Efficiency Data-framework: privacy notice",
+      "url": "https://www.gov.uk/government/publications/electricity-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "EM on energy and tyre labelling simplification (COM(2026)565)",
-      "url": "https://www.gov.uk/government/publications/em-on-energy-and-tyre-labelling-simplification-com2026565",
+      "title": "Use of electricity consumption data in subnational consumption statistics and the National Energy Efficiency Data-framework: privacy notice",
+      "url": "https://www.gov.uk/government/publications/electricity-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice/use-of-electricity-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Guidance for fixed bottom and floating offshore wind projects on monitoring the implementation of Clean Industry Bonus",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance/guidance-for-fixed-bottom-and-floating-offshore-wind-projects-on-monitoring-the-implementation-of-clean-industry-bonus-draft",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Fair Work Charter: signatories list",
+      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance/fair-work-charter-signatories-list",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-07T05:18:01.432021"
+  "check_time": "2026-09-07T10:25:36.849438"
 }
