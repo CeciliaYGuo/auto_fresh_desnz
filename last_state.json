@@ -15,15 +15,71 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "AI deployment in electricity networks: independent review",
-      "url": "https://www.gov.uk/government/publications/ai-deployment-in-electricity-networks-independent-review",
+      "title": "Local net zero: support for local authorities and communities",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "The grid we need now: terms of reference",
-      "url": "https://www.gov.uk/government/publications/ai-deployment-in-electricity-networks-independent-review/review-of-ai-deployment-in-the-electricity-networks-terms-of-reference",
+      "title": "Local net zero: central support for local authorities and communities",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/local-net-zero-central-support-for-local-authorities-and-communities",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "GBE Community Fund (GBECF) projects (September 2026)",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-february-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Community Energy Fund projects (May 2026)",
+      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-may-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "IPCC Methodology Report on Inventories for Short-lived Climate Forcers: Second Order Draft expert review",
+      "url": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-second-order-draft-expert-review",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "IPCC Methodology Report on Inventories for Short-lived Climate Forcers: details and how to apply",
+      "url": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-second-order-draft-expert-review/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-details-and-how-to-apply",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contributing to the IPCC",
+      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Contributing to the IPCC: guidance for UK experts",
+      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc/contributing-to-the-ipcc-guidance-for-uk-experts",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ Main Estimate Memorandum 2024 to 2025",
+      "url": "https://www.gov.uk/government/publications/desnz-main-estimate-memorandum-2024-to-2025",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "AI deployment in electricity networks: independent review",
+      "url": "https://www.gov.uk/government/publications/ai-deployment-in-electricity-networks-independent-review",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,28 +90,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Oil and gas: OPRED communications, 2026",
-      "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
-      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Apply for the Heat Network Efficiency Scheme (HNES): Round 13",
-      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-08T13:34:13.658898"
+  "check_time": "2026-09-08T17:24:25.349641"
 }
