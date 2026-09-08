@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "AI deployment in electricity networks: independent review",
+      "url": "https://www.gov.uk/government/publications/ai-deployment-in-electricity-networks-independent-review",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "The grid we need now: terms of reference",
+      "url": "https://www.gov.uk/government/publications/ai-deployment-in-electricity-networks-independent-review/review-of-ai-deployment-in-the-electricity-networks-terms-of-reference",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Apply for the Heat Training Grant: discounted heat pump training",
+      "url": "https://www.gov.uk/government/publications/heat-training-grant-for-heat-pumps",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Oil and gas: OPRED communications, 2026",
       "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
       "description": "",
@@ -34,28 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Gas consumption data in subnational consumption statistics and the National Energy Efficiency Data-framework: privacy notice",
-      "url": "https://www.gov.uk/government/publications/gas-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity consumption data in subnational consumption statistics and the National Energy Efficiency Data-framework: privacy notice",
-      "url": "https://www.gov.uk/government/publications/electricity-consumption-data-in-subnational-consumption-statistics-and-the-national-energy-efficiency-data-framework-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Contracts for Difference (CfD) Allocation Round 8: Clean Industry Bonus framework and guidance",
-      "url": "https://www.gov.uk/government/publications/contracts-for-difference-cfd-allocation-round-8-clean-industry-bonus-framework-and-guidance",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-08T09:10:30.668510"
+  "check_time": "2026-09-08T13:34:13.658898"
 }
