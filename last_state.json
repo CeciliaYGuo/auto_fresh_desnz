@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Oil and gas: OPRED communications, 2026",
+      "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Standards for official statistics published by DESNZ",
       "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
       "description": "",
@@ -92,36 +99,8 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Local net zero: central support for local authorities and communities",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/local-net-zero-central-support-for-local-authorities-and-communities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "GBE Community Fund (GBECF) projects (September 2026)",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-february-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Community Energy Fund projects (May 2026)",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-may-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "IPCC Methodology Report on Inventories for Short-lived Climate Forcers: Second Order Draft expert review",
       "url": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-second-order-draft-expert-review",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "IPCC Methodology Report on Inventories for Short-lived Climate Forcers: details and how to apply",
-      "url": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-second-order-draft-expert-review/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-details-and-how-to-apply",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -146,14 +125,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Apply for the Heat Training Grant: discounted heat pump training",
-      "url": "https://www.gov.uk/government/publications/heat-training-grant-for-heat-pumps",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-09T13:43:31.018077"
+  "check_time": "2026-09-09T17:17:23.839021"
 }
