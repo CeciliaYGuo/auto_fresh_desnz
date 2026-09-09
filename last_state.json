@@ -15,6 +15,76 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Standards for official statistics published by DESNZ",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Statement of Code compliance",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/statement-of-code-compliance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ Statistics work programme",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/desnz-statistics-work-programme",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Statistics release policy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/statistics-release-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Statistics revisions policy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/statistics-revisions-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Public involvement and engagement strategy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/public-involvement-and-engagement-strategy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Quality management approach",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/quality-management-approach",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Data management policy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/data-management-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Confidentiality policy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/confidentiality-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Analysis function reproducible analytical pipelines (RAP) strategy 2023: DESNZ implementation plan",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/analysis-function-reproducible-analytical-pipelines-rap-strategy-2023-desnz-implementation-plan",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Local net zero: support for local authorities and communities",
       "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
       "description": "",
@@ -64,13 +134,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Contributing to the IPCC: guidance for UK experts",
-      "url": "https://www.gov.uk/government/publications/contributing-to-the-ipcc/contributing-to-the-ipcc-guidance-for-uk-experts",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "DESNZ Main Estimate Memorandum 2024 to 2025",
       "url": "https://www.gov.uk/government/publications/desnz-main-estimate-memorandum-2024-to-2025",
       "description": "",
@@ -92,5 +155,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-09T04:52:19.817437"
+  "check_time": "2026-09-09T09:14:49.923754"
 }
