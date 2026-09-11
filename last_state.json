@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Youth Climate and Nature Panel (closed to applications)",
+      "url": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Taking part in the UK Emissions Trading Scheme markets",
       "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
       "description": "",
@@ -43,13 +50,6 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "The Renewables Obligation to Exchequer Scheme Expenditure: 1 April to 30 June 2026",
-      "url": "https://www.gov.uk/government/publications/renewables-obligation-to-exchequer-scheme-expenditure-1-april-to-30-june-2026/the-renewables-obligation-to-exchequer-scheme-expenditure-1-april-to-30-june-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Oil and gas: OPRED communications, 2026",
       "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
       "description": "",
@@ -69,14 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "IPCC Methodology Report on Inventories for Short-lived Climate Forcers: Second Order Draft expert review",
-      "url": "https://www.gov.uk/government/publications/ipcc-methodology-report-on-inventories-for-short-lived-climate-forcers-second-order-draft-expert-review",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-11T21:59:11.117017"
+  "check_time": "2026-09-11T23:53:25.326173"
 }
