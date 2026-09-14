@@ -15,22 +15,43 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Global Fusion Policy Summit: joint statement on fusion energy",
+      "url": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Joint statement on fusion energy",
+      "url": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy/joint-statement-on-fusion-energy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Electricity networks growth: draft social and environmental guidance to GEMA",
+      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Jackdaw Field Development",
+      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Advanced Nuclear Technologies",
+      "url": "https://www.gov.uk/government/publications/advanced-nuclear-technologies",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK carbon management innovation challenge (expression of interest closed)",
       "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK carbon management innovation challenge (accessible webpage)",
-      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge/uk-carbon-management-innovation-challenge-accessible-webpage",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK carbon management innovation challenge: challenge coalition guidance (accessible webpage) (expression of interest closed)",
-      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge/uk-carbon-management-innovation-challenge-challenge-coalition-guidance-accessible-webpage",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -48,28 +69,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Youth Climate and Nature Panel (closed to applications)",
-      "url": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Renewables Obligation to Exchequer Scheme Expenditure: 1 April to 30 June 2026",
-      "url": "https://www.gov.uk/government/publications/renewables-obligation-to-exchequer-scheme-expenditure-1-april-to-30-june-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-14T13:06:48.068855"
+  "check_time": "2026-09-14T18:33:00.859063"
 }
