@@ -15,6 +15,41 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK carbon management innovation challenge (expression of interest closed)",
+      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK carbon management innovation challenge (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge/uk-carbon-management-innovation-challenge-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK carbon management innovation challenge: challenge coalition guidance (accessible webpage) (expression of interest closed)",
+      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge/uk-carbon-management-innovation-challenge-challenge-coalition-guidance-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Fusion regulation landscape",
+      "url": "https://www.gov.uk/government/publications/fusion-regulation-landscape",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK fusion investment prospectus",
+      "url": "https://www.gov.uk/government/publications/uk-fusion-investment-prospectus",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Youth Climate and Nature Panel (closed to applications)",
       "url": "https://www.gov.uk/government/publications/youth-climate-and-nature-panel",
       "description": "",
@@ -29,40 +64,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Renewables Obligation to Exchequer Scheme Expenditure: 1 April to 30 June 2026",
       "url": "https://www.gov.uk/government/publications/renewables-obligation-to-exchequer-scheme-expenditure-1-april-to-30-june-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Oil and gas: OPRED communications, 2026",
-      "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Standards for official statistics published by DESNZ",
-      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-14T06:25:38.951286"
+  "check_time": "2026-09-14T13:06:48.068855"
 }
