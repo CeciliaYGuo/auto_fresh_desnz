@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Norfolk Vanguard Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/norfolk-vanguard-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "National Energy Efficiency Data-framework statistics - HM Revenue and Customs (HMRC) data: privacy notice",
       "url": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-hm-revenue-and-customs-hmrc-data-privacy-notice",
       "description": "",
@@ -55,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK carbon management innovation challenge (expression of interest closed)",
-      "url": "https://www.gov.uk/government/publications/uk-carbon-management-innovation-challenge",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-15T14:28:51.961801"
+  "check_time": "2026-09-15T18:22:19.326917"
 }
