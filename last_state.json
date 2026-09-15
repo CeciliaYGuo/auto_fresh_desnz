@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Global Fusion Policy Summit: joint statement on fusion energy",
-      "url": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy",
+      "title": "National Energy Efficiency Data-framework statistics - HM Revenue and Customs (HMRC) data: privacy notice",
+      "url": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-hm-revenue-and-customs-hmrc-data-privacy-notice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Joint statement on fusion energy",
-      "url": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy/joint-statement-on-fusion-energy",
+      "title": "Use of HM Revenue and Customs (HMRC) data in the National Energy Efficiency Data-framework statistics: privacy notice",
+      "url": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-hm-revenue-and-customs-hmrc-data-privacy-notice/use-of-valuations-office-agency-voa-data-in-the-national-energy-efficiency-data-framework-statistics-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Global Fusion Policy Summit: joint statement on fusion energy",
+      "url": "https://www.gov.uk/government/publications/global-fusion-policy-summit-joint-statement-on-fusion-energy",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Fusion regulation landscape",
-      "url": "https://www.gov.uk/government/publications/fusion-regulation-landscape",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-15T09:44:27.542915"
+  "check_time": "2026-09-15T14:28:51.961801"
 }
