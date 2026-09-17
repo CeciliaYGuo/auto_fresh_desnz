@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Warm Homes Loan Scheme: end-user privacy notice",
+      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-end-user-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Warm Homes Loan Scheme: end-user privacy notice",
+      "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-end-user-privacy-notice/warm-homes-loan-scheme-end-user-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Norfolk Vanguard Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/norfolk-vanguard-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
       "description": "",
@@ -34,21 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity networks growth: draft social and environmental guidance to GEMA",
-      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Jackdaw Field Development",
-      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-17T05:16:11.824779"
+  "check_time": "2026-09-17T10:01:11.032033"
 }
