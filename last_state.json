@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Electricity networks growth: draft social and environmental guidance to GEMA",
+      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Electricity networks growth: draft social and environmental guidance to GEMA (accessible HTML)",
+      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema/electricity-networks-growth-social-and-environmental-guidance-to-gema-accessible-html",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Warm Homes Loan Scheme: apply to participate as a lender (Phase 1)",
       "url": "https://www.gov.uk/government/publications/warm-homes-loan-scheme-apply-to-participate-as-a-lender-phase-1",
       "description": "",
@@ -27,21 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Norfolk Vanguard Offshore Wind Farm: post-consent condition discharge, Planning Act 2008",
-      "url": "https://www.gov.uk/government/publications/norfolk-vanguard-offshore-wind-farm-post-consent-condition-discharge-planning-act-2008",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "National Energy Efficiency Data-framework statistics - HM Revenue and Customs (HMRC) data: privacy notice",
-      "url": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-hm-revenue-and-customs-hmrc-data-privacy-notice",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-18T11:14:27.137760"
+  "check_time": "2026-09-18T14:59:14.886421"
 }
