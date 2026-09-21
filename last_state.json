@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "DESNZ workforce management information, August 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-august-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Ambient gamma radiation dose rates across the UK",
       "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
       "description": "",
@@ -24,13 +31,6 @@
     {
       "title": "Electricity networks growth: draft social and environmental guidance to GEMA",
       "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity networks growth: draft social and environmental guidance to GEMA (accessible HTML)",
-      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema/electricity-networks-growth-social-and-environmental-guidance-to-gema-accessible-html",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -50,5 +50,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-21T06:28:26.166239"
+  "check_time": "2026-09-21T13:07:53.330108"
 }
