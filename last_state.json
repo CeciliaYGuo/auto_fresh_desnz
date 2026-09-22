@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK Offshore Energy Strategic Environmental Assessment: research",
+      "url": "https://www.gov.uk/government/publications/uk-offshore-energy-strategic-environmental-assessment-research-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ workforce management information, August 2026",
       "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-august-2026",
       "description": "",
@@ -27,14 +34,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity networks growth: draft social and environmental guidance to GEMA",
-      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-22T10:08:57.601794"
+  "check_time": "2026-09-22T14:47:21.027756"
 }
