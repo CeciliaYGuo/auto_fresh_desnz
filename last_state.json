@@ -15,29 +15,15 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK space cooling market landscape update",
+      "url": "https://www.gov.uk/government/publications/uk-space-cooling-market-landscape-update",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Local net zero: support for local authorities and communities",
       "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Local net zero: central support for local authorities and communities",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/local-net-zero-central-support-for-local-authorities-and-communities",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "GBE Community Fund (GBECF) projects (September 2026)",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-february-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Community Energy Fund projects (May 2026)",
-      "url": "https://www.gov.uk/government/publications/local-net-zero-support-for-local-authorities-and-communities/community-energy-fund-projects-may-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -69,14 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a325,000, December 2025",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-25000-december-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-24T15:11:48.893342"
+  "check_time": "2026-09-24T19:07:00.909678"
 }
