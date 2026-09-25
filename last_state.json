@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Renewables obligation level calculations: 2027 to 2028",
+      "url": "https://www.gov.uk/government/publications/renewables-obligation-level-calculations-2027-to-2028",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Calculating the level of the Renewables Obligation for 2027 to 2028",
+      "url": "https://www.gov.uk/government/publications/renewables-obligation-level-calculations-2027-to-2028/calculating-the-level-of-the-renewables-obligation-for-2027-to-2028",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Oil and gas: OPRED communications, 2026",
+      "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK space cooling market landscape update",
       "url": "https://www.gov.uk/government/publications/uk-space-cooling-market-landscape-update",
       "description": "",
@@ -41,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: senior officials\u2019 business expenses and hospitality, April to June 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-senior-officials-business-expenses-and-hospitality-april-to-june-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-09-25T10:14:26.529601"
+  "check_time": "2026-09-25T15:16:00.929530"
 }
