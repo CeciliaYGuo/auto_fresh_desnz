@@ -13,6 +13,14 @@
   ],
   "specific_page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
   "specific_page_last_updated": "Unknown",
-  "desnz_publications": [],
-  "check_time": "2026-10-05T05:48:48.627305"
+  "desnz_publications": [
+    {
+      "title": "Electricity transmission licence exemption: Dogger Bank A wind farm, 2026",
+      "url": "https://www.gov.uk/government/publications/electricity-transmission-licence-exemption-dogger-bank-a-wind-farm-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    }
+  ],
+  "check_time": "2026-10-05T12:42:22.186701"
 }
