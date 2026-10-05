@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Five Estuaries Offshore Wind Farm: Correction of errors, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/five-estuaries-offshore-wind-farm-correction-of-errors-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Electricity transmission licence exemption: Dogger Bank A wind farm, 2026",
       "url": "https://www.gov.uk/government/publications/electricity-transmission-licence-exemption-dogger-bank-a-wind-farm-2026",
       "description": "",
@@ -22,5 +29,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-05T12:42:22.186701"
+  "check_time": "2026-10-05T20:51:22.298563"
 }
