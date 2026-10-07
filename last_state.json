@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "LionLink multi-purpose interconnector, Section 35 Direction Variation, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/lionlink-multi-purpose-interconnector-section-35-direction-variation-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Five Estuaries Offshore Wind Farm: Correction of errors, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/five-estuaries-offshore-wind-farm-correction-of-errors-planning-act-2008",
       "description": "",
@@ -29,5 +36,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-07T02:26:58.034323"
+  "check_time": "2026-10-07T09:00:03.731275"
 }
