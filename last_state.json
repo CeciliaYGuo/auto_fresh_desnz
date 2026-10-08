@@ -15,26 +15,19 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Green Hill Solar Farm: development consent order, Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/green-hill-solar-farm-development-consent-order-planning-act-2008",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "LionLink multi-purpose interconnector, Section 35 Direction Variation, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/lionlink-multi-purpose-interconnector-section-35-direction-variation-planning-act-2008",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Five Estuaries Offshore Wind Farm: Correction of errors, Planning Act 2008",
-      "url": "https://www.gov.uk/government/publications/five-estuaries-offshore-wind-farm-correction-of-errors-planning-act-2008",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity transmission licence exemption: Dogger Bank A wind farm, 2026",
-      "url": "https://www.gov.uk/government/publications/electricity-transmission-licence-exemption-dogger-bank-a-wind-farm-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-08T14:32:38.592596"
+  "check_time": "2026-10-08T20:03:13.019302"
 }
