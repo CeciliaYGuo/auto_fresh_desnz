@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Energy Related Products Policy and Energy Technology List (ETL): privacy notice",
+      "url": "https://www.gov.uk/government/publications/energy-technology-list-etl-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Related Products Policy and Energy Technology List (ETL): privacy notice",
+      "url": "https://www.gov.uk/government/publications/energy-technology-list-etl-privacy-notice/energy-related-products-policy-and-energy-technology-list-etl-privacy-notice",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Green Hill Solar Farm: development consent order, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/green-hill-solar-farm-development-consent-order-planning-act-2008",
       "description": "",
@@ -29,5 +43,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-09T06:09:17.143246"
+  "check_time": "2026-10-09T13:09:05.658239"
 }
