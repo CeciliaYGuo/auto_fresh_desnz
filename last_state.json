@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Oil and gas: OPRED communications, 2026",
+      "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Apply for the Heat Network Efficiency Scheme (HNES)",
+      "url": "https://www.gov.uk/government/publications/heat-network-efficiency-scheme-hnes",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Steeple Renewables Project: development consent order, Planning Act 2008",
       "url": "https://www.gov.uk/government/publications/steeple-renewables-project-development-consent-order-planning-act-2008",
       "description": "",
@@ -29,26 +43,12 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "DESNZ register of senior civil servants' secondary paid employment, April 2025 to March 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-senior-civil-servant-secondary-paid-employment-2025-to-2026/desnz-register-of-senior-civil-servants-secondary-paid-employment-april-2025-to-march-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Energy Related Products Policy and Energy Technology List (ETL): privacy notice",
       "url": "https://www.gov.uk/government/publications/energy-technology-list-etl-privacy-notice",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Hill Solar Farm: development consent order, Planning Act 2008",
-      "url": "https://www.gov.uk/government/publications/green-hill-solar-farm-development-consent-order-planning-act-2008",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-12T06:33:11.840778"
+  "check_time": "2026-10-12T15:58:56.184705"
 }
