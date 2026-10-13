@@ -15,22 +15,36 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Heating oil: government response to CMA market study",
+      "url": "https://www.gov.uk/government/publications/heating-oil-government-response-to-cma-market-study",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Government response to the CMA heating oil market study",
+      "url": "https://www.gov.uk/government/publications/heating-oil-government-response-to-cma-market-study/government-response-to-the-cma-heating-oil-market-study",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Carbon capture, usage and storage (CCUS): business models",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "November 2021: Updates on the industrial carbon capture and dispatchable power agreement business models",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models/november-2021-updates-on-the-industrial-carbon-capture-and-dispatchable-power-agreement-business-models",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Taking part in the UK Emissions Trading Scheme markets",
       "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -48,14 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Steeple Renewables Project: development consent order, Planning Act 2008",
-      "url": "https://www.gov.uk/government/publications/steeple-renewables-project-development-consent-order-planning-act-2008",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-13T03:10:45.418816"
+  "check_time": "2026-10-13T10:28:14.774553"
 }
