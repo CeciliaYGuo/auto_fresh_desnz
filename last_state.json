@@ -15,6 +15,34 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Pathways to SF6 free distribution networks",
+      "url": "https://www.gov.uk/government/publications/pathways-to-sf6-free-distribution-networks",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Notice of standards",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-standards",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Notice of approved grant categories and values for the Boiler Upgrade Scheme",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-approved-grant-categories-and-values-for-the-boiler-upgrade-scheme",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "DESNZ workforce management information, September 2026",
       "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-september-2026",
       "description": "",
@@ -43,5 +71,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-20T11:56:41.292390"
+  "check_time": "2026-10-20T16:08:31.505732"
 }
