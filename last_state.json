@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Public sector emissions measurement and reporting guidance",
+      "url": "https://www.gov.uk/government/publications/public-sector-emissions-measurement-and-reporting-guidance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Emissions measurement and reporting: Technical report and insights for the public sector in England (HTML)",
+      "url": "https://www.gov.uk/government/publications/public-sector-emissions-measurement-and-reporting-guidance/emissions-measurement-and-reporting-technical-report-and-insights-for-the-public-sector-in-england-html",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Jackdaw Field Development",
       "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
       "description": "",
@@ -34,21 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ workforce management information, September 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-september-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Retrofit System Reform Advisory Panel: terms of reference",
-      "url": "https://www.gov.uk/government/publications/retrofit-system-reform-advisory-panel-terms-of-reference",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-21T10:52:39.786256"
+  "check_time": "2026-10-21T15:39:38.831893"
 }
