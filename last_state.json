@@ -15,15 +15,43 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Public sector emissions measurement and reporting guidance",
-      "url": "https://www.gov.uk/government/publications/public-sector-emissions-measurement-and-reporting-guidance",
+      "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Emissions measurement and reporting: Technical report and insights for the public sector in England (HTML)",
-      "url": "https://www.gov.uk/government/publications/public-sector-emissions-measurement-and-reporting-guidance/emissions-measurement-and-reporting-technical-report-and-insights-for-the-public-sector-in-england-html",
+      "title": "UK Emissions Trading Scheme (UK ETS): a policy overview",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Taking part in the UK Emissions Trading Scheme markets",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
+      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Public sector emissions measurement and reporting guidance",
+      "url": "https://www.gov.uk/government/publications/public-sector-emissions-measurement-and-reporting-guidance",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -50,5 +78,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-21T15:39:38.831893"
+  "check_time": "2026-10-21T19:34:43.814287"
 }
