@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Jackdaw Field Development",
+      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Pathways to SF6 free distribution networks",
       "url": "https://www.gov.uk/government/publications/pathways-to-sf6-free-distribution-networks",
       "description": "",
@@ -24,20 +31,6 @@
     {
       "title": "Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
       "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Notice of standards",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-standards",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Notice of approved grant categories and values for the Boiler Upgrade Scheme",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels/notice-of-approved-grant-categories-and-values-for-the-boiler-upgrade-scheme",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -55,21 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Young Voices for Climate and Nature",
-      "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Warm Homes: Local Grant: privacy notice for end-users (householders, landlords and installers)",
-      "url": "https://www.gov.uk/government/publications/warm-homes-local-grant-privacy-notice-for-end-users-householders-landlords-and-installers",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-21T05:56:04.725704"
+  "check_time": "2026-10-21T10:52:39.786256"
 }
