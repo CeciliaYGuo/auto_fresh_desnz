@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Spray foam insulation: Remediation, removal and lending",
+      "url": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Spray foam insulation: Remediation, removal and lending",
+      "url": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending/spray-foam-insulation-remediation-removal-and-lending",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Network (Metering and Billing) Regulations 2014: registered heat networks",
+      "url": "https://www.gov.uk/government/publications/heat-network-metering-and-billing-regulations-2014-registered-heat-networks",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
       "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
       "description": "",
@@ -22,29 +43,8 @@
       "found_on": "desnz_search"
     },
     {
-      "title": "UK Emissions Trading Scheme (UK ETS): a policy overview",
-      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
       "title": "Taking part in the UK Emissions Trading Scheme markets",
       "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Cost Containment Mechanism (CCM) trigger prices and average monthly prices: full tables",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/cost-containment-mechanism-ccm-trigger-prices-and-average-monthly-prices-full-table",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -62,21 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Pathways to SF6 free distribution networks",
-      "url": "https://www.gov.uk/government/publications/pathways-to-sf6-free-distribution-networks",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Boiler Upgrade Scheme Regulations: approved standards, grant categories and grant levels",
-      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-regulations-approved-standards-grant-categories-and-grant-levels",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-22T05:29:40.132997"
+  "check_time": "2026-10-22T10:27:01.065642"
 }
