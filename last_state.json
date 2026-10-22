@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Spray foam insulation: Remediation, removal and lending",
-      "url": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending",
+      "title": "The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
+      "url": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
+      "url": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
       "title": "Spray foam insulation: Remediation, removal and lending",
-      "url": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending/spray-foam-insulation-remediation-removal-and-lending",
+      "url": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -48,21 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Public sector emissions measurement and reporting guidance",
-      "url": "https://www.gov.uk/government/publications/public-sector-emissions-measurement-and-reporting-guidance",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Jackdaw Field Development",
-      "url": "https://www.gov.uk/government/publications/jackdaw-field-development",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-22T10:27:01.065642"
+  "check_time": "2026-10-22T15:25:52.157319"
 }
