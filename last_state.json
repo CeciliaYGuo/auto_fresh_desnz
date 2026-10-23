@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
-      "url": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
+      "title": "Strategic Spatial Energy Plan (SSEP): timeline extension",
+      "url": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-ssep-timeline-extension",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Strategic Spatial Energy Plan: deadline extension",
+      "url": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-deadline-extension",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
       "title": "The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
-      "url": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
+      "url": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -41,21 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
-      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-23T05:24:33.481522"
+  "check_time": "2026-10-23T10:15:35.105634"
 }
