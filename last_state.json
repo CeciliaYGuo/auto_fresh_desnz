@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK national risk assessment on security of gas supply 2026",
+      "url": "https://www.gov.uk/government/publications/uk-national-risk-assessment-on-security-of-gas-supply-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Strategic Spatial Energy Plan (SSEP): timeline extension",
       "url": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-ssep-timeline-extension",
       "description": "",
@@ -34,21 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Spray foam insulation: Remediation, removal and lending",
-      "url": "https://www.gov.uk/government/publications/spray-foam-insulation-remediation-removal-and-lending",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Heat Network (Metering and Billing) Regulations 2014: registered heat networks",
-      "url": "https://www.gov.uk/government/publications/heat-network-metering-and-billing-regulations-2014-registered-heat-networks",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-23T10:15:35.105634"
+  "check_time": "2026-10-23T15:05:33.546559"
 }
