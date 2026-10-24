@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Young Voices for Climate and Nature (closed)",
+      "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK national risk assessment on security of gas supply 2026",
       "url": "https://www.gov.uk/government/publications/uk-national-risk-assessment-on-security-of-gas-supply-2026",
       "description": "",
@@ -34,14 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "The Renewables Obligation to Exchequer Scheme Expenditure: 1 July to 30 September 2026",
-      "url": "https://www.gov.uk/government/publications/the-renewables-obligation-to-exchequer-scheme-expenditure-1-july-to-30-september-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-24T04:48:25.732379"
+  "check_time": "2026-10-24T09:09:20.398686"
 }
