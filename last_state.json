@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Oil and gas: OPRED communications, 2026",
+      "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Young Voices for Climate and Nature (closed)",
       "url": "https://www.gov.uk/government/publications/young-voices-for-climate-and-nature",
       "description": "",
@@ -43,5 +50,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-26T05:21:15.074148"
+  "check_time": "2026-10-26T11:16:21.860712"
 }
