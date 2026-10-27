@@ -15,6 +15,27 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Carbon capture, usage and storage (CCUS): business models",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "November 2021: Updates on the industrial carbon capture and dispatchable power agreement business models",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models/november-2021-updates-on-the-industrial-carbon-capture-and-dispatchable-power-agreement-business-models",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Summary of questions included in the DESNZ Public Attitudes Tracker",
+      "url": "https://www.gov.uk/government/publications/summary-of-questions-included-in-the-desnz-public-attitudes-tracker",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UKAEA financial transactions statistical data from 2026 to 2027",
       "url": "https://www.gov.uk/government/publications/ukaea-financial-transactions-statistical-data-from-2026-to-2027",
       "description": "",
@@ -34,21 +55,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Policy appraisal: risk-opportunity analysis (ROA)",
-      "url": "https://www.gov.uk/government/publications/policy-appraisal-risk-opportunity-analysis-roa",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "2026 post-implementation review of the SECR regulations 2018",
-      "url": "https://www.gov.uk/government/publications/2026-post-implementation-review-of-the-secr-regulations-2018",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-27T05:41:05.897098"
+  "check_time": "2026-10-27T10:58:08.511070"
 }
