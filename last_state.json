@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Carbon capture, usage and storage (CCUS): business models",
-      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "title": "Frodsham Solar project: development consent order Planning Act 2008",
+      "url": "https://www.gov.uk/government/publications/frodsham-solar-project-development-consent-order-planning-act-2008",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "November 2021: Updates on the industrial carbon capture and dispatchable power agreement business models",
-      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models/november-2021-updates-on-the-industrial-carbon-capture-and-dispatchable-power-agreement-business-models",
+      "title": "Post-Consent Unit: guidance on discharging requirements",
+      "url": "https://www.gov.uk/government/publications/post-consent-unit-guidance-on-discharging-requirements",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Carbon capture, usage and storage (CCUS): business models",
+      "url": "https://www.gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,28 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "UKAEA financial transactions statistical data from 2026 to 2027",
-      "url": "https://www.gov.uk/government/publications/ukaea-financial-transactions-statistical-data-from-2026-to-2027",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UKAEA financial transactions statistical data from 2025 to 2026",
-      "url": "https://www.gov.uk/government/publications/ukaea-financial-transactions-statistical-data-from-2025-to-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UKAEA financial transactions statistical data from 2024 to 2025",
-      "url": "https://www.gov.uk/government/publications/ukaea-financial-transactions-statistical-data-from-2024-to-2025",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-27T10:58:08.511070"
+  "check_time": "2026-10-27T16:10:26.628060"
 }
