@@ -13,6 +13,42 @@
   ],
   "specific_page_title": "Capacity Market auction parameters: letter from DESNZ to NESO, July 2025",
   "specific_page_last_updated": "Unknown",
-  "desnz_publications": [],
-  "check_time": "2026-10-29T13:50:21.186816"
+  "desnz_publications": [
+    {
+      "title": "DESNZ: spending over \u00a325,000, January 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-spending-over-25000-january-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ: spending over \u00a3500, June 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-spending-over-500-june-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ: spending over \u00a3500, July 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-spending-over-500-july-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ: spending over \u00a325,000, March 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-spending-over-25000-march-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ: spending over \u00a325,000, February 2026",
+      "url": "https://www.gov.uk/government/publications/desnz-spending-over-25000-february-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    }
+  ],
+  "check_time": "2026-10-29T19:16:39.898643"
 }
