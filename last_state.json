@@ -15,6 +15,13 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK ETS Allocation Table for operators of installations",
+      "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Smart Secure Electricity Systems (SSES) tariff interoperability: code modifications for Phase 1a",
       "url": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-tariff-interoperability-code-modifications-for-phase-1a",
       "description": "",
@@ -57,5 +64,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-10-30T15:29:23.058283"
+  "check_time": "2026-10-30T19:59:19.158477"
 }
