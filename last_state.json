@@ -15,6 +15,41 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Energy Act 2013 (Part 3): annual report, 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/energy-act-2013-part-3-annual-report-2025-to-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Act 2013 (Part 3): annual report, 1 April 2025 to 31 March 2026 (HTML)",
+      "url": "https://www.gov.uk/government/publications/energy-act-2013-part-3-annual-report-2025-to-2026/energy-act-2013-part-3-annual-report-1-april-2025-to-31-march-2026-html",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Gas Support Scheme: budget management",
+      "url": "https://www.gov.uk/government/publications/green-gas-support-scheme-budget-management",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Green Book supplementary guidance: valuation of energy use and greenhouse gas emissions for appraisal",
+      "url": "https://www.gov.uk/government/publications/valuation-of-energy-use-and-greenhouse-gas-emissions-for-appraisal",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Load Control Licence: standard licence conditions",
+      "url": "https://www.gov.uk/government/publications/load-control-licence-standard-licence-conditions",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "UK ETS Allocation Table for operators of installations",
       "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
       "description": "",
@@ -27,42 +62,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a325,000, January 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-25000-january-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a3500, June 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-500-june-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a3500, July 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-500-july-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a325,000, March 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-25000-march-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ: spending over \u00a325,000, February 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-spending-over-25000-february-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-11-02T08:10:31.367940"
+  "check_time": "2026-11-02T18:14:44.126325"
 }
