@@ -15,15 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Energy Act 2013 (Part 3): annual report, 2025 to 2026",
-      "url": "https://www.gov.uk/government/publications/energy-act-2013-part-3-annual-report-2025-to-2026",
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://www.gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Energy Act 2013 (Part 3): annual report, 1 April 2025 to 31 March 2026 (HTML)",
-      "url": "https://www.gov.uk/government/publications/energy-act-2013-part-3-annual-report-2025-to-2026/energy-act-2013-part-3-annual-report-1-april-2025-to-31-march-2026-html",
+      "title": "Independent regulatory skills and capability review of the Office of Gas and Electricity Markets (Ofgem)",
+      "url": "https://www.gov.uk/government/publications/independent-regulatory-skills-and-capability-review-of-the-office-of-gas-and-electricity-markets-ofgem",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Act 2013 (Part 3): annual report, 2025 to 2026",
+      "url": "https://www.gov.uk/government/publications/energy-act-2013-part-3-annual-report-2025-to-2026",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,35 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Green Book supplementary guidance: valuation of energy use and greenhouse gas emissions for appraisal",
-      "url": "https://www.gov.uk/government/publications/valuation-of-energy-use-and-greenhouse-gas-emissions-for-appraisal",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Load Control Licence: standard licence conditions",
-      "url": "https://www.gov.uk/government/publications/load-control-licence-standard-licence-conditions",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "UK ETS Allocation Table for operators of installations",
-      "url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Smart Secure Electricity Systems (SSES) tariff interoperability: code modifications for Phase 1a",
-      "url": "https://www.gov.uk/government/publications/smart-secure-electricity-systems-sses-tariff-interoperability-code-modifications-for-phase-1a",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-11-03T07:31:30.289237"
+  "check_time": "2026-11-03T15:25:27.330867"
 }
