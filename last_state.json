@@ -15,78 +15,22 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Boiler Upgrade Scheme: approval to over-allocate vouchers, November 2026",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-approval-to-over-allocate-vouchers-november-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Approval to over-allocate vouchers for the Boiler Upgrade Scheme, November 2026",
+      "url": "https://www.gov.uk/government/publications/boiler-upgrade-scheme-approval-to-over-allocate-vouchers-november-2026/approval-to-over-allocate-vouchers-for-the-boiler-upgrade-scheme-november-2026",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Energy Independence Bill: factsheets",
       "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Energy Independence Bill overview",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/energy-independence-bill-overview",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Asset visibility installer obligation",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/asset-visibility-installer-obligation",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Changes to powers of the North Sea Transition Authority",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/changes-to-powers-of-the-north-sea-transition-authority",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity network infrastructure \u2013 consents, land access and rights",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/electricity-network-infrastructure-consents-land-access-and-rights",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Employment rights for offshore renewable workers",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/employment-rights-for-offshore-renewable-workers",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Ending new coal mining",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/ending-new-coal-mining",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Ending new oil and gas licences and introducing Transitional Energy Certificates",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/ending-new-oil-and-gas-licences-and-introducing-transitional-energy-certificates",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Extending the core fuels regulatory regime to the gas sector",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/extending-the-core-fuels-regulatory-regime-to-the-gas-sector",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Mandatory Community Benefits for generation",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/mandatory-community-benefits-for-generation",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Reformed National Pricing",
-      "url": "https://www.gov.uk/government/publications/energy-independence-bill-factsheets/reformed-national-pricing",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -113,5 +57,5 @@
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-11-05T08:27:58.241614"
+  "check_time": "2026-11-05T16:38:34.947994"
 }
