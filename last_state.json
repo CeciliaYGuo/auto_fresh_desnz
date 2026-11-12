@@ -15,6 +15,20 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "UK clean electrification roadmap",
+      "url": "https://www.gov.uk/government/publications/uk-clean-electrification-roadmap",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "The UK\u2019s clean electrification roadmap",
+      "url": "https://www.gov.uk/government/publications/uk-clean-electrification-roadmap/the-uks-clean-electrification-roadmap",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "National Energy Efficiency Data-framework statistics - Gas Safe Register data: privacy notice",
       "url": "https://www.gov.uk/government/publications/national-energy-efficiency-data-framework-statistics-gas-safe-register-data-privacy-notice",
       "description": "",
@@ -27,14 +41,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Taking part in the UK Emissions Trading Scheme markets",
-      "url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-11-12T03:44:35.348571"
+  "check_time": "2026-11-12T11:52:14.802992"
 }
