@@ -15,19 +15,33 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Electricity networks growth: social and environmental guidance to GEMA",
-      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
+      "title": "V2X Innovation Programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/v2x-innovation-programme-successful-projects",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "Electricity networks growth: social and environmental guidance to GEMA (HTML)",
-      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema/electricity-networks-growth-social-and-environmental-guidance-to-gema-accessible-html",
+      "title": "V2X Innovation Programme: Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/v2x-innovation-programme-successful-projects/v2x-innovation-programme-phase-1-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "V2X Innovation Programme: Phase 2 projects",
+      "url": "https://www.gov.uk/government/publications/v2x-innovation-programme-successful-projects/v2x-innovation-programme-phase-2-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Electricity networks growth: social and environmental guidance to GEMA",
+      "url": "https://www.gov.uk/government/publications/electricity-networks-growth-social-and-environmental-guidance-to-gema",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-11-18T06:55:13.361009"
+  "check_time": "2026-11-18T16:01:18.471263"
 }
