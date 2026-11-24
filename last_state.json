@@ -15,15 +15,29 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
-      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "title": "Nuclear Regulatory Review: joint ministerial letter to industry",
+      "url": "https://www.gov.uk/government/publications/nuclear-regulatory-review-joint-ministerial-letter-to-industry",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     },
     {
-      "title": "UK Emissions Trading Scheme (UK ETS): a policy overview",
-      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview",
+      "title": "Nuclear Regulatory Review: joint ministerial letter to industry (accessible webpage)",
+      "url": "https://www.gov.uk/government/publications/nuclear-regulatory-review-joint-ministerial-letter-to-industry/nuclear-regulatory-review-joint-ministerial-letter-to-industry-accessible-webpage",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Electricity transmission licence exemption: Neart na Gaoithe Wind Farm",
+      "url": "https://www.gov.uk/government/publications/electricity-transmission-licence-exemption-neart-na-gaoithe-wind-farm",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "UK Emissions Trading Scheme (UK ETS): policy overview",
+      "url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
@@ -34,21 +48,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "DESNZ workforce management information, October 2026",
-      "url": "https://www.gov.uk/government/publications/desnz-workforce-management-information-october-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Electricity transmission licence exemption: Dogger Bank A wind farm, 2026",
-      "url": "https://www.gov.uk/government/publications/electricity-transmission-licence-exemption-dogger-bank-a-wind-farm-2026",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-11-24T01:45:26.795388"
+  "check_time": "2026-11-24T11:38:34.827463"
 }
