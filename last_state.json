@@ -15,6 +15,76 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
+      "title": "Standards for official statistics published by DESNZ",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Statement of Code compliance",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/statement-of-code-compliance",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "DESNZ Statistics work programme",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/desnz-statistics-work-programme",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Statistics release policy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/statistics-release-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Statistics revisions policy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/statistics-revisions-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Public involvement and engagement strategy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/public-involvement-and-engagement-strategy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Quality management approach",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/quality-management-approach",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Data management policy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/data-management-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Confidentiality policy",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/confidentiality-policy",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Analysis function reproducible analytical pipelines (RAP) strategy 2023: DESNZ implementation plan",
+      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz/analysis-function-reproducible-analytical-pipelines-rap-strategy-2023-desnz-implementation-plan",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
       "title": "Designated standards: water heaters",
       "url": "https://www.gov.uk/government/publications/designated-standards-water-heaters",
       "description": "",
@@ -41,42 +111,7 @@
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
-    },
-    {
-      "title": "Designated standards: dishwashers",
-      "url": "https://www.gov.uk/government/publications/designated-standards-dishwashers",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Designated standards: Solid fuel boilers",
-      "url": "https://www.gov.uk/government/publications/designated-standards-solid-fuel-boilers",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Designated standards: refrigerating appliances with direct sales function",
-      "url": "https://www.gov.uk/government/publications/designated-standards-refrigerating-appliances-with-direct-sales-function",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Designated standards: Space Heaters and combination heaters",
-      "url": "https://www.gov.uk/government/publications/designated-standards-space-heaters-and-combination-heaters",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
-    },
-    {
-      "title": "Designated standards: welding equipment",
-      "url": "https://www.gov.uk/government/publications/designated-standards-welding-equipment",
-      "description": "",
-      "date": "Unknown",
-      "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-11-25T04:27:59.736273"
+  "check_time": "2026-11-25T14:46:12.946766"
 }
