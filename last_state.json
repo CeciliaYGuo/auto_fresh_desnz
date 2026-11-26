@@ -15,12 +15,68 @@
   "specific_page_last_updated": "Unknown",
   "desnz_publications": [
     {
-      "title": "Standards for official statistics published by DESNZ",
-      "url": "https://www.gov.uk/government/publications/standards-for-official-statistics-published-by-desnz",
+      "title": "Heat Pump Ready Programme: successful projects",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Ready Programme: Stream 1 Phase 1 projects",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects/heat-pump-ready-programme-stream-1-phase-1-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Ready Programme: Stream 1 Phase 2 projects",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects/heat-pump-ready-programme-stream-1-phase-2-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Ready Programme: Stream 2 projects",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects/heat-pump-ready-programme-stream-2-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Ready Programme: Stream 2 Wave 2 projects",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects/heat-pump-ready-programme-stream-2-wave-2-projects",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Ready Programme: Stream 3 programme outputs",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects/heat-pump-ready-programme-stream-3-funding-award",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Heat Pump Ready Programme: Stream 3 videos",
+      "url": "https://www.gov.uk/government/publications/heat-pump-ready-programme-successful-projects/heat-pump-ready-programme-stream-3-videos",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Energy Savings Opportunity Scheme (Phase 3): interim evaluation",
+      "url": "https://www.gov.uk/government/publications/energy-savings-opportunity-scheme-phase-3-interim-evaluation",
+      "description": "",
+      "date": "Unknown",
+      "found_on": "desnz_search"
+    },
+    {
+      "title": "Warm Homes: Local Grant and Warm Homes: Social Housing Fund Statistics methodology and background note",
+      "url": "https://www.gov.uk/government/publications/warm-homes-local-grant-and-warm-homes-social-housing-fund-statistics-methodology-and-background-note",
       "description": "",
       "date": "Unknown",
       "found_on": "desnz_search"
     }
   ],
-  "check_time": "2026-11-26T05:11:02.831486"
+  "check_time": "2026-11-26T15:06:00.237253"
 }
